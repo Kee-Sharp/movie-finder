@@ -2,7 +2,6 @@
 import requests
 import time
 import json
-import math
 import copy
 import csv
 import utils
@@ -10,10 +9,8 @@ import pathlib
 
 def main(args):
     nameFile = input("What file contains your list of names? (include extension)\n")
-    names = []
     with open(nameFile, "r") as nF:
-        names = nF.readlines()
-        names = [name.strip() for name in names]
+        names = [name.strip() for name in nF.readlines()]
     URL = "https://api.themoviedb.org/3"
     key = "bed5288deb39663ad0bb3a8ed2625f4a"
     payload = {"api_key": key, "include_adult": False, "language": "en-US"}
@@ -33,7 +30,18 @@ def main(args):
     masterMovieList = []
     movie_payload = {'api_key': key}
     searchType, nameField = ("crew", "crew_member") if input("Searching actors or directors?\n") == "directors" else ("cast", "actor/actress") 
-    time.sleep(0.8)
+    with open("genres.json", "r") as gF:
+        genres = json.loads(gF.read())
+    searchGenres = []
+    genre = input("Any particular genre to search? Type 'done' if no.\n").lower()
+    while genre != "done":
+        if genre not in genres:
+            genre = input("Genre not recognized. Try again or type 'done' to continue.\n").lower()
+        else:
+            searchGenres.append(genre)
+            genre = input("Add another genre or type 'done' to continue.\n").lower()
+    genreIds = ",".join([str(genres[g]) for g in searchGenres])
+    movie_payload["with_genres"] = genreIds
     print("Getting movie details...")
     for i, n in enumerate(nameToIds):
         if count % 40 == 39:
