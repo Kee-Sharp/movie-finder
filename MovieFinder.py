@@ -8,11 +8,23 @@ import utils
 import pathlib
 
 def main(args):
-    nameFile = input("What file contains your list of names? (include extension)\n")
-    with open(nameFile, "r") as nF:
-        names = [name.strip() for name in nF.readlines()]
     URL = "https://api.themoviedb.org/3"
     key = "bed5288deb39663ad0bb3a8ed2625f4a"
+    nameFile = input("What file contains your list of names? (include extension)\n")
+    while nameFile != "manual" and nameFile != "done":
+        if not pathlib.os.path.exists(nameFile):
+            nameFile = input("File not recognized. Try again or type 'manual' to enter names manually.\n").lower()
+        else:
+            with open(nameFile, "r") as nF:
+                names = [name.strip() for name in nF.readlines()]
+            nameFile = "done"
+    if nameFile == "manual":
+        names = []
+        name = input("Type each name and then press enter. Entering names will stop when you press enter twice.\n")
+        while len(name) != 0:
+            names.append(name)
+            name = input("")
+    
     payload = {"api_key": key, "include_adult": False, "language": "en-US"}
     count = 1
     nameToIds = {}
@@ -72,7 +84,6 @@ def main(args):
     with open("output/"+output+".json", "w") as f:
         f.write(json.dumps(nameToMovies))
     with open("output/"+output+".csv", "w", newline="") as out:
-        
         writer = csv.DictWriter(out, fieldnames=["id", "title","release_date","budget", "revenue", nameField, "genres", "belongs_to_collection","runtime"], extrasaction="ignore")
         writer.writeheader()
         for m in masterMovieList:
