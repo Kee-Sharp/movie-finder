@@ -13,7 +13,9 @@ def main(args):
     nameFile = input("What file contains your list of names? (include extension)\n")
     while nameFile != "manual" and nameFile != "done":
         if not pathlib.os.path.exists(nameFile):
-            nameFile = input("File not recognized. Try again or type 'manual' to enter names manually.\n").lower()
+            nameFile = input("File not recognized. Try again or type 'manual' to enter names manually.\n")
+        elif ".txt" not in nameFile:
+            nameFile = input("File is not a text file. Try again or type 'manual' to enter names manually.\n")
         else:
             with open(nameFile, "r") as nF:
                 names = [name.strip() for name in nF.readlines()]
