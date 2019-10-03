@@ -1,10 +1,54 @@
-id,title,release_date,budget,revenue,crew_member,genres,belongs_to_collection,runtime
-407451,A Wrinkle in Time,2018-03-08,103000000,132675864,Ava DuVernay,"['Adventure', 'Science Fiction', 'Family', 'Fantasy']",False,109
-512021,The New Gods,,0,0,Ava DuVernay,"['Science Fiction', 'Action']",False,
-45167,Pumzi,2009-10-20,35000,0,Wanuri Kahiu,"['Science Fiction', 'Drama']",False,21
-501098,Brown Girl Begins,2018-08-17,0,0,Sharon Lewis,"['Science Fiction', 'Fantasy']",False,70
-431101,Chains,2009-02-01,0,0,Sharon Lewis,['Science Fiction'],False,10
-549511,The Last Two Lovers at the End of the World,2017-12-01,0,0,Nefertite Nguvu,"['Drama', 'Romance', 'Science Fiction']",False,20
-634523,Miss Universe,,0,0,Lupita Nyong'o,"['Science Fiction', 'Comedy']",False,
-425908,Silver Sable,,0,0,Gina Prince-Bythewood,"['Action', 'Science Fiction']",False,
-422904,The Changing Same,2001-10-10,0,0,Cauleen Smith,"['Drama', 'Science Fiction']",False,9
+id,title,release_date,budget,revenue,actor/actress,genres,belongs_to_collection,runtime
+486131,Shaft,2019-06-14,30000000,21360215,Samuel Jackson,"['Action', 'Crime', 'Comedy']",True,111
+390043,The Hitman's Bodyguard,2017-08-16,30000000,176586701,Samuel Jackson,"['Action', 'Comedy']",True,118
+207703,Kingsman: The Secret Service,2014-12-13,81000000,414351546,Samuel Jackson,"['Crime', 'Comedy', 'Action', 'Adventure']",True,129
+27581,The Other Guys,2010-08-06,100000000,170432927,Samuel Jackson,"['Action', 'Comedy', 'Crime']",False,107
+9602,Coming to America,1988-06-29,39000000,288752301,Samuel Jackson,"['Comedy', 'Romance']",False,116
+184,Jackie Brown,1997-12-24,12000000,39673162,Samuel Jackson,"['Crime', 'Thriller', 'Drama', 'Comedy']",False,154
+248574,Barely Lethal,2015-04-30,0,6075,Samuel Jackson,"['Adventure', 'Comedy', 'Action']",False,96
+9644,National Lampoon's Loaded Weapon 1,1993-02-04,0,0,Samuel Jackson,"['Comedy', 'Crime', 'Action']",False,84
+8285,The Spirit,2008-12-25,60000000,39031337,Samuel Jackson,"['Action', 'Comedy', 'Thriller', 'Crime', 'Science Fiction']",False,103
+133931,Zambezia,2012-06-05,20000000,0,Samuel Jackson,"['Comedy', 'Animation', 'Adventure', 'Family']",False,83
+1389,Out of Sight,1998-06-26,48000000,77745568,Samuel Jackson,"['Romance', 'Comedy', 'Crime']",False,123
+1613,The 51st State,2001-12-07,28,14,Samuel Jackson,"['Thriller', 'Action', 'Comedy', 'Crime']",False,93
+423949,Unicorn Store,2017-09-11,0,0,Samuel Jackson,"['Fantasy', 'Drama', 'Comedy']",False,92
+340275,Chi-Raq,2015-12-04,0,0,Samuel Jackson,"['Music', 'Drama', 'Crime', 'Comedy']",False,127
+9074,The Man,2005-09-08,0,12382362,Samuel Jackson,"['Action', 'Comedy', 'Crime']",False,83
+41823,Mo' Better Blues,1990-08-03,10000000,16153593,Samuel Jackson,"['Drama', 'Romance', 'Music', 'Comedy']",False,129
+20759,The Great White Hype,1996-05-03,0,0,Samuel Jackson,"['Comedy', 'Drama']",False,91
+31000,Amos & Andrew,1993-03-05,0,0,Samuel Jackson,"['Action', 'Comedy']",False,96
+17159,Eddie Murphy Raw,1987-11-25,0,50504655,Samuel Jackson,['Comedy'],False,90
+27845,Trees Lounge,1996-05-11,1300000,0,Samuel Jackson,"['Comedy', 'Drama']",False,95
+225565,That Awkward Moment,2014-01-29,8000000,26049082,Michael B Jordan,"['Comedy', 'Romance']",False,94
+20857,Hardball,2001-09-14,32000000,40222729,Michael B Jordan,"['Comedy', 'Romance']",False,106
+920,Cars,2006-06-08,120000000,461983149,Tom Hanks,"['Animation', 'Adventure', 'Comedy', 'Family']",True,117
+301528,Toy Story 4,2019-06-19,175000000,519802847,Tom Hanks,"['Adventure', 'Animation', 'Comedy', 'Family']",True,100
+13,Forrest Gump,1994-07-06,55000000,677945399,Tom Hanks,"['Comedy', 'Drama', 'Romance']",False,142
+862,Toy Story,1995-10-30,30000000,373554033,Tom Hanks,"['Animation', 'Comedy', 'Family']",True,81
+863,Toy Story 2,1999-10-30,90000000,497366869,Tom Hanks,"['Animation', 'Comedy', 'Family']",True,92
+10193,Toy Story 3,2010-06-16,200000000,1066969703,Tom Hanks,"['Animation', 'Family', 'Comedy']",True,103
+35,The Simpsons Movie,2007-07-26,75000000,527068851,Tom Hanks,"['Animation', 'Comedy', 'Family']",False,87
+2619,Splash,1984-03-09,8000000,69821334,Tom Hanks,"['Comedy', 'Fantasy', 'Romance']",True,111
+12309,Bachelor Party,1984-06-29,6000000,38435947,Tom Hanks,['Comedy'],True,105
+594,The Terminal,2004-06-17,60000000,219417255,Tom Hanks,"['Comedy', 'Drama']",False,128
+11974,The 'Burbs,1989-02-17,18000000,36602000,Tom Hanks,"['Comedy', 'Horror', 'Thriller']",False,102
+9489,You've Got Mail,1998-12-17,65000000,250821495,Tom Hanks,"['Comedy', 'Romance']",False,119
+6951,Turner & Hooch,1989-07-28,13000000,71079915,Tom Hanks,"['Action', 'Comedy', 'Thriller', 'Crime', 'Family']",False,100
+2280,Big,1988-06-03,18000000,151668774,Tom Hanks,"['Fantasy', 'Drama', 'Comedy', 'Romance', 'Family']",False,104
+270010,A Hologram for the King,2016-04-22,30000000,4212494,Tom Hanks,"['Comedy', 'Drama']",False,97
+11287,A League of Their Own,1992-07-01,40000000,132440069,Tom Hanks,"['Comedy', 'Drama']",False,128
+77887,Hawaiian Vacation,2011-06-16,0,0,Tom Hanks,"['Animation', 'Family', 'TV Movie', 'Comedy']",False,6
+10466,The Money Pit,1986-03-15,10000000,54999651,Tom Hanks,"['Comedy', 'Romance']",False,91
+256835,Toy Story That Time Forgot,2014-12-02,0,0,Tom Hanks,"['Animation', 'Family', 'TV Movie', 'Adventure', 'Comedy', 'Fantasy']",False,22
+140823,Saving Mr. Banks,2013-11-16,35000000,112544580,Tom Hanks,"['Comedy', 'Drama', 'History']",False,125
+612460,Peter's To-Do List,2019-09-17,0,0,Tom Holland,"['Action', 'Science Fiction', 'Adventure', 'Comedy']",False,3
+508439,Onward,2020-03-04,0,0,Tom Holland,"['Animation', 'Comedy', 'Family', 'Fantasy', 'Adventure']",False,
+448119,Dolittle,2020-01-17,175000000,0,Tom Holland,"['Family', 'Comedy', 'Adventure', 'Fantasy', 'Action']",False,
+414017,Tweet,2015-06-15,0,0,Tom Holland,['Comedy'],False,3
+284053,Thor: Ragnarok,2017-10-25,180000000,853977126,Tom Hiddleston,"['Action', 'Adventure', 'Comedy', 'Fantasy']",True,131
+387592,Early Man,2018-01-26,50000000,53431158,Tom Hiddleston,"['Family', 'Comedy', 'Animation', 'Adventure']",False,89
+59436,Midnight in Paris,2011-05-11,30000000,151119219,Tom Hiddleston,"['Fantasy', 'Comedy', 'Romance']",False,94
+145220,Muppets Most Wanted,2014-03-20,50000000,80383290,Tom Hiddleston,"['Comedy', 'Adventure', 'Crime', 'Family']",True,112
+539572,Leading Lady Parts,2018-07-30,0,0,Tom Hiddleston,['Comedy'],False,11
+194952,Friend Request Pending,2011-10-13,7500,0,Tom Hiddleston,"['Comedy', 'Drama']",False,12
+136066,Stars In Shorts,2012-09-28,0,0,Tom Hiddleston,['Comedy'],False,107
