@@ -1,0 +1,16 @@
+What file contains your list of names? (include extension)
+non_existant_file.txt
+File not recognized. Try again or type 'manual' to enter names manually.
+Black_directors
+File not recognized. Try again or type 'manual' to enter names manually.
+Black_Directors.txt
+Searching actors or directors?
+directors
+Any particular genre to search? Type 'done' if no.
+AcTio
+Genre not recognized. Try again or type 'done' to continue.
+ActioN
+Add another genre or type 'done' to continue.
+done
+What name should the csv and json files be saved under?
+logTest

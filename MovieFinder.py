@@ -8,16 +8,17 @@ import utils
 import pathlib
 
 def main(args):
-    # TMDb endpoint and API key
+    # TMDb Base Url and API key
     URL = "https://api.themoviedb.org/3"
     key = "bed5288deb39663ad0bb3a8ed2625f4a"
-    nameFile = input("What file contains your list of names? (include extension)\n")
+    log = { "lines": [] }
+    nameFile = inp("What file contains your list of names? (include extension)", log)
     # Handles potential errors with user input for the file
     while nameFile != "manual" and nameFile != "done":
         if not pathlib.os.path.exists(nameFile):
-            nameFile = input("File not recognized. Try again or type 'manual' to enter names manually.\n")
+            nameFile = inp("File not recognized. Try again or type 'manual' to enter names manually.", log)
         elif ".txt" not in nameFile:
-            nameFile = input("File is not a text file. Try again or type 'manual' to enter names manually.\n")
+            nameFile = inp("File is not a text file. Try again or type 'manual' to enter names manually.", log)
         else:
             with open(nameFile, "r") as nF:
                 names = [name.strip() for name in nF.readlines()]
@@ -25,10 +26,10 @@ def main(args):
     # If this option is chosen, the user will enter names one by one
     if nameFile == "manual":
         names = []
-        name = input("Type each name and then press enter. Entering names will stop when you press enter twice.\n")
+        name = inp("Type each name and then press enter. Entering names will stop when you press enter twice.", log)
         while len(name) != 0:
             names.append(name)
-            name = input("")
+            name = inp("")
     # Base payload that will be used for each name
     payload = {"api_key": key, "include_adult": False, "language": "en-US"}
     count = 1
@@ -49,18 +50,18 @@ def main(args):
     masterMovieList = []
     # Base movie payload used for each movie
     movie_payload = {'api_key': key}
-    searchType, nameField = ("crew", "crew_member") if input("Searching actors or directors?\n") == "directors" else ("cast", "actor/actress") 
+    searchType, nameField = ("crew", "crew_member") if inp("Searching actors or directors?", log) == "directors" else ("cast", "actor/actress") 
     with open("genres.json", "r") as gF:
         genres = json.loads(gF.read())
     searchGenres = []
-    genre = input("Any particular genre to search? Type 'done' if no.\n").lower()
+    genre = inp("Any particular genre to search? Type 'done' if no.", log).lower()
     # Handles pottential errors with user input for searching genres
     while genre != "done":
         if genre not in genres:
-            genre = input("Genre not recognized. Try again or type 'done' to continue.\n").lower()
+            genre = inp("Genre not recognized. Try again or type 'done' to continue.", log).lower()
         else:
             searchGenres.append(genre)
-            genre = input("Add another genre or type 'done' to continue.\n").lower()
+            genre = inp("Add another genre or type 'done' to continue.", log).lower()
     genreIds = ",".join([str(genres[g]) for g in searchGenres])
     movie_payload["with_genres"] = genreIds
     print("Getting movie details...")
@@ -89,22 +90,27 @@ def main(args):
             count += 1
         nameToMovies[n] = {'id': nameToIds[n], 'results': movieDetails}
         utils.showProgress(i+1, len(nameToIds))
-    output = input("What name should the csv and json files be saved under?\n")
+    output = inp("What name should the csv and json files be saved under?", log)
     time.sleep(0.8)
     # Creates output folder and adds the csv file with all of the relevant detail + the json file with 
     # the nameToMovies dictionary for reference
     if not pathlib.os.path.exists("output"):
         pathlib.Path("output").mkdir()
-    with open("output/"+output+".json", "w") as f:
-        f.write(json.dumps(nameToMovies))
-    with open("output/"+output+".csv", "w", newline="") as out:
+    with open(f"output/{output}.json", "w") as f1:
+        f1.write(json.dumps(nameToMovies))
+    with open(f"output/{output}.csv", "w", newline="") as out:
         writer = csv.DictWriter(out, fieldnames=["id", "title","release_date","budget", "revenue", nameField, "genres", "belongs_to_collection","runtime"], extrasaction="ignore")
         writer.writeheader()
         for m in masterMovieList:
             writer.writerow(m)
+    with open(f"output/{output}.log", "w") as f2:
+        for line in log["lines"]:
+            f2.write(line+"\n")
 
-
-
+def inp(s, log):
+    val = input(s+"\n")
+    log["lines"].extend([s, val])
+    return val
 
 if __name__ == "__main__":
     import sys
