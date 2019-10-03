@@ -22,9 +22,11 @@ def main(args):
         else:
             with open(nameFile, "r") as nF:
                 names = [name.strip() for name in nF.readlines()]
+            log["inputNames"] = nameFile.lower()
             nameFile = "done"
     # If this option is chosen, the user will enter names one by one
     if nameFile == "manual":
+        log["inputNames"] = "manual"
         names = []
         name = inp("Type each name and then press enter. Entering names will stop when you press enter twice.", log)
         while len(name) != 0:
@@ -38,6 +40,7 @@ def main(args):
     # Loop through each name in the list, searching TMDb for associated ids.
     # Assumes the correct person is the first search result for the name.
     for i, name in enumerate(names):
+        # TMDb API only allows 40 requests per 10 seconds
         if count % 40 == 39:
             time.sleep(10)
         payload["query"] = name
@@ -90,6 +93,7 @@ def main(args):
             count += 1
         nameToMovies[n] = {'id': nameToIds[n], 'results': movieDetails}
         utils.showProgress(i+1, len(nameToIds))
+    log["count"] = len(masterMovieList)
     output = inp("What name should the csv and json files be saved under?", log)
     time.sleep(0.8)
     # Creates output folder and adds the csv file with all of the relevant detail + the json file with 
@@ -104,6 +108,16 @@ def main(args):
         for m in masterMovieList:
             writer.writerow(m)
     with open(f"output/{output}.log", "w") as f2:
+        p1 = "names inputted at run time" if log["inputNames"] == "manual" else log["inputNames"]
+        if not len(searchGenres):
+            p2 = "no search genres" 
+        elif len(searchGenres) == 1:
+            p2 = f"{searchGenres[0]} as a search genre"
+        else:
+            p2 = f"{', '.join(searchGenres[0:-1])} and {searchGenres[-1]} as search genres"
+        p3 = log["count"]
+        f2.write(f"Application run on {p1} using {p2} with {p3} result(s)\n\n")
+        f2.write("Program lines: \n")
         for line in log["lines"]:
             f2.write(line+"\n")
 

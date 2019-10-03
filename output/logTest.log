@@ -1,15 +1,22 @@
+Application run on example_name_file.txt using action, adventure and comedy as search genres with 36 result(s)
+
+Program lines: 
 What file contains your list of names? (include extension)
 non_existant_file.txt
 File not recognized. Try again or type 'manual' to enter names manually.
-Black_directors
+example_name_file
 File not recognized. Try again or type 'manual' to enter names manually.
-Black_Directors.txt
+Example_NAme_fiLE.txt
 Searching actors or directors?
-directors
+actors
 Any particular genre to search? Type 'done' if no.
-AcTio
+actio
 Genre not recognized. Try again or type 'done' to continue.
-ActioN
+Action
+Add another genre or type 'done' to continue.
+adventure
+Add another genre or type 'done' to continue.
+comedY
 Add another genre or type 'done' to continue.
 done
 What name should the csv and json files be saved under?

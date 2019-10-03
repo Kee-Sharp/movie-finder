@@ -1,6 +1,37 @@
-id,title,release_date,budget,revenue,crew_member,genres,belongs_to_collection,runtime
-512021,The New Gods,,0,0,Ava DuVernay,"['Science Fiction', 'Action']",False,
-12253,Biker Boyz,2003-01-31,24000000,23510601,Gina Prince-Bythewood,"['Action', 'Drama']",False,110
-14736,Love & Basketball,2000-04-21,20000000,27728118,Gina Prince-Bythewood,"['Action', 'Comedy', 'Drama', 'Romance']",False,124
-547016,The Old Guard,,0,0,Gina Prince-Bythewood,['Action'],False,
-425908,Silver Sable,,0,0,Gina Prince-Bythewood,"['Action', 'Science Fiction']",False,
+id,title,release_date,budget,revenue,actor/actress,genres,belongs_to_collection,runtime
+20678,Blankman,1994-08-19,0,0,Robin Givens,"['Action', 'Adventure', 'Comedy']",False,96
+12610,Osmosis Jones,2001-08-07,75000000,13596911,Brandy Norwood,"['Adventure', 'Animation', 'Action', 'Comedy', 'Family']",False,95
+83361,McCinsey's Island,1998-02-23,0,0,Grace Jones,"['Action', 'Adventure', 'Comedy']",False,95
+283995,Guardians of the Galaxy Vol. 2,2017-04-19,200000000,863756051,Zoe Saldana,"['Action', 'Adventure', 'Comedy', 'Science Fiction']",True,137
+447365,Guardians of the Galaxy Vol. 3,,0,0,Zoe Saldana,"['Action', 'Adventure', 'Science Fiction', 'Comedy']",True,
+17130,Crossroads,2002-02-15,12000000,61141030,Zoe Saldana,"['Action', 'Adventure', 'Comedy', 'Drama', 'Family', 'Music', 'Romance']",False,93
+7446,Tropic Thunder,2008-08-09,92000000,188072649,Tyra Banks,"['Action', 'Comedy', 'Adventure', 'War']",False,107
+25571,Drive,1997-08-06,3500000,0,Sanaa Lathan,"['Action', 'Adventure', 'Science Fiction', 'Comedy']",False,100
+17711,The Adventures of Rocky & Bullwinkle,2000-06-30,76000000,35134820,Taraji P. Henson,"['Action', 'Adventure', 'Animation', 'Comedy', 'Family']",False,88
+8487,Wild Wild West,1999-06-29,170000000,222104681,Garcelle Beauvais,"['Action', 'Adventure', 'Comedy', 'Science Fiction', 'Western']",False,106
+3132,Bad Company,2002-06-07,70000000,65977295,Garcelle Beauvais,"['Action', 'Adventure', 'Comedy', 'Thriller']",False,116
+18828,Double Take,2001-01-12,0,0,Garcelle Beauvais,"['Adventure', 'Drama', 'Action', 'Comedy', 'Romance']",False,88
+523849,The Last Sharknado: It's About Time,2018-08-23,0,0,Vivica A. Fox,"['Science Fiction', 'Action', 'Adventure', 'Comedy', 'TV Movie']",True,86
+18828,Double Take,2001-01-12,0,0,Vivica A. Fox,"['Adventure', 'Drama', 'Action', 'Comedy', 'Romance']",False,88
+24775,Blast,2004-01-01,20000000,0,Vivica A. Fox,"['Action', 'Adventure', 'Comedy', 'Thriller']",False,92
+389053,The Do-Over,2016-05-27,0,0,Paula Patton,"['Action', 'Adventure', 'Comedy']",False,109
+8961,Bad Boys II,2003-07-18,130000000,273339556,Gabrielle Union,"['Adventure', 'Action', 'Comedy', 'Thriller', 'Crime']",True,147
+3132,Bad Company,2002-06-07,70000000,65977295,Kerry Washington,"['Action', 'Adventure', 'Comedy', 'Thriller']",False,116
+343668,Kingsman: The Golden Circle,2017-09-20,104000000,410902662,Halle Berry,"['Action', 'Adventure', 'Comedy']",True,141
+55731,Race the Sun,1996-03-22,0,0,Halle Berry,"['Action', 'Adventure', 'Comedy', 'Drama', 'Family']",False,100
+9471,Charlie's Angels: Full Throttle,2003-06-27,120000000,259175788,Eve Jihan Jeffers,"['Action', 'Adventure', 'Comedy']",True,106
+448119,Dolittle,2020-01-17,175000000,0,Octavia Spencer,"['Family', 'Comedy', 'Adventure', 'Fantasy', 'Action']",False,
+19585,G-Force,2009-07-21,150000000,292817841,Niecy Nash,"['Fantasy', 'Action', 'Adventure', 'Family', 'Comedy']",False,88
+10090,Reno 911!: Miami,2007-02-23,10000000,20342161,Niecy Nash,"['Action', 'Adventure', 'Comedy', 'Crime']",False,84
+13938,The Last Dragon,1985-03-22,10000000,25754284,Keshia Knight Pulliam,"['Action', 'Adventure', 'Comedy']",False,108
+98566,Teenage Mutant Ninja Turtles,2014-08-07,125000000,477200000,Whoopi Goldberg,"['Science Fiction', 'Action', 'Adventure', 'Fantasy', 'Comedy']",True,101
+417320,Descendants 2,2017-07-21,0,0,Whoopi Goldberg,"['Family', 'Action', 'Comedy', 'Adventure']",True,111
+23685,Monkeybone,2001-02-23,75000000,5409517,Whoopi Goldberg,"['Adventure', 'Fantasy', 'Animation', 'Action', 'Comedy', 'Science Fiction']",False,93
+17711,The Adventures of Rocky & Bullwinkle,2000-06-30,76000000,35134820,Whoopi Goldberg,"['Action', 'Adventure', 'Animation', 'Comedy', 'Family']",False,88
+35463,Fatal Beauty,1987-10-30,0,0,Whoopi Goldberg,"['Adventure', 'Action', 'Comedy', 'Thriller']",False,104
+454626,Sonic the Hedgehog,2020-02-12,90000000,0,Tika Sumpter,"['Action', 'Adventure', 'Science Fiction', 'Fantasy', 'Comedy', 'Family']",False,
+29054,Black Scorpion II: Aftershock,1997-05-13,0,0,Terri J. Vaughn,"['Comedy', 'Action', 'Adventure', 'Science Fiction']",True,85
+506574,Descendants 3,2019-08-09,0,0,China Anne McClain,"['Adventure', 'Family', 'Comedy', 'Action']",True,106
+417320,Descendants 2,2017-07-21,0,0,China Anne McClain,"['Family', 'Action', 'Comedy', 'Adventure']",True,111
+437066,Midnight Run for Your Life,1994-07-14,0,0,LaTanya Richardson Jackson,"['TV Movie', 'Adventure', 'Action', 'Comedy']",True,100
+11676,Nothing to Lose,1997-07-18,25000000,0,Irma P. Hall,"['Action', 'Adventure', 'Comedy']",False,97
