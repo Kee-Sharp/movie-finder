@@ -12,7 +12,7 @@ def main(args):
     URL = "https://api.themoviedb.org/3"
     key = "bed5288deb39663ad0bb3a8ed2625f4a"
     log = { "lines": [] }
-    nameFile = inp("What file contains your list of names? (include extension)", log)
+    nameFile = inp("What file contains your list of names? (include extension) Or type 'manual' to enter names manually.", log)
     # Handles potential errors with user input for the file
     while nameFile != "manual" and nameFile != "done":
         if not pathlib.os.path.exists(nameFile):
@@ -29,9 +29,9 @@ def main(args):
         log["inputNames"] = "manual"
         names = []
         name = inp("Type each name and then press enter. Entering names will stop when you press enter twice.", log)
-        while len(name) != 0:
+        while len(name):
             names.append(name)
-            name = inp("")
+            name = inp("", log, saveS=False, end="")
     # Base payload that will be used for each name
     payload = {"api_key": key, "include_adult": False, "language": "en-US"}
     count = 1
@@ -121,9 +121,13 @@ def main(args):
         for line in log["lines"]:
             f2.write(line+"\n")
 
-def inp(s, log):
-    val = input(s+"\n")
-    log["lines"].extend([s, val])
+def inp(s, log, saveS=True, end="\n"):
+    """Input function wrapper to save input and prompt to log file"""
+    val = input(s+end)
+    if saveS:
+        log["lines"].append(s)
+    if len(val):
+        log["lines"].append(val.strip())
     return val
 
 if __name__ == "__main__":

@@ -1,0 +1,19 @@
+Application run on names inputted at run time using comedy as a search genre with 53 result(s)
+
+Program lines: 
+What file contains your list of names? (include extension) Or type 'manual' to enter names manually.
+manual
+Type each name and then press enter. Entering names will stop when you press enter twice.
+Samuel Jackson
+Michael B Jordan
+Tom Hanks
+Tom Holland
+Tom Hiddleston
+Searching actors or directors?
+actors
+Any particular genre to search? Type 'done' if no.
+comedy
+Add another genre or type 'done' to continue.
+done
+What name should the csv and json files be saved under?
+example2
