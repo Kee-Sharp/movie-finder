@@ -57,15 +57,19 @@ def main(args):
     with open("genres.json", "r") as gF:
         genres = json.loads(gF.read())
     searchGenres = []
-    genre = inp("Any particular genre to search? Type 'done' if no.", log).lower()
+    genre = inp("Any particular genre to search? Type 'done' if no or type 'all' to see all available genres.", log)
     # Handles pottential errors with user input for searching genres
     while genre != "done":
-        if genre not in genres:
-            genre = inp("Genre not recognized. Try again or type 'done' to continue.", log).lower()
+        if genre == "all":
+            genre = inp(f"Available genres are {utils.list_representation(list(genres))}. Enter one of these or press 'done' to continue.", log)
+        elif genre not in [g.lower() for g in genres]:
+            genre = inp("Genre not recognized. Try again, type 'done' to continue, or type 'all' to see all available genres.", log)
+        elif genre in searchGenres:
+            genre = inp("Genre already added. Try again, type 'done' to continue, or type 'all' to see all available genres.", log)
         else:
             searchGenres.append(genre)
-            genre = inp("Add another genre or type 'done' to continue.", log).lower()
-    genreIds = ",".join([str(genres[g]) for g in searchGenres])
+            genre = inp("Add another genre, type 'done' to continue, or type 'all' to see all available genres.", log)
+    genreIds = [genres[g] for g in genres if g.lower() in searchGenres]
     movie_payload["with_genres"] = genreIds
     print("Getting movie details...")
     # first searches for the first 20 movies with the given genres and cast/crew member
@@ -114,7 +118,7 @@ def main(args):
         elif len(searchGenres) == 1:
             p2 = f"{searchGenres[0]} as a search genre"
         else:
-            p2 = f"{', '.join(searchGenres[0:-1])} and {searchGenres[-1]} as search genres"
+            p2 = f"{utils.list_representation(searchGenres)} as search genres"
         p3 = log["count"]
         f2.write(f"Application run on {p1} using {p2} with {p3} result(s)\n\n")
         f2.write("Program lines: \n")
@@ -123,12 +127,12 @@ def main(args):
 
 def inp(s, log, saveS=True, end="\n"):
     """Input function wrapper to save input and prompt to log file"""
-    val = input(s+end)
+    val = input(s+end).strip()
     if saveS:
         log["lines"].append(s)
     if len(val):
-        log["lines"].append(val.strip())
-    return val
+        log["lines"].append(val)
+    return val.lower()
 
 if __name__ == "__main__":
     import sys
