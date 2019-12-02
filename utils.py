@@ -30,4 +30,19 @@ def get_list(url, paths):
 def list_representation(l):
     """Returns a string representation of a list, without oxford comma.
     [a,b,c,d] => 'a, b, c and d' """
-    return f"{', '.join(l[0:-1])} and {l[-1]}"
+    return f"{', '.join(l[0:-1])} and {l[-1]}" if len(l) - 1 else l[0]
+
+def inp(s, log, saveS=True, end="\n"):
+    """Input function wrapper to save input and prompt to log file"""
+    val = input(s+end).strip()
+    if saveS:
+        log["lines"].append(s)
+    if len(val):
+        log["lines"].append(val)
+    return val.lower()
+def onlyKeys(d, keys):
+    """Reduces d so that each key in d is in keys"""
+    return {k:d[k] for k in d if k in keys}
+def rmKeys(d,keys):
+    """Removes each key in keys from dict d"""
+    return {k:d[k] for k in d if k not in keys}
