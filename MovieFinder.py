@@ -4,7 +4,7 @@ import time
 import json
 import copy
 import csv
-import utils
+from utils import *
 import pathlib
 
 def main(args):
@@ -21,17 +21,18 @@ def main(args):
             nameFile = inp("File is not a text file. Try again or type 'manual' to enter names manually.", log)
         else:
             with open(nameFile, "r") as nF:
-                names = [name.strip() for name in nF.readlines()]
+                nameLines = [nL.strip() for nL in nF.readlines()]
+                nameGroups = [nL.split(",") for nL in nameLines]
             log["inputNames"] = nameFile.lower()
             nameFile = "done"
     # If this option is chosen, the user will enter names one by one
     if nameFile == "manual":
         log["inputNames"] = "manual"
-        names = []
-        name = inp("Type each name and then press enter. Entering names will stop when you press enter twice.", log)
-        while len(name):
-            names.append(name)
-            name = inp("", log, saveS=False, end="")
+        nameGroups = []
+        nameGroup = inp("Type each name (or group of names separated by ',') and then press enter. Entering names will stop when you press enter twice.", log)
+        while len(nameGroup):
+            nameGroups.append(nameGroup.split(","))
+            nameGroup = inp("", log, saveS=False, end="")
     # Base payload that will be used for each name
     payload = {"api_key": key, "include_adult": False, "language": "en-US"}
     count = 1
@@ -39,21 +40,23 @@ def main(args):
     print("Searching TMDB for people...")
     # Loop through each name in the list, searching TMDb for associated ids.
     # Assumes the correct person is the first search result for the name.
-    for i, name in enumerate(names):
-        # TMDb API only allows 40 requests per 10 seconds
-        if count % 40 == 39:
-            time.sleep(10)
-        payload["query"] = name
-        result = requests.get(URL+"/search/person", params=payload).json()
-        if len(result['results']) and not (name in nameToIds):
-            nameToIds[name] = result['results'][0]['id']
-        utils.showProgress(i+1, len(names))
-        count += 1
-    nameToMovies = {}
-    masterMovieList = []
+    for i, nameGroup in enumerate(nameGroups):
+        for name in nameGroup:
+            # TMDb API only allows 40 requests per 10 seconds
+            if count % 40 == 39:
+                time.sleep(10)
+            if name not in nameToIds:
+                payload["query"] = name
+                result = requests.get(URL+"/search/person", params=payload).json()
+                if len(result['results']):
+                    nameToIds[name] = result['results'][0]['id']
+                count += 1
+        showProgress(i+1, len(nameGroups))
+    
     # Base movie payload used for each movie
     movie_payload = {'api_key': key}
-    searchType, nameField = ("crew", "crew_member") if inp("Searching actors or directors?", log) == "directors" else ("cast", "actor/actress") 
+    fields = {"actors": ("cast", "actor/actress"), "directors": ("crew","crew_member"), "both": ("people","cast/crew")}
+    searchType, nameField = fields[inp("Searching actors, directors, or both?", log)] 
     with open("genres.json", "r") as gF:
         genres = json.loads(gF.read())
     searchGenres = []
@@ -61,7 +64,7 @@ def main(args):
     # Handles pottential errors with user input for searching genres
     while genre != "done":
         if genre == "all":
-            genre = inp(f"Available genres are {utils.list_representation(list(genres))}. Enter one of these or press 'done' to continue.", log)
+            genre = inp(f"Available genres are {list_representation(list(genres))}. Enter one of these or press 'done' to continue.", log)
         elif genre not in [g.lower() for g in genres]:
             genre = inp("Genre not recognized. Try again, type 'done' to continue, or type 'all' to see all available genres.", log)
         elif genre in searchGenres:
@@ -72,32 +75,52 @@ def main(args):
     genreIds = [genres[g] for g in genres if g.lower() in searchGenres]
     movie_payload["with_genres"] = genreIds
     print("Getting movie details...")
-    # first searches for the first 20 movies with the given genres and cast/crew member
+    # first searches for the first 20 movies with the given genres and cast/crew members   
     # then for each of those movies, requests the more detailed version
-    for i, n in enumerate(nameToIds):
+    movies = {}
+    groupToMovies = {}
+    for i, nameGroup in enumerate(nameGroups):
         if count % 40 == 39:
             time.sleep(10)
-        movie_payload['with_'+searchType] = nameToIds[n]
+        ids = ",".join([str(nameToIds[name]) for name in nameGroup if name in nameToIds])
+        movie_payload['with_'+searchType] = ids
         results = requests.get(URL+'/discover/movie', params=movie_payload).json()['results']
+        # if nameGroup == ["Chris Hemsworth"]:
+        #     print("Results: ",[d["title"] for d in results])
+        #     print("Movies: ",{m:movies[m]["title"] for m in movies})
         count += 1
         movieDetails = []
         detail_payload = {'api_key': key, 'language': 'en-US'}
         for r in results:
             if count % 40 == 39:
-                time.sleep(10)
-            rawDetail = requests.get(URL+f"/movie/{r['id']}", params=detail_payload).json()
-            # chooses only specific fields from the result and performs some corrections
-            detail = {k: rawDetail[k] for k in rawDetail if k in ['id', 'belongs_to_collection', 'budget', 'genres', 'release_date', 'revenue', 'runtime', 'title']}
-            detail['belongs_to_collection'] = detail['belongs_to_collection'] != None
-            detail['genres'] = [g['name'] for g in detail['genres']]
-            movieDetails.append(detail)
-            masterDetail = copy.deepcopy(detail)
-            masterDetail[nameField] = n
-            masterMovieList.append(masterDetail)
-            count += 1
-        nameToMovies[n] = {'id': nameToIds[n], 'results': movieDetails}
-        utils.showProgress(i+1, len(nameToIds))
-    log["count"] = len(masterMovieList)
+                time.sleep(10)  
+            if r["id"] not in movies:
+                rawDetail = requests.get(URL+f"/movie/{r['id']}", params=detail_payload).json()
+                # chooses only specific fields from the result and performs some corrections
+                detail = onlyKeys(rawDetail, ['id', 'belongs_to_collection', 'budget', 'genres', 'release_date', 'revenue', 'runtime', 'title'])
+                detail['belongs_to_collection'] = detail['belongs_to_collection'] != None
+                detail['genres'] = [g['name'] for g in detail['genres']]
+                movieDetails.append(detail)
+                masterDetail = copy.deepcopy(detail)
+                masterDetail[nameField] = copy.copy(nameGroup)
+                movies[r["id"]] = rmKeys(masterDetail,["id"])
+                count += 1
+            else:
+                detail = copy.deepcopy(movies[r["id"]])
+                detail["id"] = r["id"]
+                movieDetails.append(detail)
+                print(nameGroup)
+                print("Search Results: \n",[(d["id"], d["title"]) for d in results])
+                print("Movie Id: ",r["id"])
+                print({i: {"title": movies[i]["title"], nameField: movies[i][nameField]} for i in movies})
+                for name in nameGroup:
+                    if name not in movies[r["id"]][nameField]:
+                        print(name)
+                        movies[r["id"]][nameField].append(name)
+                    
+        groupToMovies[",".join(nameGroup)] = {"ids": ids, "results": movieDetails}
+        # showProgress(i+1, len(nameGroups))
+    log["count"] = len(movies)
     output = inp("What name should the csv and json files be saved under?", log)
     time.sleep(0.8)
     # Creates output folder and adds the csv file with all of the relevant detail + the json file with 
@@ -105,12 +128,14 @@ def main(args):
     if not pathlib.os.path.exists("output"):
         pathlib.Path("output").mkdir()
     with open(f"output/{output}.json", "w") as f1:
-        f1.write(json.dumps(nameToMovies))
+        f1.write(json.dumps(groupToMovies))
     with open(f"output/{output}.csv", "w", newline="") as out:
         writer = csv.DictWriter(out, fieldnames=["id", "title","release_date","budget", "revenue", nameField, "genres", "belongs_to_collection","runtime"], extrasaction="ignore")
         writer.writeheader()
-        for m in masterMovieList:
-            writer.writerow(m)
+        for m in movies:
+            movie = movies[m]
+            movie["id"] = m
+            writer.writerow(movie)
     with open(f"output/{output}.log", "w") as f2:
         p1 = "names inputted at run time" if log["inputNames"] == "manual" else log["inputNames"]
         if not len(searchGenres):
@@ -118,21 +143,13 @@ def main(args):
         elif len(searchGenres) == 1:
             p2 = f"{searchGenres[0]} as a search genre"
         else:
-            p2 = f"{utils.list_representation(searchGenres)} as search genres"
+            p2 = f"{list_representation(searchGenres)} as search genres"
         p3 = log["count"]
         f2.write(f"Application run on {p1} using {p2} with {p3} result(s)\n\n")
         f2.write("Program lines: \n")
         for line in log["lines"]:
             f2.write(line+"\n")
 
-def inp(s, log, saveS=True, end="\n"):
-    """Input function wrapper to save input and prompt to log file"""
-    val = input(s+end).strip()
-    if saveS:
-        log["lines"].append(s)
-    if len(val):
-        log["lines"].append(val)
-    return val.lower()
 
 if __name__ == "__main__":
     import sys

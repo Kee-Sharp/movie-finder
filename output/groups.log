@@ -1,0 +1,11 @@
+Application run on names2.txt using no search genres with 43 result(s)
+
+Program lines: 
+What file contains your list of names? (include extension) Or type 'manual' to enter names manually.
+names2.txt
+Searching actors, directors, or both?
+actors
+Any particular genre to search? Type 'done' if no or type 'all' to see all available genres.
+done
+What name should the csv and json files be saved under?
+groups
