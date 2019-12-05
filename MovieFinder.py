@@ -34,6 +34,7 @@ def main(args):
             nameGroups.append(nameGroup.split(","))
             nameGroup = inp("", log, saveS=False, end="")
     time.sleep(0.5)
+    # If the cache exists, the nameToIds dict will use that as a base
     if pathlib.os.path.exists("cache.json"):
         with open("cache.json", "r") as cache:
             nameToIds = json.loads(cache.read())
@@ -59,11 +60,11 @@ def main(args):
                     nameToIds[name] = result['results'][0]['id']
                 count += 1
         showProgress(i+1, len(nameGroups))
+    # Updates the cache
     with open("cache.json", "w") as cacheWrite:
         cacheWrite.write(json.dumps(nameToIds))
     time.sleep(0.5)
-    # Base movie payload used for each movie
-    movie_payload = {'api_key': key}
+    movie_payload = {'api_key': key} # Base movie payload used for each movie
     fields = {"actors": ("cast", "actors/actresses"), "directors": ("crew","crew_members"), "both": ("people","cast/crew")}
     searchType, nameField = fields[inp("Searching actors, directors, or both?", log)] 
     time.sleep(0.5)
@@ -115,6 +116,8 @@ def main(args):
                 movies[r["id"]] = rmKeys(masterDetail,["id"])
                 count += 1
             else:
+                # when the movie is already accounted for, skip the detailed search
+                # and update the list of people associated with it
                 detail = copy.deepcopy(movies[r["id"]])
                 detail["id"] = r["id"]
                 movieDetails.append(detail)
@@ -126,8 +129,8 @@ def main(args):
         showProgress(i+1, len(nameGroups))
     log["count"] = len(movies)
     output = inp("What name should the csv and json files be saved under?", log)
-    # Creates output folder and adds the csv file with all of the relevant detail + the json file with 
-    # the nameToMovies dictionary for reference
+    # Creates output folder and adds the csv file with all of the relevant detail, the json file with 
+    # the groupToMovies dictionary for reference, and a log file with a summary of the program run
     if not pathlib.os.path.exists("output"):
         pathlib.Path("output").mkdir()
     with open(f"output/{output}.json", "w") as f1:
