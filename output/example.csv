@@ -1,282 +1,317 @@
 id,title,release_date,budget,revenue,crew_member,genres,belongs_to_collection,runtime
-631344,A Love Song for Latasha,,0,0,Sophia Nahli Allison,[],False,19
-434769,Tower XYZ,2016-06-30,0,0,Ayo Akingbade,[],False,3
-620983,Dear Babylon,2019-08-14,0,0,Ayo Akingbade,[],False,21
-501866,Street 66,2018-01-26,0,0,Ayo Akingbade,['Documentary'],False,13
-405665,In Ur Eye,2014-12-30,0,0,Ayo Akingbade,['Documentary'],False,2
-382561,Integration Report 1,1960-01-01,0,0,Madeline Anderson,['Documentary'],False,20
-349003,I Am Somebody,1970-01-01,0,0,Madeline Anderson,['Documentary'],False,28
-474732,The Spirit of Cape Verde,1986-01-01,0,0,Madeline Anderson,[],False,
-460931,Let the Church Say Amen!,1973-01-01,0,0,Madeline Anderson,[],False,78
-388729,A Tribute to Malcolm X,1967-01-01,0,0,Madeline Anderson,['Documentary'],False,13
-205601,Belle,2013-09-08,10900000,16505460,Amma Asante,['Drama'],False,105
-347026,A United Kingdom,2016-11-25,14000000,13819139,Amma Asante,"['Drama', 'History']",False,111
-426618,Where Hands Touch,2018-09-14,0,0,Amma Asante,"['War', 'Drama', 'Romance']",False,122
-110282,A Way of Life,2004-11-12,0,0,Amma Asante,[],False,91
-629538,The Billion Dollar Spy,,0,0,Amma Asante,[],False,
-463173,Couleé-D,2017-06-23,0,0,Sam Bailey,['Music'],False,14
-30246,Civil Brand,2003-08-29,500000,243347,Neema Barnette,"['Crime', 'Drama', 'Thriller']",False,95
-34786,Super Sweet 16: The Movie,2007-07-07,0,0,Neema Barnette,['TV Movie'],False,86
-14593,All You've Got,2006-01-01,0,0,Neema Barnette,"['Comedy', 'Family', 'Drama']",False,95
-87822,Woman Thou Art Loosed: On the 7th Day,2012-04-13,0,0,Neema Barnette,['Drama'],False,101
-250397,Run for the Dream: The Gail Devers Story,1996-06-16,0,0,Neema Barnette,[],False,99
-79274,Sky Captain,1985-01-01,0,0,Neema Barnette,['Drama'],False,65
-136006,Spirit Lost,1997-03-24,0,0,Neema Barnette,['Horror'],False,90
-259972,Sin and Redemption,1994-03-18,0,0,Neema Barnette,['Drama'],False,96
-474733,Better Off Dead.,1993-01-12,0,0,Neema Barnette,[],False,120
-446624,Scattered Dreams,1993-12-19,0,0,Neema Barnette,['Drama'],False,93
-474562,Different Worlds: An Interracial Love Story,1992-01-01,0,0,Neema Barnette,[],False,
-469400,Zora is My Name!,1990-01-01,0,0,Neema Barnette,[],False,90
-375866,Harcèlement mortel,1997-01-16,0,0,Neema Barnette,"['Crime', 'Thriller']",False,
-266143,Heaven Ain't Hard to Find,2010-04-06,0,0,Neema Barnette,['Family'],False,90
-531509,Otherhood,2019-08-13,0,0,Angela Bassett,['Comedy'],False,100
-319096,Whitney,2015-01-17,0,0,Angela Bassett,"['Romance', 'Drama', 'Music']",False,90
-209802,Subway Stories: Tales from the Underground,1997-07-24,0,0,Patricia Benoit,"['TV Movie', 'Comedy', 'Drama']",False,80
-183235,Stones in the Sun,2012-04-05,0,0,Patricia Benoit,[],False,95
-428585,Lemon,2017-01-22,0,29258,Janicza Bravo,"['Drama', 'Comedy']",False,90
-196255,Gregory Go Boom,2013-05-22,0,0,Janicza Bravo,['Comedy'],False,18
-539565,Zola,,0,0,Janicza Bravo,['Drama'],False,
-388248,Woman in Deep,2016-03-17,0,0,Janicza Bravo,['Drama'],False,15
-205818,Eat,2011-03-12,0,0,Janicza Bravo,['Drama'],False,15
-545727,The Invisible Dog,2005-03-28,0,0,Janicza Bravo,[],False,20
-277673,Pauline Alone,2014-06-19,0,0,Janicza Bravo,['Comedy'],False,13
-421706,Man Rots from the Head,2016-08-10,0,0,Janicza Bravo,['Comedy'],False,16
-318972,(T)ERROR,2015-01-24,0,0,Lyric R. Cabral,"['Thriller', 'Documentary']",False,93
-277606,Out in the Night,2014-06-12,0,0,Lyric R. Cabral,['Documentary'],False,75
-573710,The Rashomon Effect,,0,0,Lyric R. Cabral,['Documentary'],False,
-273896,Losing Ground,1982-01-02,0,0,Kathleen Collins,"['Drama', 'Comedy']",False,86
-398027,The Cruz Brothers and Miss Malloy,1980-10-01,5000,0,Kathleen Collins,['Drama'],False,49
-474744,Gouldtown: A Mulatto Settlement,1988-01-01,0,0,Kathleen Collins,[],False,
-460927,Statues Hardly Ever Smile,1971-01-01,0,0,Kathleen Collins,['Documentary'],False,21
-91264,Lift,2001-01-20,0,0,DeMane Davis,"['Drama', 'Crime']",False,85
-125018,Black & White & Red All Over,1997-03-28,0,0,DeMane Davis,[],False,97
-68427,Daughters of the Dust,1991-09-10,800000,0,Julie Dash,"['Drama', 'Romance']",False,112
-221493,Love Song,2000-12-01,0,0,Julie Dash,"['Romance', 'Drama']",False,90
-209802,Subway Stories: Tales from the Underground,1997-07-24,0,0,Julie Dash,"['TV Movie', 'Comedy', 'Drama']",False,80
-162660,Illusions,1982-01-01,0,0,Julie Dash,['Drama'],False,34
-49635,The Rosa Parks Story,2002-02-24,0,0,Julie Dash,['Drama'],False,97
-272642,Funny Valentines,1999-02-14,0,0,Julie Dash,[],False,108
-338914,Diary of an African Nun,1977-01-01,0,0,Julie Dash,[],False,13
-334750,Four Women,1975-01-01,0,0,Julie Dash,['Drama'],False,7
-395055,Praise House,1991-01-01,0,0,Julie Dash,"['Drama', 'Music', 'History']",False,25
-605769,Travel Notes of a Geechee Girl,2017-12-04,0,0,Julie Dash,[],False,
-588254,Relatives,1989-01-01,0,0,Julie Dash,[],False,8
-439955,Standing at the Scratch Line,2016-08-06,0,0,Julie Dash,[],False,10
-395048,Incognito,1999-09-17,0,0,Julie Dash,"['Drama', 'Thriller', 'TV Movie']",False,100
-407451,A Wrinkle in Time,2018-03-08,103000000,132675864,Ava DuVernay,"['Adventure', 'Science Fiction', 'Family', 'Fantasy']",False,109
-407806,13th,2016-10-07,0,0,Ava DuVernay,['Documentary'],False,100
-273895,Selma,2014-12-25,20000000,66787908,Ava DuVernay,"['History', 'Drama']",False,127
-83588,Middle of Nowhere,2012-01-20,2000000,2368060,Ava DuVernay,['Drama'],False,101
-72946,I Will Follow,2010-09-18,0,0,Ava DuVernay,"['Drama', 'Romance']",False,76
-552691,Untitled Lupita Nyong'o/Rihanna Project,,0,0,Ava DuVernay,['Crime'],False,
-500239,August 28: A Day in the Life of a People,2017-08-26,0,0,Ava DuVernay,"['History', 'Documentary']",False,120
-315532,My Mic Sounds Nice: A Truth About Women and Hip-Hop,2010-08-30,0,0,Ava DuVernay,"['Music', 'Documentary']",False,43
-97399,This Is the Life,2008-02-08,0,0,Ava DuVernay,"['Documentary', 'Music']",False,97
-507263,Black America Again,2016-10-21,0,0,Ava DuVernay,[],False,22
-512021,The New Gods,,0,0,Ava DuVernay,"['Science Fiction', 'Action']",False,
-214847,Say Yes,2013-08-14,0,0,Ava DuVernay,['Romance'],False,8
-158993,99%: The Occupy Wall Street Collaborative Film,2013-09-06,0,0,Ava DuVernay,['Documentary'],False,92
-385703,Compton in C Minor,2009-01-01,0,0,Ava DuVernay,['Documentary'],False,
-328978,Venus VS.,2013-07-02,0,0,Ava DuVernay,['Documentary'],False,60
-300909,The Door,2013-07-02,0,0,Ava DuVernay,['Romance'],False,9
-26710,My Baby's Daddy,2004-01-09,0,51,Cheryl Dunye,['Comedy'],False,86
-368972,Greetings from Africa,1996-07-19,0,0,Cheryl Dunye,"['Comedy', 'Documentary']",False,8
-44479,The Watermelon Woman,1996-09-07,0,0,Cheryl Dunye,"['Drama', 'Comedy', 'Romance']",False,90
-43671,Stranger Inside,2001-06-23,0,0,Cheryl Dunye,"['Crime', 'Drama']",False,97
-418803,Vanilla Sex,1992-01-01,0,0,Cheryl Dunye,['Documentary'],False,4
-367327,Janine,1990-01-01,0,0,Cheryl Dunye,[],False,9
-393313,Truth Be Told,2002-01-01,0,0,Cheryl Dunye,['Drama'],False,83
-275968,Mommy Is Coming,2012-03-08,0,0,Cheryl Dunye,[],False,64
-579869,DiAna's Hair Ego Remix,2017-12-01,0,0,Cheryl Dunye,['Documentary'],False,9
-510365,Brother From Another Time,2014-11-09,0,0,Cheryl Dunye,[],False,6
-433271,An Untitled Portrait,1993-01-04,0,0,Cheryl Dunye,[],False,3
-433270,The Potluck and the Passion,1993-01-04,0,0,Cheryl Dunye,[],False,23
-370043,She Don't Fade,1991-01-01,0,0,Cheryl Dunye,[],False,24
-315242,Black Is Blue,2014-06-20,0,0,Cheryl Dunye,[],False,21
-253157,Valencia,2013-06-22,0,0,Cheryl Dunye,[],False,105
-44288,The Owls,2010-01-01,0,0,Cheryl Dunye,['Drama'],False,66
-225283,Gone Too Far!,2014-10-10,0,0,Destiny Ekaragha,['Comedy'],False,87
-550610,Mumatar,2018-04-20,0,0,Destiny Ekaragha,['Comedy'],False,10
-357183,Danny & the Human Zoo,2015-08-31,0,0,Destiny Ekaragha,[],False,90
-93905,Tight Jeans,2008-10-14,0,0,Destiny Ekaragha,"['Drama', 'Comedy']",False,8
-550620,Chance Meeting,2013-10-08,0,0,Destiny Ekaragha,['Romance'],False,7
-550608,The Future WAGs of Great Britain,2010-08-19,0,0,Destiny Ekaragha,['Drama'],False,24
-550603,A Bloody Muddle,2011-01-01,0,0,Destiny Ekaragha,"['Comedy', 'Drama']",False,5
-324520,The Park,2009-01-01,0,0,Destiny Ekaragha,[],False,17
-473765,The Ancestors Came,2017-10-10,0,0,Cecile Emeke,[],False,6
-375490,Strolling,2015-01-02,0,0,Cecile Emeke,[],False,
-327381,Ackee & Saltfish,2015-02-08,0,0,Cecile Emeke,['Drama'],False,17
-477336,Break Fruit,2015-01-01,0,0,Akwaeke Emezi,[],False,10
-477476,Blesi,2014-01-01,0,0,Akwaeke Emezi,[],False,2
-477477,Hey Celestial,2014-01-01,0,0,Akwaeke Emezi,[],False,1
-578332,Les âmes au soleil,1981-01-02,0,0,Safi Faye,[],False,27
-545860,Man Sa Yay,,0,0,Safi Faye,[],False,
-540718,Tesito,1989-07-21,0,0,Safi Faye,['Documentary'],False,30
-540706,Selbe: One Among Many,1983-05-22,0,0,Safi Faye,['Documentary'],False,30
-523503,La passante,1972-01-01,0,0,Safi Faye,[],False,
-271726,Fad'jal,1979-01-02,0,0,Safi Faye,[],False,112
-434692,Speak Up,2017-10-11,0,0,Amandine Gay,['Documentary'],False,122
-617099,The Giverny Document (Single Channel),2019-08-10,0,0,Ja'Tovia Gary,[],False,40
-374332,Cakes Da Killa: No Homo,2015-12-22,0,0,Ja'Tovia Gary,"['Documentary', 'Music']",False,13
-569975,Giverny I (Négresse Impériale),2017-01-01,0,0,Ja'Tovia Gary,[],False,6
-422850,An Ecstatic Experience,2015-01-01,0,0,Ja'Tovia Gary,[],False,6
-612835,Salacia,2019-07-03,0,0,Tourmaline,[],False,
-495233,The Personal Things,2016-11-19,0,0,Tourmaline,[],False,3
-495226,Atlantic is a Sea of Bones,2017-12-03,0,0,Tourmaline,[],False,8
-369403,"Happy Birthday, Marsha!",2018-03-10,0,0,Tourmaline,['Drama'],False,14
-48833,Night Catches Us,2010-12-03,0,0,Tanya Hamilton,"['Drama', 'Romance']",False,90
-520369,It's a Hard Truth Ain't It,2018-04-25,0,0,dream hampton,['Documentary'],False,75
-46907,Notorious B.I.G.: Bigger Than Life,2007-05-16,0,0,dream hampton,"['Documentary', 'Music']",False,101
-138303,The Russian Winter,2012-04-20,0,0,dream hampton,['Documentary'],False,94
-84319,An Oversimplification of Her Beauty,2012-01-30,0,0,dream hampton,"['Animation', 'Comedy', 'Drama', 'Romance']",False,95
-416259,"A History of The War on Drugs, from Prohibition to Gold Rush",2016-09-15,0,0,dream hampton,['Documentary'],False,4
-339365,Treasure: From Tragedy to Trans Justice Mapping a Detroit Story,2015-06-13,0,0,dream hampton,[],False,63
-332674,I Am Ali,2002-01-01,0,0,dream hampton,[],False,18
-38093,Just Wright,2010-05-14,0,21520719,Sanaa Hamri,"['Comedy', 'Drama', 'Romance']",False,100
-15363,Something New,2006-01-29,0,11400000,Sanaa Hamri,"['Comedy', 'Drama', 'Romance']",False,99
-10188,The Sisterhood of the Traveling Pants 2,2008-08-06,27000000,44352417,Sanaa Hamri,"['Adventure', 'Comedy', 'Drama', 'Family']",True,117
-189204,Lovestruck: The Musical,2013-04-21,0,0,Sanaa Hamri,"['Comedy', 'Fantasy', 'Romance']",False,83
-42654,Acceptance,2009-08-22,0,0,Sanaa Hamri,['Comedy'],False,95
-124088,Just Another Girl on the I.R.T.,1993-01-01,0,0,Leslie Harris,['Drama'],False,92
-17364,Their Eyes Were Watching God,2005-03-06,0,0,Zora Neale Hurston,"['Drama', 'Romance']",False,113
-410253,Fieldwork Footage,1928-01-08,0,0,Zora Neale Hurston,['Documentary'],False,7
-200196,"Commandment Keeper Church, Beaufort South Carolina, May 1940",1940-03-24,0,0,Zora Neale Hurston,[],False,42
-577437,Ethnographic Films,1929-01-01,0,0,Zora Neale Hurston,['Documentary'],False,12
-510885,Plaquemines,2016-10-14,0,0,Nailah Jefferson,['Drama'],False,28
-266689,Vanishing Pearls: The Oystermen of Pointe à la Hache,2014-04-18,0,0,Nailah Jefferson,"['Documentary', 'History']",False,80
-414394,Forgiving Chris Brown,2016-09-26,10000,0,Marquette Jones,['Comedy'],False,12
-45167,Pumzi,2009-10-20,35000,0,Wanuri Kahiu,"['Science Fiction', 'Drama']",False,21
-501875,Who Am I?,2016-11-01,0,0,Wanuri Kahiu,[],False,30
-351480,From a Whisper,2008-09-12,0,0,Wanuri Kahiu,['Drama'],False,79
-386163,Let the Church Say Amen,2013-08-29,0,0,Regina King,"['Drama', 'Family']",False,82
-501098,Brown Girl Begins,2018-08-17,0,0,Sharon Lewis,"['Science Fiction', 'Fantasy']",False,70
-431101,Chains,2009-02-01,0,0,Sharon Lewis,['Science Fiction'],False,10
-6535,Talk to Me,2007-07-13,0,4778376,Kasi Lemmons,['Drama'],False,118
-506528,Harriet,2019-11-01,0,0,Kasi Lemmons,"['History', 'Drama']",False,125
-45153,Eve's Bayou,1997-09-07,0,0,Kasi Lemmons,['Drama'],False,109
-25208,The Caveman's Valentine,2001-01-19,0,0,Kasi Lemmons,"['Drama', 'Mystery', 'Thriller']",False,105
-175541,Black Nativity,2013-11-27,17500000,7018189,Kasi Lemmons,"['Drama', 'Music']",False,93
-114476,Dr. Hugo,1998-01-01,0,0,Kasi Lemmons,[],False,19
-121983,Free Angela and All Political Prisoners,2012-09-09,0,0,Shola Lynch,['Documentary'],False,101
-298414,We the Economy: 20 Short Films You Can't Afford to Miss,2014-10-21,0,0,Shola Lynch,[],False,
-89585,Chisholm '72: Unbought & Unbossed,2004-01-14,0,0,Shola Lynch,['Documentary'],False,75
-328994,Runner,2013-08-13,0,0,Shola Lynch,['Documentary'],False,60
-150065,Yelling To The Sky,2011-03-11,0,0,Victoria Mahoney,['Drama'],False,94
-471152,Searching,2013-11-12,0,0,Victoria Mahoney,['Drama'],False,3
-10520,Itty Bitty Titty Committee,2007-02-09,1000000,18479,Tina Mabry,['Comedy'],False,87
-193309,Mississippi Damned,2009-01-16,0,0,Tina Mabry,['Drama'],False,120
-421852,An American Girl Story - Melody 1963: Love Has to Win,2016-10-21,0,0,Tina Mabry,['Family'],True,48
-631928,Dawn in the Dark,2019-10-04,0,0,Runyararo Mapfumo,['Drama'],False,16
-485063,Masterpiece,,0,0,Runyararo Mapfumo,[],False,6
-14299,Cadillac Records,2008-12-05,12000000,8880045,Darnell Martin,"['Drama', 'History', 'Music']",False,109
-17364,Their Eyes Were Watching God,2005-03-06,0,0,Darnell Martin,"['Drama', 'Romance']",False,113
-61348,The Lost Valentine,2011-01-30,0,0,Darnell Martin,"['TV Movie', 'Romance', 'Drama']",False,100
-327749,Wish You Well,2013-10-19,0,0,Darnell Martin,"['Family', 'Drama']",False,100
-103665,Firelight,2012-04-22,0,0,Darnell Martin,"['Drama', 'TV Movie']",False,97
-48992,I Like It Like That,1994-10-14,0,1777020,Darnell Martin,"['Comedy', 'Drama', 'Romance']",False,104
-26478,Prison Song,2001-04-27,0,0,Darnell Martin,['Drama'],False,94
-464862,Jinn,2018-03-11,0,0,Nijla Mu'min,['Drama'],False,92
-469580,Dream,2015-07-30,3500,0,Nijla Mu'min,['Drama'],False,16
-385043,Wake,2010-08-14,0,0,Bree Newsome,[],False,20
-584305,As Told To G/D Thyself,2019-01-26,0,0,Jenn Nkiru,"['Music', 'Animation']",False,22
-619513,Black to Techno,2019-08-08,0,0,Jenn Nkiru,['Documentary'],False,20
-507735,Rebirth Is Necessary,2017-09-20,0,0,Jenn Nkiru,[],False,10
-460318,En Vogue,2014-06-09,0,0,Jenn Nkiru,[],False,4
-549511,The Last Two Lovers at the End of the World,2017-12-01,0,0,Nefertite Nguvu,"['Drama', 'Romance', 'Science Fiction']",False,20
-507513,Myself When I Am Real,,0,0,Nefertite Nguvu,['Drama'],False,14
-361899,In The Morning,2014-09-20,0,0,Nefertite Nguvu,['Drama'],False,75
-560429,Born a Crime,,0,0,Lupita Nyong'o,['Drama'],False,
-279268,In My Genes,2009-04-01,0,0,Lupita Nyong'o,"['Drama', 'Documentary']",False,78
-634523,Miss Universe,,0,0,Lupita Nyong'o,"['Science Fiction', 'Comedy']",False,
-449757,I Am Not a Witch,2017-10-20,0,0,Rungano Nyoni,['Drama'],False,93
-289033,Listen,2014-09-10,0,0,Rungano Nyoni,['Drama'],False,13
-176533,The Mass of Men,2012-08-08,0,0,Rungano Nyoni,['Drama'],False,17
-346252,Mwansa the Great,2011-05-29,0,0,Rungano Nyoni,"['Drama', 'Adventure']",False,23
-314486,Nordic Factory,2014-05-15,0,0,Rungano Nyoni,[],False,61
-549325,Solace,2018-09-23,0,0,Tchaiko Omawale,['Drama'],False,87
-578813,"Pelourinho, They Don’t Really Care About Us",2019-01-23,0,0,Akosua Adoma Owusu,['Documentary'],False,9
-501874,Mahogany Too,2018-01-27,0,0,Akosua Adoma Owusu,[],False,3
-621806,White Afro,2019-08-07,0,0,Akosua Adoma Owusu,[],False,6
-390416,Reluctantly Queer,2016-02-16,0,0,Akosua Adoma Owusu,[],False,8
-220863,Kwaku Ananse,2013-09-05,0,0,Akosua Adoma Owusu,['Drama'],False,26
-476182,Untitled #1,2006-01-19,0,0,Akosua Adoma Owusu,[],False,2
-535767,Intermittent Delight,2007-09-19,0,0,Akosua Adoma Owusu,[],False,5
-535764,Drexciya,2010-11-11,0,0,Akosua Adoma Owusu,['Documentary'],False,12
-479465,"Split Ends, I Feel Wonderful",2012-03-29,0,0,Akosua Adoma Owusu,['History'],False,5
-418706,My White Baby,2009-02-19,0,0,Akosua Adoma Owusu,[],False,22
-367026,Bus Nut,2014-04-07,0,0,Akosua Adoma Owusu,[],False,7
-32075,A Dry White Season,1989-01-01,0,0,Euzhan Palcy,"['Drama', 'Mystery']",False,107
-42115,Sugar Cane Alley,1983-09-21,0,0,Euzhan Palcy,"['Drama', 'Family']",False,103
-96715,Ruby Bridges,1998-01-18,0,0,Euzhan Palcy,"['Drama', 'Family']",False,96
-367329,The Killing Yard,2001-09-23,0,0,Euzhan Palcy,"['TV Movie', 'Drama']",False,110
-65907,Siméon,1992-12-16,0,0,Euzhan Palcy,"['Fantasy', 'Music']",False,115
-464275,Parcours de Dissidents,2006-07-02,0,0,Euzhan Palcy,['Documentary'],False,90
-460746,Les mariés de l'isle Bourbon,2007-09-27,0,0,Euzhan Palcy,[],False,
-211027,Aimé Césaire: une voix pour l'histoire,2007-04-15,0,0,Euzhan Palcy,[],False,165
-84319,An Oversimplification of Her Beauty,2012-01-30,0,0,Chanelle Aponte Pearson,"['Animation', 'Comedy', 'Drama', 'Romance']",False,95
-278316,Da Sweet Blood of Jesus,2014-06-22,1420000,0,Numa Perrier,"['Thriller', 'Comedy', 'Romance', 'Drama']",False,123
-576704,Jezebel,2019-03-09,0,0,Numa Perrier,"['Drama', 'Family']",False,88
-419377,Florida Water,2014-08-02,0,0,Numa Perrier,['Drama'],False,6
-296517,Pastor Jones 2: Lord Guide My 16 Year Old Daughter,2006-01-01,0,0,Numa Perrier,[],False,95
-543727,Selah and the Spades,2019-01-27,0,0,Tayarisha Poe,['Drama'],False,97
-537331,Selkie,2016-12-02,0,0,Tayarisha Poe,"['Fantasy', 'Romance', 'Comedy', 'Drama']",False,8
-12253,Biker Boyz,2003-01-31,24000000,23510601,Gina Prince-Bythewood,"['Action', 'Drama']",False,110
-241771,Beyond the Lights,2014-09-10,7000000,14618727,Gina Prince-Bythewood,"['Romance', 'Drama']",False,116
-14736,Love & Basketball,2000-04-21,20000000,27728118,Gina Prince-Bythewood,"['Action', 'Comedy', 'Drama', 'Romance']",False,124
-12837,The Secret Life of Bees,2008-09-17,11000000,38105395,Gina Prince-Bythewood,"['Adventure', 'Drama']",False,114
-45602,Disappearing Acts,2000-12-09,0,0,Gina Prince-Bythewood,"['TV Movie', 'Romance', 'Drama']",False,115
-547016,The Old Guard,,0,0,Gina Prince-Bythewood,['Action'],False,
-425908,Silver Sable,,0,0,Gina Prince-Bythewood,"['Action', 'Science Fiction']",False,
-414425,Mudbound,2017-11-16,10000000,0,Dee Rees,['Drama'],False,135
-73939,Pariah,2011-12-27,0,0,Dee Rees,['Drama'],False,86
-330544,Bessie,2015-05-16,0,0,Dee Rees,"['Drama', 'Music', 'TV Movie']",False,107
-505225,The Last Thing He Wanted,,0,0,Dee Rees,['Drama'],False,
-505224,Untitled Dee Rees Horror Project,,0,0,Dee Rees,['Horror'],False,
-509314,The Box,2018-03-04,0,0,Dee Rees,[],False,1
-505221,An Uncivil War,,0,0,Dee Rees,"['Drama', 'History']",False,
-284921,Pariah,2007-04-19,0,0,Dee Rees,[],False,28
-527837,Eventual Salvation,2009-10-19,0,0,Dee Rees,['Documentary'],False,86
-529748,Fucked Like a Star,,0,0,STEFANI SAINTONGE,[],False,8
-306997,Seventh Grade,2014-10-24,0,0,STEFANI SAINTONGE,['Drama'],False,12
-245855,Difret,2014-01-19,0,49667,Lacey Schwartz,['Drama'],False,96
-296095,Little White Lie,2014-07-29,0,0,Lacey Schwartz,['Documentary'],False,65
-66894,Ride,1998-03-27,0,0,Millicent Shelton,['Comedy'],False,90
-102915,Hornet's Nest,2012-03-31,0,0,Millicent Shelton,"['Crime', 'Drama']",False,120
-483771,The Tale of Four,2017-10-24,0,0,Gabourey Sidibe,['Drama'],False,22
-521774,Crow Requiem,2015-04-07,0,0,Cauleen Smith,['Drama'],False,10
-329587,Drylongso,1998-10-17,0,0,Cauleen Smith,[],False,86
-580056,Sojourner,2018-01-01,0,0,Cauleen Smith,[],False,22
-532426,Songs for Earth & Folk,2013-01-01,0,0,Cauleen Smith,[],False,11
-532425,Lessons in Semaphore,,0,0,Cauleen Smith,[],False,4
-532307,Three Songs about Liberation,,0,0,Cauleen Smith,[],False,9
-532304,Triangle Trade,,0,0,Cauleen Smith,[],False,14
-530656,Pilgrim,2017-01-01,0,0,Cauleen Smith,[],False,8
-458334,Sine at the Canyon Sine at the Sea (by Kelly Gabron),2017-01-04,0,0,Cauleen Smith,[],False,7
-458331,H-E-L-L-O,2015-03-06,0,0,Cauleen Smith,[],False,11
-422904,The Changing Same,2001-10-10,0,0,Cauleen Smith,"['Drama', 'Science Fiction']",False,9
-412592,The Way Out Is The Way Two,,0,0,Cauleen Smith,[],False,73
-340297,Chronicles of a Lying Spirit (by Kelly Gabron),1992-07-01,0,0,Cauleen Smith,[],False,13
-473290,When Love Kills: The Falicia Blakely Story,2017-09-04,0,0,Tasha Smith,"['TV Movie', 'Drama']",False,95
-499901,Audition,2007-04-19,0,0,Sosena Solomon,['Comedy'],False,20
-414920,The Yellow Wallpaper,2014-05-14,0,0,Amandla Stenberg,[],False,13
-392737,Blue Girls Burn Fast,2016-04-12,0,0,Amandla Stenberg,['Drama'],False,19
-625450,Tall Girl,2019-09-13,0,0,Nzingha Stewart,"['Comedy', 'Drama', 'Romance']",False,101
-321160,With This Ring,2015-01-24,0,0,Nzingha Stewart,"['Comedy', 'Romance', 'Drama']",False,105
-436939,Love by the 10th Date,2017-01-28,0,0,Nzingha Stewart,['Comedy'],False,87
-405621,Love Under New Management: The Miki Howard Story,2016-06-12,0,0,Christine Swanson,"['Drama', 'TV Movie']",False,81
-164848,All About You,2001-08-04,0,0,Christine Swanson,[],False,100
-35684,All About Us,2007-10-01,0,0,Christine Swanson,"['Drama', 'Romance']",False,90
-529161,Lenny,2018-01-23,0,0,Christine Turner,['Documentary'],False,
-516707,Hold On,2017-01-21,0,0,Christine Turner,['Drama'],False,9
-515685,You Can Go,2016-09-29,0,0,Christine Turner,"['Drama', 'Thriller']",False,9
-245581,Homegoings,2013-06-25,0,0,Christine Turner,[],False,60
-378200,The Perfect Match,2016-03-11,0,0,Dana Verde,"['Comedy', 'Romance']",False,96
-557521,Under Bone,2017-09-30,0,0,Dana Washington,[],False,5
-557514,Liberated Zones,2018-05-01,0,0,Dana Washington,[],False,10
-477180,Living with Pride: Ruth Ellis @ 100,,0,0,Yvonne Welbon,[],False,
-475990,Missing Relations,1994-01-01,0,0,Yvonne Welbon,[],False,13
-475989,Sisters in the Life: First Love,1993-01-01,0,0,Yvonne Welbon,[],False,23
-475988,Cinematic Jazz of Julie Dash,1993-01-01,0,0,Yvonne Welbon,[],False,26
-475987,Monique,1990-01-01,0,0,Yvonne Welbon,[],False,3
-470556,Sisters in Cinema,2003-05-01,0,0,Yvonne Welbon,[],False,57
-469401,"Remembering Wei-Yi Fang, Remembering Myself",1995-01-01,0,0,Yvonne Welbon,[],False,29
+631344,A Love Song for Latasha,,0,0,['Sophia Nahli Allison'],[],False,19
+620983,Dear Babylon,2019-08-14,0,0,['Ayo Akingbade'],[],False,21
+434769,Tower XYZ,2016-06-30,0,0,['Ayo Akingbade'],[],False,3
+501866,Street 66,2018-01-26,0,0,['Ayo Akingbade'],['Documentary'],False,13
+405665,In Ur Eye,2014-12-30,0,0,['Ayo Akingbade'],['Documentary'],False,2
+349003,I Am Somebody,1970-01-01,0,0,['Madeline Anderson'],['Documentary'],False,28
+382561,Integration Report 1,1960-01-01,0,0,"['Madeline Anderson', 'Maya Angelou']",['Documentary'],False,20
+474732,The Spirit of Cape Verde,1986-01-01,0,0,['Madeline Anderson'],[],False,
+460931,Let the Church Say Amen!,1973-01-01,0,0,['Madeline Anderson'],[],False,78
+388729,A Tribute to Malcolm X,1967-01-01,0,0,['Madeline Anderson'],['Documentary'],False,13
+290521,America's Dream,1996-01-01,0,0,['Maya Angelou'],['Drama'],False,
+235519,I Know Why the Caged Bird Sings,1979-04-28,0,0,['Maya Angelou'],"['Drama', 'TV Movie']",False,96
+125582,Down in the Delta,1998-12-25,0,0,['Maya Angelou'],['Drama'],False,112
+264898,"Georgia, Georgia",1972-03-10,0,0,['Maya Angelou'],"['Romance', 'Drama']",False,91
+489775,"Sister, Sister",1982-06-07,0,0,['Maya Angelou'],[],False,98
+205601,Belle,2014-05-01,10900000,16505460,['Amma Asante'],['Drama'],False,105
+347026,A United Kingdom,2016-11-25,14000000,13819139,['Amma Asante'],"['Drama', 'History']",False,111
+426618,Where Hands Touch,2018-09-14,0,0,['Amma Asante'],"['War', 'Drama', 'Romance']",False,122
+110282,A Way of Life,2004-11-12,0,0,['Amma Asante'],[],False,91
+629538,The Billion Dollar Spy,,0,0,['Amma Asante'],[],False,
+463173,Couleé-D,2017-06-23,0,0,['Sam Bailey'],['Music'],False,14
+14593,All You've Got,2006-01-01,0,0,['Neema Barnette'],"['Comedy', 'Family', 'Drama']",False,95
+34786,Super Sweet 16: The Movie,2007-07-07,0,0,['Neema Barnette'],['TV Movie'],False,86
+30246,Civil Brand,2003-08-29,500000,243347,['Neema Barnette'],"['Crime', 'Drama', 'Thriller']",False,95
+87822,Woman Thou Art Loosed: On the 7th Day,2012-04-13,0,0,['Neema Barnette'],['Drama'],False,101
+136006,Spirit Lost,1997-03-24,0,0,['Neema Barnette'],['Horror'],False,90
+250397,Run for the Dream: The Gail Devers Story,1996-06-16,0,0,['Neema Barnette'],[],False,99
+474562,Different Worlds: An Interracial Love Story,1992-01-01,0,0,['Neema Barnette'],[],False,
+375866,Harcèlement mortel,1997-01-16,0,0,['Neema Barnette'],"['Crime', 'Thriller']",False,
+474733,Better Off Dead.,1993-01-12,0,0,['Neema Barnette'],[],False,120
+446624,Scattered Dreams,1993-12-19,0,0,['Neema Barnette'],['Drama'],False,93
+259972,Sin and Redemption,1994-03-18,0,0,['Neema Barnette'],['Drama'],False,96
+469400,Zora is My Name!,1990-01-01,0,0,['Neema Barnette'],[],False,90
+266143,Heaven Ain't Hard to Find,2010-04-06,0,0,['Neema Barnette'],['Family'],False,90
+79274,Sky Captain,1985-01-01,0,0,['Neema Barnette'],['Drama'],False,65
+531509,Otherhood,2019-08-13,0,0,['Angela Bassett'],['Comedy'],False,100
+319096,Whitney,2015-01-17,0,0,['Angela Bassett'],"['Romance', 'Drama', 'Music']",False,90
+209802,Subway Stories: Tales from the Underground,1997-07-24,0,0,"['Patricia Benoit', 'Julie Dash']","['TV Movie', 'Comedy', 'Drama']",False,80
+183235,Stones in the Sun,2012-04-05,0,0,['Patricia Benoit'],[],False,95
+330457,Frozen II,2019-11-20,0,742060467,"['Nuotama Frances Bodomo', 'Bridget Botchway', 'IQUO ESSIEN', 'Cierra Glaudé', 'SIHLE HLOPHE', 'Kiandra Parks', 'Palesa Shongwe', 'Saaret Yoseph']","['Animation', 'Family', 'Music']",True,104
+398978,The Irishman,2019-11-01,159000000,607420,"['Nuotama Frances Bodomo', 'Bridget Botchway', 'IQUO ESSIEN', 'Cierra Glaudé', 'SIHLE HLOPHE', 'Kiandra Parks', 'Palesa Shongwe', 'Saaret Yoseph']","['Crime', 'History', 'Drama']",False,209
+466272,Once Upon a Time… in Hollywood,2019-07-25,95000000,371950710,"['Nuotama Frances Bodomo', 'Bridget Botchway', 'IQUO ESSIEN', 'Cierra Glaudé', 'SIHLE HLOPHE', 'Kiandra Parks', 'Palesa Shongwe', 'Saaret Yoseph']","['Drama', 'Comedy', 'Thriller']",False,162
+475557,Joker,2019-10-02,55000000,1016599593,"['Nuotama Frances Bodomo', 'Bridget Botchway', 'IQUO ESSIEN', 'Cierra Glaudé', 'SIHLE HLOPHE', 'Kiandra Parks', 'Palesa Shongwe', 'Saaret Yoseph']","['Crime', 'Thriller', 'Drama']",False,122
+474350,It Chapter Two,2019-09-04,79000000,447554518,"['Nuotama Frances Bodomo', 'Bridget Botchway', 'IQUO ESSIEN', 'Cierra Glaudé', 'SIHLE HLOPHE', 'Kiandra Parks', 'Palesa Shongwe', 'Saaret Yoseph']","['Horror', 'Drama']",True,169
+522938,Rambo: Last Blood,2019-09-19,50000000,87041796,"['Nuotama Frances Bodomo', 'Bridget Botchway', 'IQUO ESSIEN', 'Cierra Glaudé', 'SIHLE HLOPHE', 'Kiandra Parks', 'Palesa Shongwe', 'Saaret Yoseph']","['Action', 'Thriller', 'Drama']",True,89
+540901,Hustlers,2019-09-12,20000000,0,"['Nuotama Frances Bodomo', 'Bridget Botchway', 'IQUO ESSIEN', 'Cierra Glaudé', 'SIHLE HLOPHE', 'Kiandra Parks', 'Palesa Shongwe', 'Saaret Yoseph']","['Comedy', 'Crime', 'Drama']",False,107
+290859,Terminator: Dark Fate,2019-10-23,185000000,233685077,"['Nuotama Frances Bodomo', 'Bridget Botchway', 'IQUO ESSIEN', 'Cierra Glaudé', 'SIHLE HLOPHE', 'Kiandra Parks', 'Palesa Shongwe', 'Saaret Yoseph']","['Action', 'Science Fiction']",True,128
+920,Cars,2006-06-08,120000000,461983149,"['Nuotama Frances Bodomo', 'Bridget Botchway', 'IQUO ESSIEN', 'Cierra Glaudé', 'SIHLE HLOPHE', 'Kiandra Parks', 'Palesa Shongwe', 'Saaret Yoseph']","['Animation', 'Adventure', 'Comedy', 'Family']",True,117
+512200,Jumanji: The Next Level,2019-12-04,90000000,0,"['Nuotama Frances Bodomo', 'Bridget Botchway', 'IQUO ESSIEN', 'Cierra Glaudé', 'SIHLE HLOPHE', 'Kiandra Parks', 'Palesa Shongwe', 'Saaret Yoseph']","['Action', 'Adventure', 'Comedy', 'Fantasy']",True,123
+431580,Abominable,2019-09-19,75000000,111615070,"['Nuotama Frances Bodomo', 'Bridget Botchway', 'IQUO ESSIEN', 'Cierra Glaudé', 'SIHLE HLOPHE', 'Kiandra Parks', 'Palesa Shongwe', 'Saaret Yoseph']","['Animation', 'Adventure', 'Comedy', 'Family']",False,92
+546554,Knives Out,2019-11-27,40000000,0,"['Nuotama Frances Bodomo', 'Bridget Botchway', 'IQUO ESSIEN', 'Cierra Glaudé', 'SIHLE HLOPHE', 'Kiandra Parks', 'Palesa Shongwe', 'Saaret Yoseph']","['Mystery', 'Thriller', 'Comedy']",False,130
+384018,Fast & Furious Presents: Hobbs & Shaw,2019-08-01,200000000,760098996,"['Nuotama Frances Bodomo', 'Bridget Botchway', 'IQUO ESSIEN', 'Cierra Glaudé', 'SIHLE HLOPHE', 'Kiandra Parks', 'Palesa Shongwe', 'Saaret Yoseph']","['Action', 'Adventure', 'Comedy']",False,137
+420818,The Lion King,2019-07-12,260000000,1649676757,"['Nuotama Frances Bodomo', 'Bridget Botchway', 'IQUO ESSIEN', 'Cierra Glaudé', 'SIHLE HLOPHE', 'Kiandra Parks', 'Palesa Shongwe', 'Saaret Yoseph']","['Adventure', 'Drama']",False,118
+423204,Angel Has Fallen,2019-08-21,40000000,133365452,"['Nuotama Frances Bodomo', 'Bridget Botchway', 'IQUO ESSIEN', 'Cierra Glaudé', 'SIHLE HLOPHE', 'Kiandra Parks', 'Palesa Shongwe', 'Saaret Yoseph']",['Action'],True,121
+449924,Ip Man 4: The Finale,2019-12-20,52000000,0,"['Nuotama Frances Bodomo', 'Bridget Botchway', 'IQUO ESSIEN', 'Cierra Glaudé', 'SIHLE HLOPHE', 'Kiandra Parks', 'Palesa Shongwe', 'Saaret Yoseph']","['Action', 'Drama', 'History']",True,
+299536,Avengers: Infinity War,2018-04-25,300000000,2046239637,"['Nuotama Frances Bodomo', 'Bridget Botchway', 'IQUO ESSIEN', 'Cierra Glaudé', 'SIHLE HLOPHE', 'Kiandra Parks', 'Palesa Shongwe', 'Saaret Yoseph']","['Adventure', 'Action', 'Science Fiction']",True,149
+568012,One Piece: Stampede,2019-08-09,0,0,"['Nuotama Frances Bodomo', 'Bridget Botchway', 'IQUO ESSIEN', 'Cierra Glaudé', 'SIHLE HLOPHE', 'Kiandra Parks', 'Palesa Shongwe', 'Saaret Yoseph']","['Animation', 'Action', 'Adventure']",True,101
+420817,Aladdin,2019-05-22,183000000,1047612394,"['Nuotama Frances Bodomo', 'Bridget Botchway', 'IQUO ESSIEN', 'Cierra Glaudé', 'SIHLE HLOPHE', 'Kiandra Parks', 'Palesa Shongwe', 'Saaret Yoseph']","['Adventure', 'Fantasy', 'Romance', 'Comedy', 'Family']",False,128
+645541,Ellipse,2019-12-12,0,0,"['Nuotama Frances Bodomo', 'Bridget Botchway', 'IQUO ESSIEN', 'Cierra Glaudé', 'SIHLE HLOPHE', 'Kiandra Parks', 'Palesa Shongwe', 'Saaret Yoseph']",['Science Fiction'],False,76
+428585,Lemon,2017-01-22,0,29258,['Janicza Bravo'],"['Drama', 'Comedy']",False,90
+196255,Gregory Go Boom,2013-05-22,0,0,['Janicza Bravo'],['Comedy'],False,18
+545727,The Invisible Dog,2005-03-28,0,0,['Janicza Bravo'],[],False,20
+205818,Eat,2011-03-12,0,0,['Janicza Bravo'],['Drama'],False,15
+539565,Zola,2020-01-23,0,0,['Janicza Bravo'],['Drama'],False,
+277673,Pauline Alone,2014-06-19,0,0,['Janicza Bravo'],['Comedy'],False,13
+388248,Woman in Deep,2016-03-17,0,0,['Janicza Bravo'],['Drama'],False,15
+421706,Man Rots from the Head,2016-08-10,0,0,['Janicza Bravo'],['Comedy'],False,16
+318972,(T)ERROR,2015-01-24,0,0,['Lyric R. Cabral'],"['Thriller', 'Documentary']",False,93
+277606,Out in the Night,2014-06-12,0,0,['Lyric R. Cabral'],['Documentary'],False,75
+512333,The Feeling of Being Watched,2018-04-21,0,0,['Lyric R. Cabral'],['Documentary'],False,86
+573710,The Rashomon Effect,,0,0,['Lyric R. Cabral'],['Documentary'],False,
+273896,Losing Ground,1982-01-02,0,0,['Kathleen Collins'],"['Drama', 'Comedy']",False,86
+398027,The Cruz Brothers and Miss Malloy,1980-10-01,5000,0,['Kathleen Collins'],['Drama'],False,49
+474744,Gouldtown: A Mulatto Settlement,1988-01-01,0,0,['Kathleen Collins'],[],False,
+460927,Statues Hardly Ever Smile,1971-01-01,0,0,['Kathleen Collins'],['Documentary'],False,21
+91264,Lift,2001-01-20,0,0,['DeMane Davis'],"['Drama', 'Crime']",False,85
+125018,Black & White & Red All Over,1997-03-28,0,0,['DeMane Davis'],[],False,97
+68427,Daughters of the Dust,1991-09-10,800000,0,['Julie Dash'],"['Drama', 'Romance']",False,112
+272642,Funny Valentines,1999-02-14,0,0,['Julie Dash'],[],False,108
+162660,Illusions,1982-01-01,0,0,['Julie Dash'],['Drama'],False,34
+221493,Love Song,2000-12-01,0,0,['Julie Dash'],"['Romance', 'Drama']",False,90
+49635,The Rosa Parks Story,2002-02-24,0,0,['Julie Dash'],['Drama'],False,97
+338914,Diary of an African Nun,1977-01-01,0,0,['Julie Dash'],[],False,13
+395048,Incognito,1999-09-17,0,0,['Julie Dash'],"['Drama', 'Thriller', 'TV Movie']",False,100
+334750,Four Women,1975-01-01,0,0,['Julie Dash'],['Drama'],False,7
+395055,Praise House,1991-01-01,0,0,['Julie Dash'],"['Drama', 'Music', 'History']",False,25
+605769,Travel Notes of a Geechee Girl,2017-12-04,0,0,['Julie Dash'],[],False,
+588254,Relatives,1989-01-01,0,0,['Julie Dash'],[],False,8
+439955,Standing at the Scratch Line,2016-08-06,0,0,['Julie Dash'],[],False,10
+407806,13th,2016-10-07,0,0,['Ava DuVernay'],['Documentary'],False,100
+407451,A Wrinkle in Time,2018-03-08,103000000,132675864,['Ava DuVernay'],"['Adventure', 'Science Fiction', 'Family', 'Fantasy']",False,109
+273895,Selma,2014-12-25,20000000,66787908,['Ava DuVernay'],"['History', 'Drama']",False,127
+72946,I Will Follow,2010-09-18,0,0,['Ava DuVernay'],"['Drama', 'Romance']",False,76
+97399,This Is the Life,2008-02-08,0,0,['Ava DuVernay'],"['Documentary', 'Music']",False,97
+83588,Middle of Nowhere,2012-01-20,2000000,2368060,['Ava DuVernay'],['Drama'],False,101
+214847,Say Yes,2013-08-14,0,0,['Ava DuVernay'],['Romance'],False,8
+300909,The Door,2013-07-02,0,0,['Ava DuVernay'],['Romance'],False,9
+315532,My Mic Sounds Nice: A Truth About Women and Hip-Hop,2010-08-30,0,0,['Ava DuVernay'],"['Music', 'Documentary']",False,43
+158993,99%: The Occupy Wall Street Collaborative Film,2013-09-06,0,0,['Ava DuVernay'],['Documentary'],False,92
+500239,August 28: A Day in the Life of a People,2017-08-26,0,0,['Ava DuVernay'],"['History', 'Documentary']",False,120
+328978,Venus VS.,2013-07-02,0,0,['Ava DuVernay'],['Documentary'],False,60
+507263,Black America Again,2016-10-21,0,0,['Ava DuVernay'],[],False,22
+512021,The New Gods,,0,0,['Ava DuVernay'],"['Science Fiction', 'Action']",False,
+552691,Untitled Lupita Nyong'o/Rihanna Project,,0,0,['Ava DuVernay'],['Crime'],False,
+385703,Compton in C Minor,2009-01-01,0,0,['Ava DuVernay'],['Documentary'],False,
+26710,My Baby's Daddy,2004-01-09,0,51,['Cheryl Dunye'],['Comedy'],False,86
+393313,Truth Be Told,2002-01-01,0,0,['Cheryl Dunye'],['Drama'],False,83
+44479,The Watermelon Woman,1996-09-07,0,0,['Cheryl Dunye'],"['Drama', 'Comedy', 'Romance']",False,90
+44288,The Owls,2010-01-01,0,0,['Cheryl Dunye'],['Drama'],False,66
+253157,Valencia,2013-06-22,0,0,['Cheryl Dunye'],[],False,105
+275968,Mommy Is Coming,2012-03-08,0,0,['Cheryl Dunye'],[],False,64
+43671,Stranger Inside,2001-06-23,0,0,['Cheryl Dunye'],"['Crime', 'Drama']",False,97
+433270,The Potluck and the Passion,1993-01-04,0,0,['Cheryl Dunye'],[],False,23
+579869,DiAna's Hair Ego Remix,2017-12-01,0,0,['Cheryl Dunye'],['Documentary'],False,9
+510365,Brother From Another Time,2014-11-09,0,0,['Cheryl Dunye'],[],False,6
+433271,An Untitled Portrait,1993-01-04,0,0,['Cheryl Dunye'],[],False,3
+418803,Vanilla Sex,1992-01-01,0,0,['Cheryl Dunye'],['Documentary'],False,4
+370043,She Don't Fade,1991-01-01,0,0,['Cheryl Dunye'],[],False,24
+368972,Greetings from Africa,1996-07-19,0,0,['Cheryl Dunye'],"['Comedy', 'Documentary']",False,8
+367327,Janine,1990-01-01,0,0,['Cheryl Dunye'],[],False,9
+315242,Black Is Blue,2014-06-20,0,0,['Cheryl Dunye'],[],False,21
+225283,Gone Too Far!,2014-10-10,0,0,['Destiny Ekaragha'],['Comedy'],False,87
+357183,Danny & the Human Zoo,2015-08-31,0,0,['Destiny Ekaragha'],[],False,90
+93905,Tight Jeans,2008-10-14,0,0,['Destiny Ekaragha'],"['Drama', 'Comedy']",False,8
+550620,Chance Meeting,2013-10-08,0,0,['Destiny Ekaragha'],['Romance'],False,7
+550610,Mumatar,2018-04-20,0,0,['Destiny Ekaragha'],['Comedy'],False,10
+550608,The Future WAGs of Great Britain,2010-08-19,0,0,['Destiny Ekaragha'],['Drama'],False,24
+550603,A Bloody Muddle,2011-01-01,0,0,['Destiny Ekaragha'],"['Comedy', 'Drama']",False,5
+324520,The Park,2009-01-01,0,0,['Destiny Ekaragha'],[],False,17
+473765,The Ancestors Came,2017-10-10,0,0,['Cecile Emeke'],[],False,6
+375490,Strolling,2015-01-02,0,0,['Cecile Emeke'],[],False,
+327381,Ackee & Saltfish,2015-02-08,0,0,['Cecile Emeke'],['Drama'],False,17
+477336,Break Fruit,2015-01-01,0,0,['Akwaeke Emezi'],[],False,10
+477476,Blesi,2014-01-01,0,0,['Akwaeke Emezi'],[],False,2
+477477,Hey Celestial,2014-01-01,0,0,['Akwaeke Emezi'],[],False,1
+285263,Spider,2014-01-01,0,0,['Akwaeke Emezi'],['Fantasy'],False,2
+204445,Letter from My Village,1975-01-02,0,0,['Safi Faye'],"['Documentary', 'Drama']",False,98
+258107,Mossane,1996-05-18,0,0,['Safi Faye'],[],False,105
+578332,Les âmes au soleil,1981-01-02,0,0,['Safi Faye'],[],False,27
+545860,Man Sa Yay,,0,0,['Safi Faye'],[],False,
+540718,Tesito,1989-07-21,0,0,['Safi Faye'],['Documentary'],False,30
+540706,Selbe: One Among Many,1983-05-22,0,0,['Safi Faye'],['Documentary'],False,30
+523503,La passante,1972-01-01,0,0,['Safi Faye'],[],False,
+271726,Fad'jal,1979-01-02,0,0,['Safi Faye'],[],False,112
+434692,Speak Up,2017-10-11,0,0,['Amandine Gay'],['Documentary'],False,122
+617099,The Giverny Document (Single Channel),2019-08-10,0,0,"[""Ja'Tovia Gary""]",[],False,40
+569975,Giverny I (Négresse Impériale),2017-01-01,0,0,"[""Ja'Tovia Gary""]",[],False,6
+422850,An Ecstatic Experience,2015-01-01,0,0,"[""Ja'Tovia Gary""]",[],False,6
+374332,Cakes Da Killa: No Homo,2015-12-22,0,0,"[""Ja'Tovia Gary""]","['Documentary', 'Music']",False,13
+369403,"Happy Birthday, Marsha!",2018-03-10,0,0,['Tourmaline'],['Drama'],False,14
+612835,Salacia,2019-07-03,0,0,['Tourmaline'],[],False,
+495233,The Personal Things,2016-11-19,0,0,['Tourmaline'],[],False,3
+495226,Atlantic is a Sea of Bones,2017-12-03,0,0,['Tourmaline'],[],False,8
+48833,Night Catches Us,2010-12-03,0,0,['Tanya Hamilton'],"['Drama', 'Romance']",False,90
+520369,It's a Hard Truth Ain't It,2018-04-25,0,0,['dream hampton'],['Documentary'],False,75
+46907,Notorious B.I.G.: Bigger Than Life,2007-05-16,0,0,['dream hampton'],"['Documentary', 'Music']",False,101
+138303,The Russian Winter,2012-04-20,0,0,['dream hampton'],['Documentary'],False,94
+84319,An Oversimplification of Her Beauty,2012-01-30,0,0,"['dream hampton', 'Chanelle Aponte Pearson']","['Animation', 'Comedy', 'Drama', 'Romance']",False,95
+416259,"A History of The War on Drugs, from Prohibition to Gold Rush",2016-09-15,0,0,['dream hampton'],['Documentary'],False,4
+339365,Treasure: From Tragedy to Trans Justice Mapping a Detroit Story,2015-06-13,0,0,['dream hampton'],[],False,63
+332674,I Am Ali,2002-01-01,0,0,['dream hampton'],[],False,18
+10188,The Sisterhood of the Traveling Pants 2,2008-08-06,27000000,44352417,['Sanaa Hamri'],"['Adventure', 'Comedy', 'Drama', 'Family']",True,117
+38093,Just Wright,2010-05-14,0,21520719,['Sanaa Hamri'],"['Comedy', 'Drama', 'Romance']",False,100
+15363,Something New,2006-01-29,0,11400000,['Sanaa Hamri'],"['Comedy', 'Drama', 'Romance']",False,99
+189204,Lovestruck: The Musical,2013-04-21,0,0,['Sanaa Hamri'],"['Comedy', 'Fantasy', 'Romance']",False,83
+42654,Acceptance,2009-08-22,0,0,['Sanaa Hamri'],['Comedy'],False,95
+124088,Just Another Girl on the I.R.T.,1993-01-01,0,0,['Leslie Harris'],['Drama'],False,92
+17364,Their Eyes Were Watching God,2005-03-06,0,0,"['Zora Neale Hurston', 'Darnell Martin']","['Drama', 'Romance']",False,113
+200196,"Commandment Keeper Church, Beaufort South Carolina, May 1940",1940-03-24,0,0,['Zora Neale Hurston'],[],False,42
+410253,Fieldwork Footage,1928-01-08,0,0,['Zora Neale Hurston'],['Documentary'],False,7
+577437,Ethnographic Films,1929-01-01,0,0,['Zora Neale Hurston'],['Documentary'],False,12
+510885,Plaquemines,2016-10-14,0,0,['Nailah Jefferson'],['Drama'],False,28
+266689,Vanishing Pearls: The Oystermen of Pointe à la Hache,2014-04-18,0,0,['Nailah Jefferson'],"['Documentary', 'History']",False,80
+414394,Forgiving Chris Brown,2016-09-26,10000,0,['Marquette Jones'],['Comedy'],False,12
+517987,Rafiki,2018-09-26,0,0,['Wanuri Kahiu'],"['Drama', 'Romance']",False,82
+45167,Pumzi,2009-10-20,35000,0,['Wanuri Kahiu'],"['Science Fiction', 'Drama']",False,21
+501875,Who Am I?,2016-11-01,0,0,['Wanuri Kahiu'],[],False,30
+220860,Homecoming,2013-09-05,0,0,['Wanuri Kahiu'],['Science Fiction'],False,11
+351480,From a Whisper,2008-09-12,0,0,['Wanuri Kahiu'],['Drama'],False,79
+386163,Let the Church Say Amen,2013-08-29,0,0,['Regina King'],"['Drama', 'Family']",False,82
+506528,Harriet,2019-11-01,0,0,['Kasi Lemmons'],"['History', 'Drama']",False,125
+45153,Eve's Bayou,1997-11-07,0,0,['Kasi Lemmons'],['Drama'],False,109
+25208,The Caveman's Valentine,2001-01-19,0,0,['Kasi Lemmons'],"['Drama', 'Mystery', 'Thriller']",False,105
+175541,Black Nativity,2013-11-27,17500000,7018189,['Kasi Lemmons'],"['Drama', 'Music']",False,93
+6535,Talk to Me,2007-07-13,0,4778376,['Kasi Lemmons'],['Drama'],False,118
+114476,Dr. Hugo,1998-01-01,0,0,['Kasi Lemmons'],[],False,19
+121983,Free Angela and All Political Prisoners,2012-09-09,0,0,['Shola Lynch'],['Documentary'],False,101
+89585,Chisholm '72: Unbought & Unbossed,2004-01-14,0,0,['Shola Lynch'],['Documentary'],False,75
+298414,We the Economy: 20 Short Films You Can't Afford to Miss,2014-10-21,0,0,['Shola Lynch'],[],False,
+328994,Runner,2013-08-13,0,0,['Shola Lynch'],['Documentary'],False,60
+150065,Yelling To The Sky,2011-03-11,0,0,['Victoria Mahoney'],['Drama'],False,94
+471152,Searching,2013-11-12,0,0,['Victoria Mahoney'],['Drama'],False,3
+10520,Itty Bitty Titty Committee,2007-02-09,1000000,18479,['Tina Mabry'],['Comedy'],False,87
+421852,An American Girl Story - Melody 1963: Love Has to Win,2016-10-21,0,0,['Tina Mabry'],['Family'],True,48
+193309,Mississippi Damned,2009-01-16,0,0,['Tina Mabry'],['Drama'],False,120
+631928,Dawn in the Dark,2019-10-04,0,0,['Runyararo Mapfumo'],['Drama'],False,16
+485063,Masterpiece,,0,0,['Runyararo Mapfumo'],[],False,6
+14299,Cadillac Records,2008-12-05,12000000,8880045,['Darnell Martin'],"['Drama', 'History', 'Music']",False,109
+61348,The Lost Valentine,2011-01-30,0,0,['Darnell Martin'],"['TV Movie', 'Romance', 'Drama']",False,100
+327749,Wish You Well,2013-10-19,0,0,['Darnell Martin'],"['Family', 'Drama']",False,100
+26478,Prison Song,2001-04-27,0,0,['Darnell Martin'],['Drama'],False,94
+48992,I Like It Like That,1994-10-14,0,1777020,['Darnell Martin'],"['Comedy', 'Drama', 'Romance']",False,104
+103665,Firelight,2012-04-22,0,0,['Darnell Martin'],"['Drama', 'TV Movie']",False,97
+464862,Jinn,2018-03-11,0,0,"[""Nijla Mu'min""]",['Drama'],False,92
+469580,Dream,2015-07-30,3500,0,"[""Nijla Mu'min""]",['Drama'],False,16
+385043,Wake,2010-08-14,0,0,['Bree Newsome'],[],False,20
+584305,As Told To G/D Thyself,2019-01-26,0,0,['Jenn Nkiru'],"['Music', 'Animation']",False,22
+619513,Black to Techno,2019-08-08,0,0,['Jenn Nkiru'],['Documentary'],False,20
+507735,Rebirth Is Necessary,2017-09-20,0,0,['Jenn Nkiru'],[],False,10
+460318,En Vogue,2014-06-09,0,0,['Jenn Nkiru'],[],False,4
+549511,The Last Two Lovers at the End of the World,2017-12-01,0,0,['Nefertite Nguvu'],"['Drama', 'Romance', 'Science Fiction']",False,20
+361899,In The Morning,2014-09-20,0,0,['Nefertite Nguvu'],['Drama'],False,75
+507513,Myself When I Am Real,,0,0,['Nefertite Nguvu'],['Drama'],False,14
+279268,In My Genes,2009-04-01,0,0,"[""Lupita Nyong'o""]","['Drama', 'Documentary']",False,78
+634523,Miss Universe,,0,0,"[""Lupita Nyong'o""]","['Science Fiction', 'Comedy']",False,
+560429,Born a Crime,,0,0,"[""Lupita Nyong'o""]",['Drama'],False,
+449757,I Am Not a Witch,2017-10-20,0,0,['Rungano Nyoni'],['Drama'],False,93
+176533,The Mass of Men,2012-08-08,0,0,['Rungano Nyoni'],['Drama'],False,17
+289033,Listen,2014-09-10,0,0,['Rungano Nyoni'],['Drama'],False,13
+346252,Mwansa the Great,2011-05-29,0,0,['Rungano Nyoni'],"['Drama', 'Adventure']",False,23
+314486,Nordic Factory,2014-05-15,0,0,['Rungano Nyoni'],[],False,61
+549325,Solace,2018-09-23,0,0,['Tchaiko Omawale'],['Drama'],False,87
+501874,Mahogany Too,2018-01-27,0,0,['Akosua Adoma Owusu'],[],False,3
+390416,Reluctantly Queer,2016-02-16,0,0,['Akosua Adoma Owusu'],[],False,8
+220863,Kwaku Ananse,2013-09-05,0,0,['Akosua Adoma Owusu'],['Drama'],False,26
+476182,Untitled #1,2006-01-19,0,0,['Akosua Adoma Owusu'],[],False,2
+621806,White Afro,2019-08-07,0,0,['Akosua Adoma Owusu'],[],False,6
+581597,Ajube Kete,2005-10-26,0,0,['Akosua Adoma Owusu'],[],False,6
+578813,"Pelourinho, They Don’t Really Care About Us",2019-01-23,0,0,['Akosua Adoma Owusu'],['Documentary'],False,9
+535767,Intermittent Delight,2007-09-19,0,0,['Akosua Adoma Owusu'],[],False,5
+535764,Drexciya,2010-11-11,0,0,['Akosua Adoma Owusu'],['Documentary'],False,12
+479465,"Split Ends, I Feel Wonderful",2012-03-29,0,0,['Akosua Adoma Owusu'],['History'],False,5
+418706,My White Baby,2009-02-19,0,0,['Akosua Adoma Owusu'],[],False,22
+367026,Bus Nut,2014-04-07,0,0,['Akosua Adoma Owusu'],[],False,7
+32075,A Dry White Season,1989-01-01,0,0,['Euzhan Palcy'],"['Drama', 'Mystery']",False,107
+96715,Ruby Bridges,1998-01-18,0,0,['Euzhan Palcy'],"['Drama', 'Family']",False,96
+42115,Sugar Cane Alley,1983-09-21,0,0,['Euzhan Palcy'],"['Drama', 'Family']",False,103
+367329,The Killing Yard,2001-09-23,0,0,['Euzhan Palcy'],"['TV Movie', 'Drama']",False,110
+65907,Siméon,1992-12-16,0,0,['Euzhan Palcy'],"['Fantasy', 'Music']",False,115
+464275,Parcours de Dissidents,2006-07-02,0,0,['Euzhan Palcy'],['Documentary'],False,90
+460746,Les mariés de l'isle Bourbon,2007-09-27,0,0,['Euzhan Palcy'],[],False,
+211027,Aimé Césaire: une voix pour l'histoire,2007-04-15,0,0,['Euzhan Palcy'],[],False,165
+278316,Da Sweet Blood of Jesus,2014-06-22,1420000,0,['Numa Perrier'],"['Thriller', 'Comedy', 'Romance', 'Drama']",False,123
+576704,Jezebel,2019-03-09,0,0,['Numa Perrier'],"['Drama', 'Family']",False,88
+419377,Florida Water,2014-08-02,0,0,['Numa Perrier'],['Drama'],False,6
+296517,Pastor Jones 2: Lord Guide My 16 Year Old Daughter,2006-01-01,0,0,['Numa Perrier'],[],False,95
+543727,Selah and the Spades,2019-01-27,0,0,['Tayarisha Poe'],['Drama'],False,97
+537331,Selkie,2016-12-02,0,0,['Tayarisha Poe'],"['Fantasy', 'Romance', 'Comedy', 'Drama']",False,8
+14736,Love & Basketball,2000-04-21,20000000,27728118,['Gina Prince-Bythewood'],"['Action', 'Comedy', 'Drama', 'Romance']",False,124
+241771,Beyond the Lights,2014-09-10,7000000,14618727,['Gina Prince-Bythewood'],"['Romance', 'Drama']",False,116
+12253,Biker Boyz,2003-01-31,24000000,23510601,['Gina Prince-Bythewood'],"['Action', 'Drama']",False,110
+12837,The Secret Life of Bees,2008-09-17,11000000,38105395,['Gina Prince-Bythewood'],"['Adventure', 'Drama']",False,114
+45602,Disappearing Acts,2000-12-09,0,0,['Gina Prince-Bythewood'],"['TV Movie', 'Romance', 'Drama']",False,115
+425908,Silver Sable,,0,0,['Gina Prince-Bythewood'],"['Action', 'Science Fiction']",False,
+547016,The Old Guard,,0,0,['Gina Prince-Bythewood'],['Action'],False,
+414425,Mudbound,2017-11-16,10000000,0,['Dee Rees'],['Drama'],False,135
+330544,Bessie,2015-05-16,0,0,['Dee Rees'],"['Drama', 'Music', 'TV Movie']",False,107
+73939,Pariah,2011-12-27,0,0,['Dee Rees'],['Drama'],False,86
+505225,The Last Thing He Wanted,2020-12-31,0,0,['Dee Rees'],['Drama'],False,
+505224,Untitled Dee Rees Horror Project,,0,0,['Dee Rees'],['Horror'],False,
+527837,Eventual Salvation,2009-10-19,0,0,['Dee Rees'],['Documentary'],False,86
+509314,The Box,2018-03-04,0,0,['Dee Rees'],[],False,1
+637150,Colonial Gods,2009-10-01,0,0,['Dee Rees'],['Drama'],False,29
+505221,An Uncivil War,,0,0,['Dee Rees'],"['Drama', 'History']",False,
+284921,Pariah,2007-04-19,0,0,['Dee Rees'],[],False,28
+540,D.E.B.S.,2004-01-21,3500000,0,['Angela Robinson'],['Action'],False,91
+11451,Herbie Fully Loaded,2005-06-22,50000000,66002004,['Angela Robinson'],"['Comedy', 'Family', 'Adventure', 'Fantasy', 'Romance']",True,101
+420622,Professor Marston and the Wonder Women,2017-10-13,0,1584759,['Angela Robinson'],"['Drama', 'Romance']",False,108
+254936,Girltrash: All Night Long,2014-02-10,0,0,['Angela Robinson'],"['Crime', 'Drama', 'Comedy', 'Music']",False,85
+178516,D.E.B.S.,2003-01-16,0,0,['Angela Robinson'],[],False,11
+537451,Strangers in Paradise,,0,0,['Angela Robinson'],[],False,
+621685,The Kinsey 3,1998-01-01,0,0,['Angela Robinson'],[],False,13
+529748,Fucked Like a Star,,0,0,['STEFANI SAINTONGE'],[],False,8
+306997,Seventh Grade,2014-10-24,0,0,['STEFANI SAINTONGE'],['Drama'],False,12
+245855,Difret,2014-01-19,0,49667,['Lacey Schwartz'],['Drama'],False,96
+296095,Little White Lie,2014-07-29,0,0,['Lacey Schwartz'],['Documentary'],False,65
+66894,Ride,1998-03-27,0,0,['Millicent Shelton'],['Comedy'],False,90
+102915,Hornet's Nest,2012-03-31,0,0,['Millicent Shelton'],"['Crime', 'Drama']",False,120
+483771,The Tale of Four,2017-10-24,0,0,['Gabourey Sidibe'],['Drama'],False,22
+580056,Sojourner,2018-01-01,0,0,['Cauleen Smith'],[],False,22
+521774,Crow Requiem,2015-04-07,0,0,['Cauleen Smith'],['Drama'],False,10
+329587,Drylongso,1998-10-17,0,0,['Cauleen Smith'],[],False,86
+532426,Songs for Earth & Folk,2013-01-01,0,0,['Cauleen Smith'],[],False,11
+532425,Lessons in Semaphore,,0,0,['Cauleen Smith'],[],False,4
+532307,Three Songs about Liberation,,0,0,['Cauleen Smith'],[],False,9
+532304,Triangle Trade,,0,0,['Cauleen Smith'],[],False,14
+530656,Pilgrim,2017-01-01,0,0,['Cauleen Smith'],[],False,8
+458334,Sine at the Canyon Sine at the Sea (by Kelly Gabron),2017-01-04,0,0,['Cauleen Smith'],[],False,7
+458331,H-E-L-L-O,2015-03-06,0,0,['Cauleen Smith'],[],False,11
+422904,The Changing Same,2001-10-10,0,0,['Cauleen Smith'],"['Drama', 'Science Fiction']",False,9
+412592,The Way Out Is The Way Two,,0,0,['Cauleen Smith'],[],False,73
+340297,Chronicles of a Lying Spirit (by Kelly Gabron),1992-07-01,0,0,['Cauleen Smith'],[],False,13
+473290,When Love Kills: The Falicia Blakely Story,2017-09-04,0,0,['Tasha Smith'],"['TV Movie', 'Drama']",False,95
+499901,Audition,2007-04-19,0,0,['Sosena Solomon'],['Comedy'],False,20
+392737,Blue Girls Burn Fast,2016-04-12,0,0,['Amandla Stenberg'],['Drama'],False,19
+414920,The Yellow Wallpaper,2014-05-14,0,0,['Amandla Stenberg'],[],False,13
+625450,Tall Girl,2019-09-13,0,0,['Nzingha Stewart'],"['Comedy', 'Drama', 'Romance']",False,101
+321160,With This Ring,2015-01-24,0,0,['Nzingha Stewart'],"['Comedy', 'Romance', 'Drama']",False,105
+436939,Love by the 10th Date,2017-01-28,0,0,['Nzingha Stewart'],['Comedy'],False,87
+164848,All About You,2001-08-04,0,0,['Christine Swanson'],[],False,100
+405621,Love Under New Management: The Miki Howard Story,2016-06-12,0,0,['Christine Swanson'],"['Drama', 'TV Movie']",False,81
+35684,All About Us,2007-10-01,0,0,['Christine Swanson'],"['Drama', 'Romance']",False,90
+245581,Homegoings,2013-06-25,0,0,['Christine Turner'],[],False,60
+529161,Lenny,2018-01-23,0,0,['Christine Turner'],['Documentary'],False,
+516707,Hold On,2017-01-21,0,0,['Christine Turner'],['Drama'],False,9
+515685,You Can Go,2016-09-29,0,0,['Christine Turner'],"['Drama', 'Thriller']",False,9
+378200,The Perfect Match,2016-03-11,0,0,['Dana Verde'],"['Comedy', 'Romance']",False,96
+557521,Under Bone,2017-09-30,0,0,['Dana Washington'],[],False,5
+557514,Liberated Zones,2018-05-01,0,0,['Dana Washington'],[],False,10
+477180,Living with Pride: Ruth Ellis @ 100,,0,0,['Yvonne Welbon'],[],False,
+475990,Missing Relations,1994-01-01,0,0,['Yvonne Welbon'],[],False,13
+475989,Sisters in the Life: First Love,1993-01-01,0,0,['Yvonne Welbon'],[],False,23
+475988,Cinematic Jazz of Julie Dash,1993-01-01,0,0,['Yvonne Welbon'],[],False,26
+475987,Monique,1990-01-01,0,0,['Yvonne Welbon'],[],False,3
+470556,Sisters in Cinema,2003-05-01,0,0,['Yvonne Welbon'],[],False,57
+469401,"Remembering Wei-Yi Fang, Remembering Myself",1995-01-01,0,0,['Yvonne Welbon'],[],False,29

@@ -33,11 +33,18 @@ def main(args):
         while len(nameGroup):
             nameGroups.append(nameGroup.split(","))
             nameGroup = inp("", log, saveS=False, end="")
+    time.sleep(0.5)
+    if pathlib.os.path.exists("cache.json"):
+        with open("cache.json", "r") as cache:
+            nameToIds = json.loads(cache.read())
+    else:
+        nameToIds = {}
+
     # Base payload that will be used for each name
     payload = {"api_key": key, "include_adult": False, "language": "en-US"}
     count = 1
-    nameToIds = {}
     print("Searching TMDB for people...")
+    time.sleep(0.5)
     # Loop through each name in the list, searching TMDb for associated ids.
     # Assumes the correct person is the first search result for the name.
     for i, nameGroup in enumerate(nameGroups):
@@ -52,17 +59,21 @@ def main(args):
                     nameToIds[name] = result['results'][0]['id']
                 count += 1
         showProgress(i+1, len(nameGroups))
-    
+    with open("cache.json", "w") as cacheWrite:
+        cacheWrite.write(json.dumps(nameToIds))
+    time.sleep(0.5)
     # Base movie payload used for each movie
     movie_payload = {'api_key': key}
-    fields = {"actors": ("cast", "actor/actress"), "directors": ("crew","crew_member"), "both": ("people","cast/crew")}
+    fields = {"actors": ("cast", "actors/actresses"), "directors": ("crew","crew_members"), "both": ("people","cast/crew")}
     searchType, nameField = fields[inp("Searching actors, directors, or both?", log)] 
+    time.sleep(0.5)
     with open("genres.json", "r") as gF:
         genres = json.loads(gF.read())
     searchGenres = []
     genre = inp("Any particular genre to search? Type 'done' if no or type 'all' to see all available genres.", log)
     # Handles pottential errors with user input for searching genres
     while genre != "done":
+        time.sleep(0.3)
         if genre == "all":
             genre = inp(f"Available genres are {list_representation(list(genres))}. Enter one of these or press 'done' to continue.", log)
         elif genre not in [g.lower() for g in genres]:
@@ -72,6 +83,7 @@ def main(args):
         else:
             searchGenres.append(genre)
             genre = inp("Add another genre, type 'done' to continue, or type 'all' to see all available genres.", log)
+    time.sleep(0.5)
     genreIds = [genres[g] for g in genres if g.lower() in searchGenres]
     movie_payload["with_genres"] = genreIds
     print("Getting movie details...")
@@ -85,9 +97,6 @@ def main(args):
         ids = ",".join([str(nameToIds[name]) for name in nameGroup if name in nameToIds])
         movie_payload['with_'+searchType] = ids
         results = requests.get(URL+'/discover/movie', params=movie_payload).json()['results']
-        # if nameGroup == ["Chris Hemsworth"]:
-        #     print("Results: ",[d["title"] for d in results])
-        #     print("Movies: ",{m:movies[m]["title"] for m in movies})
         count += 1
         movieDetails = []
         detail_payload = {'api_key': key, 'language': 'en-US'}
@@ -109,20 +118,14 @@ def main(args):
                 detail = copy.deepcopy(movies[r["id"]])
                 detail["id"] = r["id"]
                 movieDetails.append(detail)
-                print(nameGroup)
-                print("Search Results: \n",[(d["id"], d["title"]) for d in results])
-                print("Movie Id: ",r["id"])
-                print({i: {"title": movies[i]["title"], nameField: movies[i][nameField]} for i in movies})
                 for name in nameGroup:
                     if name not in movies[r["id"]][nameField]:
-                        print(name)
                         movies[r["id"]][nameField].append(name)
                     
         groupToMovies[",".join(nameGroup)] = {"ids": ids, "results": movieDetails}
-        # showProgress(i+1, len(nameGroups))
+        showProgress(i+1, len(nameGroups))
     log["count"] = len(movies)
     output = inp("What name should the csv and json files be saved under?", log)
-    time.sleep(0.8)
     # Creates output folder and adds the csv file with all of the relevant detail + the json file with 
     # the nameToMovies dictionary for reference
     if not pathlib.os.path.exists("output"):

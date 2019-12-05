@@ -1,4 +1,4 @@
-Application run on black_directors.txt using no search genres with 281 result(s)
+Application run on black_directors.txt using no search genres with 316 result(s)
 
 Program lines: 
 What file contains your list of names? (include extension) Or type 'manual' to enter names manually.
@@ -8,10 +8,10 @@ Black_Directors
 File not recognized. Try again or type 'manual' to enter names manually.
 genres.json
 File is not a text file. Try again or type 'manual' to enter names manually.
-Black_directors.txt
-Searching actors or directors?
+Black_Directors.txt
+Searching actors, directors, or both?
 directors
-Any particular genre to search? Type 'done' if no.
+Any particular genre to search? Type 'done' if no or type 'all' to see all available genres.
 done
 What name should the csv and json files be saved under?
 example
