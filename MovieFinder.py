@@ -58,6 +58,8 @@ def main(args):
                 result = requests.get(URL+"/search/person", params=payload).json()
                 if len(result['results']):
                     nameToIds[name] = result['results'][0]['id']
+                else:
+                    print(f"No results found for '{name}'")
                 count += 1
         showProgress(i+1, len(nameGroups))
     # Updates the cache
@@ -135,7 +137,7 @@ def main(args):
         pathlib.Path("output").mkdir()
     with open(f"output/{output}.json", "w") as f1:
         f1.write(json.dumps(groupToMovies))
-    with open(f"output/{output}.csv", "w", newline="") as out:
+    with open(f"output/{output}.csv", "w", newline="", encoding="utf-8") as out:
         writer = csv.DictWriter(out, fieldnames=["id", "title","release_date","budget", "revenue", nameField, "genres", "belongs_to_collection","runtime"], extrasaction="ignore")
         writer.writeheader()
         for m in movies:
