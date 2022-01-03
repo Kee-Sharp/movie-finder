@@ -6,6 +6,9 @@ import copy
 import csv
 from utils import *
 import pathlib
+import pandas as pd
+pd.set_option("max_columns", 10)
+pd.set_option("display.width", 200)
 
 def main(args):
     # TMDb Base Url and API key
@@ -22,7 +25,7 @@ def main(args):
         else:
             with open(nameFile, "r") as nF:
                 nameLines = [nL.strip() for nL in nF.readlines()]
-                nameGroups = [nL.split(",") for nL in nameLines]
+                nameGroups = [[name.strip() for name in nL.split(",")] for nL in nameLines]
             log["inputNames"] = nameFile.lower()
             nameFile = "done"
     # If this option is chosen, the user will enter names one by one
@@ -31,7 +34,7 @@ def main(args):
         nameGroups = []
         nameGroup = inp("Type each name (or group of names separated by ',') and then press enter. Entering names will stop when you press enter twice.", log)
         while len(nameGroup):
-            nameGroups.append(nameGroup.split(","))
+            nameGroups.append([name.strip() for name in nameGroup.split(",")])
             nameGroup = inp("", log, saveS=False, end="")
     time.sleep(0.5)
     # If the cache exists, the nameToIds dict will use that as a base
@@ -130,33 +133,41 @@ def main(args):
         groupToMovies[",".join(nameGroup)] = {"ids": ids, "results": movieDetails}
         showProgress(i+1, len(nameGroups))
     log["count"] = len(movies)
-    output = inp("What name should the csv and json files be saved under?", log)
-    # Creates output folder and adds the csv file with all of the relevant detail, the json file with 
-    # the groupToMovies dictionary for reference, and a log file with a summary of the program run
-    if not pathlib.os.path.exists("output"):
-        pathlib.Path("output").mkdir()
-    with open(f"output/{output}.json", "w") as f1:
-        f1.write(json.dumps(groupToMovies))
-    with open(f"output/{output}.csv", "w", newline="", encoding="utf-8") as out:
-        writer = csv.DictWriter(out, fieldnames=["id", "title","release_date","budget", "revenue", nameField, "genres", "belongs_to_collection","runtime"], extrasaction="ignore")
-        writer.writeheader()
-        for m in movies:
-            movie = movies[m]
-            movie["id"] = m
-            writer.writerow(movie)
-    with open(f"output/{output}.log", "w") as f2:
-        p1 = "names inputted at run time" if log["inputNames"] == "manual" else log["inputNames"]
-        if not len(searchGenres):
-            p2 = "no search genres" 
-        elif len(searchGenres) == 1:
-            p2 = f"{searchGenres[0]} as a search genre"
-        else:
-            p2 = f"{list_representation(searchGenres)} as search genres"
-        p3 = log["count"]
-        f2.write(f"Application run on {p1} using {p2} with {p3} result(s)\n\n")
-        f2.write("Program lines: \n")
-        for line in log["lines"]:
-            f2.write(line+"\n")
+    output = inp("What name should the csv and json files be saved under? Or type 'print' to see results on command line.", log) 
+    if output != "print":    
+        fName = output.upper()
+        # Creates output folder and adds the csv file with all of the relevant detail, the json file with 
+        # the groupToMovies dictionary for reference, and a log file with a summary of the program run
+        if not pathlib.os.path.exists("output"):
+            pathlib.Path("output").mkdir()
+        if not pathlib.os.path.exists(f"output/{fName}"):
+            pathlib.Path(f"output/{fName}").mkdir()
+        with open(f"output/{fName}/{output}.json", "w") as f1:
+            f1.write(json.dumps(groupToMovies))
+        with open(f"output/{fName}/{output}.csv", "w", newline="", encoding="utf-8") as out:
+            writer = csv.DictWriter(out, fieldnames=["id", "title","release_date","budget", "revenue", nameField, "genres", "belongs_to_collection","runtime"], extrasaction="ignore")
+            writer.writeheader()
+            for m in movies:
+                movie = movies[m]
+                movie["id"] = m
+                writer.writerow(movie)
+        with open(f"output/{fName}/{output}.log", "w") as f2:
+            p1 = "names inputted at run time" if log["inputNames"] == "manual" else log["inputNames"]
+            if not len(searchGenres):
+                p2 = "no search genres" 
+            elif len(searchGenres) == 1:
+                p2 = f"{searchGenres[0]} as a search genre"
+            else:
+                p2 = f"{list_representation(searchGenres)} as search genres"
+            p3 = log["count"]
+            f2.write(f"Application run on {p1} using {p2} with {p3} result(s)\n\n")
+            f2.write("Program lines: \n")
+            for line in log["lines"]:
+                f2.write(line+"\n")
+    else:
+        essentialKeys = ["title","release_date", "revenue", nameField, "runtime"]
+        movies = {i:onlyKeys(d, essentialKeys) for i,d in movies.items()}
+        print(pd.DataFrame(movies).transpose())
 
 
 if __name__ == "__main__":

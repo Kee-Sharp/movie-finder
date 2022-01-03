@@ -1,0 +1,873 @@
+id,title,release_date,budget,revenue,actors/actresses,genres,belongs_to_collection,runtime
+470044,The Hate U Give,10/19/2018,23000000,34934009,"['Regina Hall', 'Marcia Wright']","['Crime', 'Drama']",FALSE,133
+22803,Law Abiding Citizen,10/15/2009,53000000,126690726,"['Regina Hall', 'Viola Davis']","['Drama', 'Crime', 'Thriller']",FALSE,109
+335791,When the Bough Breaks,9/9/2016,10000000,30658387,['Regina Hall'],"['Mystery', 'Drama', 'Horror']",FALSE,97
+326423,Barbershop: The Next Cut,4/15/2016,20000000,55030051,"['Regina Hall', 'Garcelle Beauvais', 'Eve Jihan Jeffers', 'Marcia Wright']","['Comedy', 'Drama']",TRUE,112
+14736,Love & Basketball,4/21/2000,20000000,27728118,"['Regina Hall', 'Tyra Banks', 'Sanaa Lathan', 'Gabrielle Union', 'Alfre Woodard', 'Kyla Pratt', 'Debbi Morgan', 'Erika Ringor', 'Monica Calhoun']","['Action', 'Comedy', 'Drama', 'Romance']",FALSE,124
+16162,The Best Man,10/22/1999,9000000,34573780,"['Regina Hall', 'Sanaa Lathan', 'Nia Long', 'Monica Calhoun']","['Drama', 'Comedy']",TRUE,120
+456086,Support the Girls,8/24/2018,0,129124,['Regina Hall'],"['Drama', 'Comedy']",FALSE,91
+308027,"People, Places, Things",8/14/2015,0,0,['Regina Hall'],"['Romance', 'Comedy', 'Drama']",FALSE,85
+13098,Paid in Full,10/25/2002,0,3090862,['Regina Hall'],"['Action', 'Crime', 'Drama']",FALSE,93
+321160,With This Ring,1/24/2015,0,0,"['Regina Hall', 'Gabrielle Union', 'Eve Jihan Jeffers']","['Comedy', 'Romance', 'Drama']",FALSE,105
+22105,Danika,6/10/2006,5000000,0,['Regina Hall'],"['Drama', 'Horror', 'Thriller']",FALSE,79
+30367,The Elder Son,1/1/2006,2000000,0,['Regina Hall'],"['Romance', 'Comedy', 'Drama']",FALSE,84
+45602,Disappearing Acts,12/9/2000,0,0,"['Regina Hall', 'Sanaa Lathan']","['TV Movie', 'Romance', 'Drama']",FALSE,115
+547344,The Everything,8/30/2018,0,0,['Regina Hall'],"['Fantasy', 'Romance', 'Family', 'Drama']",FALSE,30
+556867,Breaking News in Yuba County,,0,0,['Regina Hall'],"['Comedy', 'Drama', 'Crime']",FALSE,0
+185462,Too Tired to Die,1/20/1998,0,0,['Regina Hall'],"['Fantasy', 'Comedy', 'Drama']",FALSE,97
+347126,God's Not Dead 2,4/1/2016,5000000,23507567,['Robin Givens'],['Drama'],TRUE,121
+8940,Tyson,5/16/2008,0,0,['Robin Givens'],"['Documentary', 'Drama']",FALSE,90
+434767,God Bless the Broken Road,9/7/2018,0,0,['Robin Givens'],"['Drama', 'Family', 'Romance']",FALSE,111
+15450,The Family That Preys,9/12/2008,0,0,"['Robin Givens', 'Sanaa Lathan', 'Taraji P. Henson', 'Alfre Woodard']","['Drama', 'Romance']",FALSE,111
+547454,Never Heard,11/1/2018,4000000,0,['Robin Givens'],"['Drama', 'Family']",FALSE,89
+429151,A Christmas to Remember,11/13/2015,0,0,['Robin Givens'],"['Family', 'Comedy', 'Drama']",FALSE,112
+471288,Dreams I Never Had,4/1/2018,1300000,0,['Robin Givens'],['Drama'],FALSE,81
+75777,Hollywood Wives The New Generation,10/19/2003,0,0,['Robin Givens'],"['Drama', 'TV Movie']",FALSE,90
+134476,Beverly Hills Madam,4/6/1986,0,0,['Robin Givens'],"['TV Movie', 'Drama']",FALSE,97
+60457,Michael Jordan: An American Hero,4/18/1999,0,0,['Robin Givens'],['Drama'],FALSE,93
+23416,A Face to Die For,3/11/1996,0,0,['Robin Givens'],['Drama'],FALSE,90
+95743,Foreign Student,7/29/1994,0,0,['Robin Givens'],"['Drama', 'Romance']",FALSE,90
+130704,Church Girl,1/31/2012,0,0,"['Robin Givens', 'Demetria McKinney']",['Drama'],FALSE,131
+8784,Everything's Jake,9/25/2000,0,0,['Robin Givens'],['Drama'],FALSE,92
+247651,The Pastor's Secret,1/1/2012,0,0,['Robin Givens'],['Drama'],FALSE,80
+732094,La Vengeance à double face,3/11/1996,0,0,['Robin Givens'],"['Drama', 'TV Movie']",FALSE,0
+113587,Dangerous Intentions,1/3/1995,0,0,['Robin Givens'],['Drama'],FALSE,96
+4982,American Gangster,11/2/2007,100000000,266465037,['Ruby Dee'],"['Drama', 'Crime']",FALSE,157
+9061,Just Cause,2/17/1995,0,0,['Ruby Dee'],"['Action', 'Drama', 'Mystery', 'Thriller']",FALSE,102
+925,Do the Right Thing,6/14/1989,6500000,37295445,['Ruby Dee'],['Drama'],FALSE,120
+72358,A Thousand Words,3/7/2012,40000000,22044277,"['Ruby Dee', 'Kerry Washington']","['Drama', 'Comedy']",FALSE,91
+1713,Jungle Fever,6/7/1991,14000000,32482682,"['Ruby Dee', 'Halle Berry', 'Queen Latifah', 'Lonette McKee']","['Drama', 'Romance']",FALSE,132
+76354,Video Girl,10/11/2011,5000000,0,"['Ruby Dee', 'Meagan Good']",['Drama'],FALSE,95
+17364,Their Eyes Were Watching God,3/6/2005,0,0,"['Ruby Dee', 'Halle Berry']","['Drama', 'Romance']",FALSE,113
+29478,A Raisin in the Sun,5/28/1961,1500000,0,['Ruby Dee'],"['Drama', 'Romance']",FALSE,128
+65344,The Perfect Age of Rock 'n' Roll,8/5/2011,5000000,0,['Ruby Dee'],"['Drama', 'Music']",FALSE,92
+28433,No Way Out,8/16/1950,0,0,['Ruby Dee'],"['Crime', 'Drama', 'Thriller']",FALSE,106
+74946,Feast of All Saints,11/11/2001,0,0,"['Ruby Dee', 'Pam Grier', 'Eartha Kitt', 'Bianca Lawson']","['Romance', 'Drama']",FALSE,213
+66043,The Incident,11/5/1967,105000,0,['Ruby Dee'],"['Thriller', 'Drama']",FALSE,107
+35129,Edge of the City,1/4/1957,0,0,['Ruby Dee'],['Drama'],FALSE,85
+121971,Uptight,12/28/1968,0,0,['Ruby Dee'],"['Drama', 'Thriller']",FALSE,104
+165640,Betty and Coretta,2/2/2013,0,0,['Ruby Dee'],['Drama'],FALSE,90
+102275,Decoration Day,12/2/1990,0,0,['Ruby Dee'],"['TV Movie', 'Drama']",FALSE,100
+22264,America,2/28/2009,0,0,['Ruby Dee'],['Drama'],FALSE,0
+235519,I Know Why the Caged Bird Sings,4/28/1979,0,0,"['Ruby Dee', 'Diahann Carroll']","['Drama', 'TV Movie']",FALSE,96
+196235,Steam,11/15/2007,2200000,0,['Ruby Dee'],['Drama'],FALSE,120
+155881,Mr. and Mrs. Loving,3/13/1996,0,0,['Ruby Dee'],"['Romance', 'Drama']",FALSE,105
+50014,The Help,8/9/2011,25000000,216639112,"['Viola Davis', 'Cicely Tyson', 'Octavia Spencer']",['Drama'],FALSE,146
+146233,Prisoners,9/18/2013,46000000,122126687,['Viola Davis'],"['Drama', 'Thriller', 'Crime']",FALSE,153
+38167,Eat Pray Love,8/12/2010,60000000,204594016,['Viola Davis'],"['Drama', 'Romance']",FALSE,133
+109491,Beautiful Creatures,2/13/2013,60000000,60052138,['Viola Davis'],"['Fantasy', 'Drama', 'Romance']",FALSE,124
+43923,It's Kind of a Funny Story,10/8/2010,8000000,6491240,['Viola Davis'],"['Comedy', 'Drama']",FALSE,102
+525946,Troop Zero,2/1/2019,0,0,['Viola Davis'],"['Comedy', 'Drama', 'Family']",FALSE,94
+10060,Get Rich or Die Tryin',11/9/2005,40000000,46442528,['Viola Davis'],['Drama'],FALSE,117
+8271,Disturbia,4/12/2007,20000000,117760134,['Viola Davis'],"['Thriller', 'Drama', 'Mystery']",FALSE,105
+615667,Ma Rainey's Black Bottom,11/27/2020,0,0,['Viola Davis'],"['Drama', 'Music']",FALSE,94
+393457,Fences,12/16/2016,24000000,64414761,['Viola Davis'],['Drama'],FALSE,139
+15670,Madea Goes to Jail,2/16/2009,0,90508336,"['Viola Davis', 'Keshia Knight Pulliam', 'Whoopi Goldberg']","['Comedy', 'Crime', 'Drama']",TRUE,103
+16995,State of Play,4/17/2009,60000000,87784194,['Viola Davis'],"['Thriller', 'Drama']",FALSE,127
+1900,Traffic,3/23/2000,48000000,207515725,['Viola Davis'],"['Thriller', 'Drama', 'Crime']",FALSE,147
+275060,The Disappearance of Eleanor Rigby: Her,10/10/2014,0,0,['Viola Davis'],['Drama'],TRUE,100
+31046,Jesse Stone: Stone Cold,2/20/2005,0,0,['Viola Davis'],"['TV Movie', 'Crime', 'Drama', 'Thriller']",TRUE,87
+14359,Doubt,2/27/2008,20000000,50907234,['Viola Davis'],"['Drama', 'Mystery']",FALSE,104
+14326,Nights in Rodanthe,9/26/2008,0,84375061,['Viola Davis'],"['Drama', 'Romance']",FALSE,97
+64685,Extremely Loud & Incredibly Close,12/24/2011,40000000,55247881,['Viola Davis'],['Drama'],FALSE,129
+13435,Antwone Fisher,12/19/2002,12500000,23367586,['Viola Davis'],"['Drama', 'Romance']",FALSE,120
+150202,The Haunting in Connecticut 2: Ghosts of Georgia,2/1/2013,9000000,0,['Cicely Tyson'],"['Horror', 'Drama', 'Thriller']",TRUE,101
+16781,Madea's Family Reunion,2/24/2006,6000000,57231524,"['Cicely Tyson', 'Keke Palmer', 'Cassi Davis']","['Drama', 'Comedy', 'Romance']",TRUE,110
+16186,Diary of a Mad Black Woman,2/25/2005,0,0,['Cicely Tyson'],"['Comedy', 'Drama', 'Romance']",TRUE,116
+17880,Because of Winn-Dixie,2/18/2005,14000000,32645546,['Cicely Tyson'],"['Comedy', 'Drama', 'Family']",FALSE,106
+29723,The Concorde... Airport '79,8/17/1979,14000000,13015688,['Cicely Tyson'],"['Action', 'Drama', 'Thriller']",TRUE,123
+419709,Last Flag Flying,11/3/2017,0,0,['Cicely Tyson'],"['Drama', 'Comedy']",FALSE,125
+1633,Fried Green Tomatoes,12/27/1991,11000000,119418501,"['Cicely Tyson', 'LaTanya Richardson Jackson']","['Drama', 'Comedy']",FALSE,130
+22073,Hoodlum,8/27/1997,30000000,0,"['Cicely Tyson', 'Vanessa Lynn Williams', 'Vanessa Williams', 'Queen Latifah', 'Loretta Devine']","['Crime', 'Drama']",FALSE,130
+13816,Idlewild,8/25/2006,0,0,"['Cicely Tyson', 'Paula Patton', 'Malinda Williams']","['Crime', 'Drama', 'Music']",FALSE,121
+26983,Odds Against Tomorrow,10/15/1959,0,0,['Cicely Tyson'],"['Crime', 'Drama', 'Thriller']",FALSE,96
+31361,Bustin' Loose,5/22/1981,0,0,['Cicely Tyson'],"['Adventure', 'Comedy', 'Drama']",FALSE,94
+340005,Showing Roots,4/23/2016,0,0,['Cicely Tyson'],"['Comedy', 'Drama']",FALSE,100
+26622,Always Outnumbered,3/21/1998,0,0,['Cicely Tyson'],"['Drama', 'TV Movie']",FALSE,104
+50299,A Lesson Before Dying,5/22/1999,0,0,"['Cicely Tyson', 'Irma P. Hall']","['TV Movie', 'Drama']",FALSE,101
+126781,The Last Angry Man,10/22/1959,0,0,['Cicely Tyson'],['Drama'],FALSE,100
+100922,The Blue Bird,4/5/1976,12000000,887000,['Cicely Tyson'],"['Adventure', 'Family', 'Fantasy', 'Drama']",FALSE,95
+22176,The Heart Is a Lonely Hunter,7/31/1968,0,0,['Cicely Tyson'],['Drama'],FALSE,123
+101279,A Hero Ain't Nothin' But a Sandwich,2/3/1978,0,0,['Cicely Tyson'],['Drama'],FALSE,107
+258673,The Trip to Bountiful,3/8/2014,0,0,"['Cicely Tyson', 'Keke Palmer', 'Vanessa Lynn Williams', 'Vanessa Williams']","['Drama', 'TV Movie']",FALSE,89
+97006,Temptation: Confessions of a Marriage Counselor,3/29/2013,0,0,"['Brandy Norwood', 'Vanessa Lynn Williams', 'Vanessa Williams']",['Drama'],FALSE,111
+515264,Forbidden,3/15/2018,0,0,['Brandy Norwood'],"['Drama', 'Music', 'Romance']",FALSE,92
+121105,Double Platinum,5/16/1999,0,0,"['Brandy Norwood', 'Diana Ross']","['Drama', 'Music', 'TV Movie']",FALSE,94
+43749,Wolf Girl,9/21/2001,0,0,['Grace Jones'],"['Drama', 'Fantasy', 'Horror']",FALSE,97
+42014,Siesta,11/11/1987,0,0,['Grace Jones'],"['Drama', 'Mystery', 'Thriller']",FALSE,97
+51175,Shaka Zulu: The Last Great Warrior,5/3/2005,0,0,['Grace Jones'],['Drama'],FALSE,179
+89652,Colt 38 Special Squad,7/24/1976,0,0,['Grace Jones'],"['Action', 'Drama', 'Thriller']",FALSE,110
+42862,"Falco: Damn It, We're Still Alive!",2/7/2008,0,0,['Grace Jones'],"['Drama', 'Music']",FALSE,114
+214172,Deadly Vengeance,1/1/1981,0,0,['Grace Jones'],"['Action', 'Drama']",FALSE,84
+385448,The Little Mermaid,8/2/2018,0,0,['Diahann Carroll'],"['Adventure', 'Fantasy', 'Romance', 'Drama', 'Family']",FALSE,98
+29475,The Five Heartbeats,3/29/1991,0,0,['Diahann Carroll'],"['Drama', 'Music']",FALSE,121
+45153,Eve's Bayou,11/7/1997,0,0,"['Diahann Carroll', 'Meagan Good', 'Debbi Morgan']",['Drama'],FALSE,109
+51044,Carmen Jones,10/28/1954,750000,0,"['Diahann Carroll', 'Dorothy Dandridge']","['Drama', 'Romance']",FALSE,105
+55909,Claudine,4/22/1974,0,0,['Diahann Carroll'],"['Drama', 'Romance', 'Comedy']",FALSE,92
+174335,Sally Hemings: An American Scandal,2/13/2000,0,0,['Diahann Carroll'],"['Drama', 'Romance']",FALSE,251
+84119,Goodbye Again,5/23/1961,0,0,['Diahann Carroll'],"['Drama', 'Romance']",FALSE,120
+33710,Paris Blues,9/27/1961,0,0,['Diahann Carroll'],"['Romance', 'Drama', 'Music']",FALSE,98
+1940,Porgy and Bess,6/24/1959,7000000,0,"['Diahann Carroll', 'Dorothy Dandridge']","['Music', 'Drama', 'Romance']",FALSE,138
+229166,A Perry Mason Mystery: The Case of the Lethal Lifestyle,5/10/1994,0,0,['Diahann Carroll'],"['Drama', 'Mystery', 'Crime']",FALSE,120
+118911,Hurry Sundown,2/9/1967,0,0,['Diahann Carroll'],['Drama'],FALSE,146
+69936,The Courage to Love,1/24/2000,0,0,"['Diahann Carroll', 'Vanessa Lynn Williams', 'Vanessa Williams']","['Drama', 'History', 'Romance']",FALSE,87
+258427,Death Scream,9/26/1975,0,0,['Diahann Carroll'],"['Crime', 'Drama', 'TV Movie', 'History']",FALSE,96
+434779,Livin' for Love: The Natalie Cole Story,12/10/2000,0,0,['Diahann Carroll'],['Drama'],FALSE,85
+252664,Having Our Say: The Delany Sisters' First 100 Years,4/18/1999,0,0,['Diahann Carroll'],"['History', 'Drama']",FALSE,100
+564238,Murder in Black and White,1/7/1990,0,0,['Diahann Carroll'],"['Crime', 'Drama', 'Thriller', 'TV Movie']",FALSE,100
+132447,From the Dead of Night,2/27/1989,0,0,['Diahann Carroll'],"['Drama', 'Fantasy', 'Horror', 'Mystery', 'TV Movie']",FALSE,144
+111595,Diary of a Single Mom,1/27/2009,0,0,"['Diahann Carroll', 'Monica Calhoun']",['Drama'],FALSE,113
+184,Jackie Brown,4/10/1997,12000000,39673162,['Pam Grier'],"['Crime', 'Thriller', 'Drama']",FALSE,154
+574241,Poms,5/9/2019,0,8600192,['Pam Grier'],"['Comedy', 'Drama']",FALSE,91
+59861,Larry Crowne,6/30/2011,30000000,36160375,"['Pam Grier', 'Gugu Mbatha-Raw', 'Taraji P. Henson']","['Comedy', 'Romance', 'Drama']",FALSE,98
+38093,Just Wright,5/14/2010,0,21520719,"['Pam Grier', 'Paula Patton', 'Queen Latifah', 'Phylicia Rashad']","['Comedy', 'Drama', 'Romance']",FALSE,100
+336845,Cleveland Abduction,5/2/2015,0,0,['Pam Grier'],"['Drama', 'Crime', 'TV Movie']",FALSE,88
+15489,Snow Day,2/11/2000,130000000,62500000,['Pam Grier'],"['Comedy', 'Family', 'Drama']",FALSE,89
+13787,Holy Smoke,9/4/1999,0,0,['Pam Grier'],"['Comedy', 'Drama']",FALSE,115
+5722,Beyond the Valley of the Dolls,7/17/1970,2090000,40000000,['Pam Grier'],"['Comedy', 'Drama', 'Thriller']",TRUE,109
+22314,In Too Deep,8/25/1999,7000000,14011454,"['Pam Grier', 'Nia Long']","['Drama', 'Action', 'Thriller', 'Crime']",FALSE,95
+77084,3 A.M.,7/1/2001,0,0,['Pam Grier'],"['Crime', 'Drama']",FALSE,88
+23668,"Fort Apache, the Bronx",2/6/1981,0,0,['Pam Grier'],"['Crime', 'Drama']",FALSE,125
+34462,Women in Cages,10/19/1971,0,0,['Pam Grier'],"['Action', 'Crime', 'Drama']",FALSE,81
+39125,Love the Hard Way,3/27/2003,0,0,['Pam Grier'],"['Romance', 'Drama', 'Crime']",FALSE,104
+22910,The Big Bird Cage,7/1/1972,0,0,['Pam Grier'],"['Action', 'Crime', 'Drama']",FALSE,96
+86194,Drum,7/30/1976,0,0,['Pam Grier'],"['History', 'Action', 'Thriller', 'Drama']",TRUE,110
+42517,The Big Doll House,1/1/1971,0,0,['Pam Grier'],"['Action', 'Drama']",FALSE,95
+40507,Original Gangstas,5/10/1996,4800000,3014000,['Pam Grier'],"['Action', 'Drama', 'Crime', 'Thriller']",FALSE,99
+27592,Back in the Day,5/24/2005,0,0,"['Pam Grier', 'Debbi Morgan']","['Crime', 'Drama']",FALSE,103
+87822,Woman Thou Art Loosed: On the 7th Day,4/13/2012,0,0,"['Pam Grier', 'Sharon Leal', 'Nicole Beharie']",['Drama'],FALSE,101
+1677,Ray,10/29/2004,40000000,124731534,"['Regina King', 'Kerry Washington']","['Drama', 'Music']",FALSE,152
+9798,Enemy of the State,11/20/1998,90000000,250649836,"['Regina King', 'Lisa Bonet']","['Action', 'Drama', 'Thriller']",FALSE,132
+9390,Jerry Maguire,12/13/1996,50000000,273552592,['Regina King'],"['Comedy', 'Drama', 'Romance']",FALSE,138
+650,Boyz n the Hood,7/12/1991,6500000,57504069,"['Regina King', 'Nia Long', 'Angela Bassett']",['Drama'],FALSE,112
+465914,If Beale Street Could Talk,12/14/2018,12000000,20572691,['Regina King'],"['Drama', 'Romance']",FALSE,120
+8291,Poetic Justice,7/23/1993,14000000,27515786,"['Regina King', 'Janet Jackson']","['Drama', 'Romance']",FALSE,109
+15250,This Christmas,11/27/2007,13000000,0,"['Regina King', 'Sharon Leal', 'Lauren London', 'Loretta Devine']","['Comedy', 'Drama', 'Romance']",FALSE,117
+16295,Higher Learning,1/11/1995,0,38290723,"['Regina King', 'Tyra Banks']","['Romance', 'Drama', 'Crime']",FALSE,127
+28031,If These Walls Could Talk 2,3/5/2000,0,0,"['Regina King', 'Nia Long', 'Rashida Jones']","['Romance', 'Drama']",TRUE,96
+33644,How Stella Got Her Groove Back,8/14/1998,20000000,37672350,"['Regina King', 'Angela Bassett', 'Whoopi Goldberg']","['Comedy', 'Drama', 'Romance']",FALSE,124
+13574,Year of the Dog,4/13/2007,0,0,['Regina King'],"['Comedy', 'Drama', 'Romance']",FALSE,97
+30849,Living Proof,10/18/2008,0,0,['Regina King'],['Drama'],FALSE,125
+254065,The Gabby Douglas Story,2/1/2014,0,0,['Regina King'],"['TV Movie', 'Drama']",FALSE,90
+393313,Truth Be Told,1/1/2002,0,0,"['Regina King', 'Monica Calhoun']",['Drama'],FALSE,83
+229928,Inside the Box,9/30/2013,0,0,['Regina King'],"['Crime', 'Drama', 'Family', 'Thriller']",FALSE,15
+618162,The Harder They Fall,,0,0,['Regina King'],"['Western', 'Drama', 'Crime', 'Thriller', 'Music']",FALSE,
+1538,Collateral,8/4/2004,65000000,217764291,"['Jada Pinkett Smith', 'Irma P. Hall']","['Drama', 'Crime', 'Thriller']",FALSE,120
+264999,Magic Mike XXL,7/1/2015,14800000,117813057,['Jada Pinkett Smith'],"['Comedy', 'Drama']",TRUE,115
+8489,Ali,12/11/2001,107000000,87713825,"['Jada Pinkett Smith', 'Michael Michele']",['Drama'],FALSE,157
+9516,Menace II Society,5/26/1993,3500000,27900000,['Jada Pinkett Smith'],"['Drama', 'Crime']",FALSE,97
+2355,Reign Over Me,3/23/2007,20000000,22222308,['Jada Pinkett Smith'],['Drama'],FALSE,124
+13972,The Women,9/12/2008,16000000,50007546,['Jada Pinkett Smith'],"['Family', 'Comedy', 'Drama', 'Romance']",FALSE,114
+9400,Set It Off,11/6/1996,9000000,41590886,"['Jada Pinkett Smith', 'Vivica A. Fox', 'Queen Latifah']","['Crime', 'Drama', 'Thriller']",FALSE,123
+10278,Return to Paradise,8/10/1998,0,0,['Jada Pinkett Smith'],"['Drama', 'Thriller', 'Romance']",FALSE,109
+24664,Bamboozled,10/6/2000,0,0,['Jada Pinkett Smith'],"['Comedy', 'Drama']",FALSE,136
+59930,The Inkwell,4/22/1994,0,8880705,['Jada Pinkett Smith'],"['Comedy', 'Drama', 'Romance']",FALSE,110
+22067,Jason's Lyric,9/28/1994,7000000,20851521,['Jada Pinkett Smith'],"['Crime', 'Drama', 'Romance']",FALSE,119
+38803,Kingdom Come,4/11/2001,0,0,"['Jada Pinkett Smith', 'Vivica A. Fox', 'Loretta Devine', 'Whoopi Goldberg']","['Comedy', 'Drama']",FALSE,94
+35203,If These Walls Could Talk,10/13/1996,0,0,['Jada Pinkett Smith'],"['TV Movie', 'Drama']",TRUE,97
+22633,The Human Contract,9/12/2008,0,0,['Jada Pinkett Smith'],['Drama'],FALSE,107
+23148,Lady Sings the Blues,10/12/1972,0,0,['Diana Ross'],"['Drama', 'Music', 'Romance']",FALSE,144
+3554,Mahogany,10/8/1975,0,0,['Diana Ross'],"['Drama', 'Romance']",FALSE,109
+117398,Out of Darkness,1/16/1994,0,0,"['Diana Ross', 'Juanita Jennings']","['TV Movie', 'Drama']",FALSE,100
+540901,Hustlers,9/12/2019,20000000,157600000,['Keke Palmer'],"['Drama', 'Comedy', 'Crime']",FALSE,110
+21301,Barbershop 2: Back in Business,1/20/2004,18000000,65070412,"['Keke Palmer', 'Garcelle Beauvais', 'Queen Latifah', 'Eve Jihan Jeffers', 'Marcia Wright']","['Comedy', 'Drama']",TRUE,106
+13968,Jump In!,4/27/2007,0,0,['Keke Palmer'],"['Drama', 'Comedy', 'Romance']",FALSE,85
+22640,Shrink,7/24/2009,5100000,0,['Keke Palmer'],"['Comedy', 'Drama']",FALSE,104
+13579,The Longshots,8/22/2008,0,0,"['Keke Palmer', 'Tasha Smith']","['Drama', 'Family', 'Comedy']",FALSE,94
+13017,Unstable Fables: Tortoise vs. Hare,9/12/2008,0,0,"['Keke Palmer', 'Vivica A. Fox']","['Animation', 'Drama', 'Family']",TRUE,80
+13751,Akeelah and the Bee,4/28/2006,8000000,18948425,"['Keke Palmer', 'Angela Bassett']",['Drama'],FALSE,112
+110490,Rags,5/28/2012,0,0,['Keke Palmer'],"['TV Movie', 'Comedy', 'Drama', 'Music']",FALSE,88
+253154,Imperial Dreams,1/20/2014,0,0,['Keke Palmer'],['Drama'],FALSE,87
+295886,Brotherly Love,4/24/2015,1900000,0,['Keke Palmer'],['Drama'],FALSE,89
+139255,Abducted: The Carlina White Story,10/6/2012,0,0,['Keke Palmer'],"['Mystery', 'Drama']",FALSE,90
+81700,The Wool Cap,11/20/2004,0,0,['Keke Palmer'],['Drama'],FALSE,103
+58104,Knights of the South Bronx,12/6/2005,0,0,['Keke Palmer'],['Drama'],FALSE,89
+417688,Pimp,11/9/2018,0,0,['Keke Palmer'],['Drama'],FALSE,86
+229580,Crazy Sexy Cool: The TLC Story,10/21/2013,0,0,['Keke Palmer'],"['TV Movie', 'Drama']",FALSE,104
+44944,For Colored Girls,11/5/2010,0,37000000,"['Janet Jackson', 'Thandie Newton', 'Kerry Washington', 'Loretta Devine', 'Phylicia Rashad', 'Whoopi Goldberg']",['Drama'],FALSE,134
+17202,Why Did I Get Married?,10/12/2007,15000000,55184721,"['Janet Jackson', 'Sharon Leal', 'Tasha Smith']","['Comedy', 'Drama']",TRUE,113
+754149,A  Cold Case,10/11/2019,10000,1000000,"['Janet Jackson', 'Eve Jihan Jeffers']","['Action', 'Mystery', 'Crime', 'Drama']",FALSE,47
+1402,The Pursuit of Happyness,12/14/2006,55000000,307077295,['Thandie Newton'],['Drama'],FALSE,117
+628,Interview with the Vampire,11/11/1994,60000000,223664608,['Thandie Newton'],"['Horror', 'Drama', 'Fantasy']",TRUE,123
+1640,Crash,5/6/2005,6500000,98410061,"['Thandie Newton', 'Loretta Devine']",['Drama'],FALSE,112
+291984,The Death & Life of John F. Donovan,3/13/2019,35000000,0,['Thandie Newton'],['Drama'],FALSE,127
+62008,Good Deeds,2/23/2012,0,0,"['Thandie Newton', 'Gabrielle Union', 'Phylicia Rashad']","['Comedy', 'Drama', 'Romance']",FALSE,111
+10523,W.,10/17/2008,25100000,29506464,['Thandie Newton'],"['Drama', 'History']",FALSE,131
+13092,How to Lose Friends & Alienate People,10/2/2008,27000000,17286299,['Thandie Newton'],"['Comedy', 'Romance', 'Drama']",FALSE,110
+73936,Retreat,10/14/2011,0,0,['Thandie Newton'],"['Drama', 'Thriller', 'Horror', 'Science Fiction']",FALSE,89
+12489,Gridlock'd,1/29/1997,0,0,['Thandie Newton'],"['Crime', 'Drama', 'Comedy']",FALSE,91
+39437,Beloved,10/16/1998,0,0,"['Thandie Newton', 'Oprah Winfrey', 'Irma P. Hall']","['Drama', 'Thriller']",FALSE,172
+87729,Jefferson in Paris,3/31/1995,14000000,2474000,['Thandie Newton'],"['Drama', 'Romance', 'History']",FALSE,139
+21828,Flirting,3/20/1991,0,2415396,['Thandie Newton'],"['Drama', 'Romance']",FALSE,99
+24909,The Young Americans,10/8/1993,0,0,['Thandie Newton'],"['Thriller', 'Drama', 'Crime']",FALSE,103
+274947,It Was an Accident,10/27/2000,0,0,['Thandie Newton'],"['Comedy', 'Drama']",FALSE,96
+46338,The Leading Man,12/12/1996,0,0,['Thandie Newton'],"['Thriller', 'Drama', 'Romance']",FALSE,100
+44297,Besieged,2/5/1998,0,0,['Thandie Newton'],"['Drama', 'Romance']",FALSE,93
+209401,Half of a Yellow Sun,9/8/2013,0,0,['Thandie Newton'],"['Romance', 'Drama']",FALSE,106
+61548,The Journey of August King,9/14/1995,0,0,['Thandie Newton'],['Drama'],FALSE,91
+54850,Loaded,9/1/1994,500000,0,['Thandie Newton'],"['Drama', 'Mystery', 'Thriller']",FALSE,91
+419831,I Kill Giants,1/21/2018,15100000,0,['Zoe Saldana'],"['Drama', 'Fantasy']",FALSE,106
+62835,Colombiana,7/27/2011,40000000,60965854,['Zoe Saldana'],"['Action', 'Thriller', 'Crime', 'Drama']",FALSE,108
+594,The Terminal,6/17/2004,60000000,219417255,['Zoe Saldana'],"['Comedy', 'Drama']",FALSE,128
+17097,After Sex,9/26/2007,825000,0,['Zoe Saldana'],"['Comedy', 'Romance', 'Drama']",FALSE,78
+13497,Drumline,12/13/2002,20000000,57588485,['Zoe Saldana'],"['Drama', 'Romance', 'Comedy', 'Music']",FALSE,118
+7461,Vantage Point,2/1/2008,40000000,151161491,['Zoe Saldana'],"['Drama', 'Action', 'Thriller', 'Crime']",FALSE,90
+164457,Out of the Furnace,12/6/2013,22000000,15400000,['Zoe Saldana'],"['Thriller', 'Drama', 'Crime']",FALSE,116
+83686,The Words,9/7/2012,6000000,13231461,['Zoe Saldana'],"['Drama', 'Thriller']",FALSE,96
+10560,Center Stage,5/12/2000,18000000,17200925,['Zoe Saldana'],"['Drama', 'Music']",TRUE,115
+17130,Crossroads,2/15/2002,12000000,61141030,['Zoe Saldana'],"['Action', 'Adventure', 'Comedy', 'Drama', 'Family', 'Music', 'Romance']",FALSE,93
+22907,Takers,8/26/2010,32000000,69055695,['Zoe Saldana'],"['Action', 'Crime', 'Drama', 'Thriller']",FALSE,107
+259695,Live by Night,12/25/2016,108000000,22678555,['Zoe Saldana'],"['Crime', 'Drama', 'Thriller']",FALSE,129
+190955,Blood Ties,8/22/2013,25500000,2415472,['Zoe Saldana'],"['Thriller', 'Crime', 'Drama']",FALSE,128
+244539,Infinitely Polar Bear,1/18/2014,6700000,1430655,['Zoe Saldana'],"['Drama', 'Comedy']",FALSE,87
+360389,Nina,4/22/2016,0,0,['Zoe Saldana'],"['Drama', 'Music']",FALSE,90
+15022,Dirty Deeds,8/26/2005,0,0,['Zoe Saldana'],"['Comedy', 'Drama']",FALSE,87
+9830,Haven,9/10/2004,0,0,['Zoe Saldana'],"['Drama', 'Crime']",FALSE,115
+83533,Avatar 3,12/19/2024,0,0,['Zoe Saldana'],"['Action', 'Drama', 'Science Fiction', 'Adventure', 'Fantasy']",TRUE,0
+45013,Burning Palms,4/23/2010,5800000,0,['Zoe Saldana'],"['Comedy', 'Drama', 'Family']",FALSE,112
+26056,Snipes,9/13/2001,0,70569,['Zoe Saldana'],"['Drama', 'Thriller']",FALSE,113
+493065,Cut Throat City,7/31/2020,0,0,"['Kat Graham', 'Zoï¿½ Kravitz', 'Beyoncï¿½', 'Jurnee Smollett-Bell', 'Towanda Underdue']","['Action', 'Crime', 'Drama', 'Thriller']",FALSE,123
+666219,Emperor,8/18/2020,0,0,['Kat Graham'],"['Drama', 'History']",FALSE,99
+402529,All Eyez on Me,6/12/2017,40000000,44922302,['Kat Graham'],"['Drama', 'Music']",FALSE,139
+235271,Addicted,10/10/2014,0,0,"['Kat Graham', 'Sharon Leal', 'Tasha Smith', 'Maria Howell']","['Drama', 'Thriller']",FALSE,105
+63710,Honey 2,6/23/2011,0,0,"['Kat Graham', 'Lonette McKee']","['Comedy', 'Drama', 'Music']",TRUE,110
+49950,The Roommate,2/4/2011,16000000,52545707,['Kat Graham'],"['Thriller', 'Drama', 'Horror']",FALSE,91
+335797,Sing,11/23/2016,75000000,634151679,['Jennifer Hudson'],"['Animation', 'Comedy', 'Drama', 'Family', 'Music']",TRUE,108
+536869,Cats,12/19/2019,95000000,73515024,['Jennifer Hudson'],"['Fantasy', 'Comedy', 'Drama']",FALSE,110
+4564,Sex and the City,5/12/2008,65000000,415252786,['Jennifer Hudson'],"['Comedy', 'Drama', 'Romance']",TRUE,145
+1125,Dreamgirls,12/25/2006,70000000,154937680,"['Jennifer Hudson', 'Sharon Leal', 'Loretta Devine']","['Drama', 'Music']",FALSE,134
+12837,The Secret Life of Bees,9/17/2008,11000000,38105395,"['Jennifer Hudson', 'Queen Latifah']","['Adventure', 'Drama']",FALSE,114
+348390,Confirmation,4/16/2016,0,0,"['Jennifer Hudson', 'Kerry Washington', 'Donna Biscoe']","['Drama', 'History', 'TV Movie']",FALSE,110
+16056,Winged Creatures,6/24/2008,0,0,['Jennifer Hudson'],"['Crime', 'Drama']",FALSE,95
+409447,Hairspray Live!,12/7/2016,0,0,['Jennifer Hudson'],"['Romance', 'Comedy', 'Drama', 'TV Movie']",FALSE,120
+592863,Respect,8/13/2021,0,0,['Jennifer Hudson'],"['Music', 'Drama']",FALSE,0
+158908,The Inevitable Defeat of Mister & Pete,10/11/2013,0,0,['Jennifer Hudson'],['Drama'],FALSE,108
+340275,Chi-Raq,12/4/2015,0,0,"['Jennifer Hudson', 'Angela Bassett']","['Drama', 'Crime', 'Comedy']",FALSE,127
+175541,Black Nativity,11/27/2013,17500000,7018189,"['Jennifer Hudson', 'Angela Bassett']","['Drama', 'Music']",FALSE,93
+489932,All Rise,11/22/2019,0,0,['Jennifer Hudson'],['Drama'],FALSE,91
+187541,Call Me Crazy: A Five Film,4/20/2013,0,0,['Jennifer Hudson'],['Drama'],FALSE,90
+261768,Lullaby,6/13/2014,0,0,['Jennifer Hudson'],['Drama'],FALSE,117
+75033,Winnie Mandela,9/16/2011,15000000,0,['Jennifer Hudson'],['Drama'],FALSE,107
+18126,Hannah Montana: The Movie,4/10/2009,35000000,155545279,"['Tyra Banks', 'Vanessa Lynn Williams', 'Vanessa Williams']","['Comedy', 'Drama', 'Family', 'Music', 'Romance']",FALSE,102
+6282,Coyote Ugly,7/30/2000,45000000,113916474,['Tyra Banks'],"['Comedy', 'Drama', 'Music', 'Romance']",FALSE,100
+515333,Amateur,4/6/2018,0,0,['Sharon Leal'],['Drama'],FALSE,96
+758935,Blindfire,11/13/2020,0,0,['Sharon Leal'],"['Crime', 'Drama', 'Thriller']",FALSE,83
+469035,Shot,9/22/2017,0,0,['Sharon Leal'],['Drama'],FALSE,89
+288980,Freedom,8/21/2014,14500000,0,['Sharon Leal'],"['Drama', 'Music']",FALSE,98
+15012,Linewatch,1/1/2008,5000000,0,['Sharon Leal'],"['Action', 'Adventure', 'Crime', 'Drama', 'Thriller']",FALSE,90
+39178,Motives 2,5/1/2007,0,0,['Sharon Leal'],"['Drama', 'Thriller']",TRUE,94
+215918,1982,12/31/2013,1000000,0,['Sharon Leal'],['Drama'],FALSE,90
+324114,White Water,2/7/2015,0,0,['Sharon Leal'],"['TV Movie', 'Drama']",FALSE,84
+426084,Traces,,0,0,['Sharon Leal'],['Drama'],FALSE,
+504562,Motherless Brooklyn,10/31/2019,26000000,18377736,['Gugu Mbatha-Raw'],"['Drama', 'Thriller']",FALSE,145
+567965,Misbehaviour,3/12/2020,0,1073290,['Gugu Mbatha-Raw'],"['Drama', 'History', 'Comedy']",FALSE,107
+376290,Miss Sloane,11/25/2016,13000000,9101546,['Gugu Mbatha-Raw'],"['Drama', 'Thriller']",FALSE,132
+316152,Free State of Jones,6/24/2016,50000000,25035950,['Gugu Mbatha-Raw'],"['Action', 'Drama', 'History', 'War']",FALSE,140
+205601,Belle,5/1/2013,10900000,16505460,['Gugu Mbatha-Raw'],['Drama'],FALSE,105
+450489,Irreplaceable You,2/16/2018,10000000,0,['Gugu Mbatha-Raw'],"['Comedy', 'Romance', 'Drama']",FALSE,96
+331583,The Whole Truth,3/25/2016,0,0,['Gugu Mbatha-Raw'],"['Drama', 'Thriller']",FALSE,93
+321741,Concussion,11/12/2015,35000000,50363790,['Gugu Mbatha-Raw'],['Drama'],FALSE,123
+241771,Beyond the Lights,9/10/2014,7000000,14618727,"['Gugu Mbatha-Raw', 'Erika Ringor']","['Romance', 'Drama']",FALSE,116
+527400,Come Away,3/6/2020,0,0,['Gugu Mbatha-Raw'],"['Fantasy', 'Adventure', 'Drama']",FALSE,0
+523977,Summerland,7/24/2020,0,0,['Gugu Mbatha-Raw'],"['Drama', 'War']",FALSE,100
+450487,Fast Color,3/29/2019,0,76916,['Gugu Mbatha-Raw'],"['Thriller', 'Drama', 'Science Fiction']",FALSE,102
+475214,Farming,9/8/2018,0,0,['Gugu Mbatha-Raw'],['Drama'],FALSE,107
+256096,Viva Blackpool,6/10/2006,0,0,['Gugu Mbatha-Raw'],"['Comedy', 'Drama', 'Music', 'TV Movie']",FALSE,90
+392499,Fallout,7/3/2008,0,0,['Gugu Mbatha-Raw'],"['Thriller', 'Drama', 'Crime']",FALSE,90
+61528,Born Equal,12/4/2006,0,0,['Gugu Mbatha-Raw'],"['Drama', 'TV Movie']",FALSE,83
+328234,Walk Away and I Stumble,11/14/2005,0,0,['Gugu Mbatha-Raw'],"['Romance', 'Drama']",FALSE,180
+8326,Holes,4/18/2003,20000000,0,['Eartha Kitt'],"['Adventure', 'Family', 'Drama', 'Comedy']",FALSE,117
+38223,Harriet the Spy,7/10/1996,12000000,0,['Eartha Kitt'],"['Comedy', 'Drama', 'Family']",FALSE,100
+170477,Anna Lucasta,11/1/1958,0,0,['Eartha Kitt'],['Drama'],FALSE,97
+83132,St. Louis Blues,4/7/1958,0,0,['Eartha Kitt'],"['Drama', 'History']",FALSE,105
+222761,Tropic of Desire,6/15/1979,0,0,['Eartha Kitt'],['Drama'],FALSE,87
+134338,Uncle Tom's Cabin,4/13/1965,0,0,['Eartha Kitt'],['Drama'],FALSE,118
+242780,Dragonard,5/12/1987,0,0,['Eartha Kitt'],"['Drama', 'History']",FALSE,93
+113103,Synanon,5/5/1965,0,0,['Eartha Kitt'],['Drama'],FALSE,107
+252943,Lieutenant Schuster's Wife,10/12/1972,0,0,['Eartha Kitt'],"['Crime', 'Drama']",FALSE,73
+92189,The Mark of the Hawk,12/1/1957,0,0,['Eartha Kitt'],['Drama'],FALSE,83
+169558,Master of Dragonard Hill,5/13/1987,0,0,['Eartha Kitt'],"['Adventure', 'Drama']",FALSE,93
+705492,Heart of Darkness,11/6/1958,0,0,['Eartha Kitt'],"['TV Movie', 'Drama', 'Adventure']",FALSE,89
+10952,New Jack City,3/8/1991,8500000,47624253,['Michael Michele'],"['Thriller', 'Crime', 'Drama']",FALSE,97
+36807,The Sixth Man,3/28/1997,0,0,['Michael Michele'],"['Fantasy', 'Drama', 'Comedy', 'Science Fiction']",FALSE,107
+26301,The Hunt for the BTK Killer,10/9/2005,0,0,['Michael Michele'],"['TV Movie', 'Crime', 'Drama', 'Thriller', 'Horror']",FALSE,82
+31006,Homicide: The Movie,2/13/2000,0,0,['Michael Michele'],"['Drama', 'Crime']",FALSE,89
+248170,Relative Stranger,3/14/2009,0,0,['Michael Michele'],"['Drama', 'TV Movie']",FALSE,89
+619,The Bodyguard,11/25/1992,25000000,411006740,['Whitney Houston'],"['Thriller', 'Action', 'Drama', 'Music', 'Romance']",FALSE,129
+88036,Sparkle,8/17/2012,14000000,24637469,"['Whitney Houston', 'Tika Sumpter']","['Drama', 'Music']",FALSE,116
+21539,The Preacher's Wife,12/13/1996,40000000,48093211,"['Whitney Houston', 'Loretta Devine']","['Fantasy', 'Drama', 'Comedy', 'Family', 'Romance']",FALSE,124
+31357,Waiting to Exhale,12/22/1995,16000000,81452156,"['Whitney Houston', 'Angela Bassett', 'Loretta Devine']","['Comedy', 'Drama', 'Romance']",FALSE,127
+39538,Contagion,9/8/2011,60000000,137551594,['Sanaa Lathan'],"['Drama', 'Thriller', 'Science Fiction']",FALSE,106
+17740,Powder Blue,5/8/2009,0,0,['Sanaa Lathan'],['Drama'],FALSE,106
+2116,Out of Time,10/3/2003,50000000,55495563,['Sanaa Lathan'],"['Thriller', 'Crime', 'Drama']",FALSE,105
+328429,Approaching the Unknown,6/3/2016,0,10232,['Sanaa Lathan'],"['Thriller', 'Drama', 'Science Fiction']",FALSE,90
+15363,Something New,1/29/2006,0,11400000,"['Sanaa Lathan', 'Taraji P. Henson']","['Comedy', 'Drama', 'Romance']",FALSE,99
+512199,Native Son,1/24/2019,0,0,['Sanaa Lathan'],['Drama'],FALSE,114
+16158,The Wood,7/16/1999,6000000,25059640,"['Sanaa Lathan', 'Malinda Williams']","['Comedy', 'Drama', 'Romance']",FALSE,106
+27735,Wonderful World,1/8/2009,0,0,['Sanaa Lathan'],"['Comedy', 'Drama', 'Romance']",FALSE,89
+25781,A Raisin in the Sun,2/25/2008,0,0,"['Sanaa Lathan', 'Phylicia Rashad']",['Drama'],FALSE,131
+287821,Catfish in Black Bean Sauce,4/14/1999,0,0,['Sanaa Lathan'],"['Drama', 'Comedy']",FALSE,119
+282821,Miracle in the Woods,10/26/1997,0,0,['Sanaa Lathan'],['Drama'],FALSE,92
+18406,Chained Heat,5/27/1983,0,0,['Tamara Dobson'],"['Action', 'Crime', 'Drama', 'Thriller']",TRUE,99
+2139,Cleopatra Jones and the Casino of Gold,7/11/1975,0,0,['Tamara Dobson'],"['Action', 'Adventure', 'Drama']",TRUE,94
+4986,Fuzz,7/14/1972,0,0,['Tamara Dobson'],"['Comedy', 'Crime', 'Drama']",FALSE,93
+91722,Norman... Is That You?,9/29/1976,0,0,['Tamara Dobson'],"['Comedy', 'Drama']",FALSE,91
+449987,Murder at the World Series,3/20/1977,0,0,['Tamara Dobson'],"['Thriller', 'Drama']",FALSE,100
+197487,Amazons,1/29/1984,0,0,['Tamara Dobson'],"['Thriller', 'Crime', 'Drama', 'TV Movie']",FALSE,95
+38575,The Karate Kid,6/10/2010,40000000,357852395,['Taraji P. Henson'],"['Action', 'Adventure', 'Drama', 'Family']",FALSE,140
+4922,The Curious Case of Benjamin Button,12/25/2008,150000000,333932083,['Taraji P. Henson'],"['Drama', 'Fantasy', 'Romance']",FALSE,166
+65650,The Good Doctor,4/23/2011,6000000,5206,['Taraji P. Henson'],"['Drama', 'Thriller', 'Mystery']",FALSE,93
+381284,Hidden Figures,12/10/2016,25000000,230698791,"['Taraji P. Henson', 'Octavia Spencer', 'Maria Howell', 'Donna Biscoe']","['Drama', 'History']",FALSE,127
+458131,The Best of Enemies,4/5/2019,10000000,0,['Taraji P. Henson'],"['Drama', 'History']",FALSE,133
+16161,Baby Boy,6/27/2001,16000000,29381649,"['Taraji P. Henson', ""Mo'Nique"", 'Juanita Jennings']","['Crime', 'Drama', 'Romance', 'Thriller']",FALSE,130
+26367,I Can Do Bad All By Myself,9/11/2009,0,0,['Taraji P. Henson'],"['Drama', 'Comedy']",TRUE,113
+284296,Top Five,12/12/2014,0,25434291,"['Taraji P. Henson', 'Gabrielle Union', 'Whoopi Goldberg']","['Drama', 'Comedy']",FALSE,102
+10476,Hustle & Flow,7/22/2005,8000000,23563727,['Taraji P. Henson'],['Drama'],FALSE,116
+10252,Animal,5/1/2005,0,0,['Taraji P. Henson'],"['Action', 'Drama']",TRUE,93
+14834,Not Easily Broken,1/9/2009,0,0,"['Taraji P. Henson', 'Niecy Nash']","['Drama', 'Romance']",FALSE,99
+6535,Talk to Me,7/13/2007,0,4778376,['Taraji P. Henson'],['Drama'],FALSE,118
+44862,Once Fallen,11/2/2010,0,0,['Taraji P. Henson'],"['Drama', 'Action', 'Crime']",FALSE,89
+32007,Hurricane Season,12/8/2009,143000,1000000,"['Taraji P. Henson', 'China Anne McClain', 'Irma P. Hall']",['Drama'],FALSE,103
+70692,Taken from Me: The Tiffany Rubin Story,1/31/2011,0,0,['Taraji P. Henson'],['Drama'],FALSE,87
+221506,Satan's School for Girls,3/13/2000,0,0,['Taraji P. Henson'],"['TV Movie', 'Drama', 'Horror']",FALSE,87
+211097,From the Rough,6/8/2013,0,0,['Taraji P. Henson'],['Drama'],FALSE,97
+27455,Foolish,4/9/1999,0,6033999,['Traci Bingham'],"['Comedy', 'Drama']",FALSE,84
+307081,Southpaw,3/24/2015,30000000,91709827,['Naomie Harris'],"['Action', 'Drama']",FALSE,123
+407436,Mowgli: Legend of the Jungle,11/25/2018,175000000,0,['Naomie Harris'],"['Adventure', 'Drama']",FALSE,105
+376867,Moonlight,10/21/2016,4000000,65046687,['Naomie Harris'],['Drama'],FALSE,111
+10589,After the Sunset,11/12/2004,60000000,61347797,['Naomie Harris'],"['Action', 'Comedy', 'Crime', 'Drama']",FALSE,97
+345920,Collateral Beauty,12/6/2016,36000000,88528280,['Naomie Harris'],"['Drama', 'Romance']",FALSE,97
+1266,Street Kings,4/10/2008,20000000,65569869,['Naomie Harris'],"['Action', 'Crime', 'Drama', 'Thriller']",TRUE,109
+192136,Mandela: Long Walk to Freedom,12/6/2013,35000000,27333835,['Naomie Harris'],"['Drama', 'History']",FALSE,141
+203912,National Theatre Live: Frankenstein,3/17/2011,0,0,['Naomie Harris'],"['Drama', 'Horror', 'Science Fiction']",FALSE,130
+37234,Sex & Drugs & Rock & Roll,1/8/2010,2000000,0,['Naomie Harris'],['Drama'],FALSE,115
+47559,The First Grader,9/12/2010,0,0,['Naomie Harris'],"['Romance', 'Drama']",FALSE,103
+13692,August,5/16/2008,0,0,['Naomie Harris'],['Drama'],FALSE,88
+53033,Poppy Shakespeare,3/31/2008,0,0,['Naomie Harris'],['Drama'],FALSE,86
+20357,Trauma,9/17/2004,0,0,['Naomie Harris'],"['Drama', 'Mystery', 'Thriller', 'Horror']",FALSE,94
+20161,Explicit Ills,3/8/2008,1500000,0,['Naomie Harris'],['Drama'],FALSE,87
+270183,White Teeth,9/16/2002,0,0,['Naomie Harris'],['Drama'],FALSE,240
+38444,Blood and Oil,3/29/2010,0,0,['Naomie Harris'],['Drama'],FALSE,160
+315635,Spider-Man: Homecoming,7/5/2017,175000000,880166924,['Garcelle Beauvais'],"['Action', 'Adventure', 'Science Fiction', 'Drama']",TRUE,133
+117251,White House Down,6/27/2013,150000000,205366737,['Garcelle Beauvais'],"['Action', 'Drama', 'Thriller']",FALSE,131
+87502,Flight,11/2/2012,31000000,161772375,['Garcelle Beauvais'],['Drama'],FALSE,138
+412105,You Get Me,6/19/2017,0,0,['Garcelle Beauvais'],"['Thriller', 'Romance', 'Drama']",FALSE,89
+31723,Women in Trouble,11/13/2009,3000000,18097,['Garcelle Beauvais'],"['Comedy', 'Drama']",TRUE,92
+18828,Double Take,1/12/2001,24000000,31600000,"['Garcelle Beauvais', 'Vivica A. Fox']","['Adventure', 'Drama', 'Action', 'Comedy', 'Romance']",FALSE,88
+249266,Small Time,4/18/2014,0,0,['Garcelle Beauvais'],"['Drama', 'Comedy']",FALSE,95
+15366,American Gun,1/1/2005,0,0,['Garcelle Beauvais'],['Drama'],FALSE,95
+55734,Second String,12/18/2002,0,0,['Garcelle Beauvais'],"['TV Movie', 'Comedy', 'Drama']",FALSE,100
+410503,Girlfriends Getaway 2,8/29/2015,0,0,"['Garcelle Beauvais', 'Malinda Williams', 'Terri J. Vaughn']","['Comedy', 'Drama', 'TV Movie']",TRUE,110
+325896,Back to School Mom,2/14/2015,0,0,['Garcelle Beauvais'],['Drama'],FALSE,0
+361588,A Girl Like Grace,6/12/2015,0,0,"['Garcelle Beauvais', 'Meagan Good']",['Drama'],FALSE,93
+255496,And Then There Was You,10/19/2013,0,0,['Garcelle Beauvais'],['Drama'],FALSE,99
+290282,Girlfriends' Getaway,9/3/2014,1,0,"['Garcelle Beauvais', 'Malinda Williams', 'Terri J. Vaughn']","['Drama', 'Comedy', 'TV Movie']",TRUE,105
+296673,Eyes to See,9/1/2012,0,0,['Garcelle Beauvais'],['Drama'],FALSE,0
+11835,Death Sentence,8/31/2007,20000000,16974459,['Aisha Tyler'],"['Action', 'Crime', 'Drama', 'Thriller']",FALSE,105
+14062,0.45,11/30/2006,5000000,0,['Aisha Tyler'],"['Drama', 'Crime', 'Thriller']",FALSE,101
+20304,Never Die Alone,3/26/2004,3000000,5923000,['Aisha Tyler'],"['Action', 'Crime', 'Drama', 'Thriller']",FALSE,88
+392524,Axis,4/7/2017,0,0,['Aisha Tyler'],"['Drama', 'Thriller']",FALSE,90
+212067,For One Night,2/5/2006,0,0,"['Aisha Tyler', 'Joan Pringle']","['TV Movie', 'Drama', 'Romance']",FALSE,90
+310706,Black Water Transit,5/13/2009,0,0,['Aisha Tyler'],"['Drama', 'Crime']",FALSE,100
+4635,The Trap,10/9/2007,0,0,['Aisha Tyler'],"['Drama', 'Thriller']",FALSE,20
+9816,Save the Last Dance,1/12/2001,13000000,91038276,"['Bianca Lawson', 'Kerry Washington']","['Drama', 'Family', 'Romance', 'Music']",TRUE,112
+256596,House of Secrets,1/1/2014,0,0,['Bianca Lawson'],"['TV Movie', 'Thriller', 'Drama', 'Mystery']",FALSE,84
+60524,Don't Fade Away,2/2/2010,0,0,['Bianca Lawson'],['Drama'],FALSE,90
+229128,The Pavilion,11/17/2004,0,0,['Bianca Lawson'],"['Drama', 'Western']",FALSE,94
+13960,ATL,3/31/2006,20000000,21170563,"['Lauren London', 'Tasha Smith']","['Drama', 'Comedy', 'Mystery']",FALSE,105
+51017,Madea's Big Happy Family,4/22/2011,25000000,53213633,"['Lauren London', 'Loretta Devine', 'Cassi Davis']","['Comedy', 'Drama']",TRUE,106
+635302,Demon Slayer: Kimetsu no Yaiba - The Movie: Mugen Train,10/16/2020,0,150026845,"['Zoï¿½ Kravitz', 'Beyoncï¿½', 'Jurnee Smollett-Bell', 'Towanda Underdue']","['Animation', 'Action', 'History', 'Adventure', 'Fantasy', 'Drama']",FALSE,117
+528085,2067,10/1/2020,0,0,"['Zoï¿½ Kravitz', 'Beyoncï¿½', 'Jurnee Smollett-Bell', 'Towanda Underdue']","['Science Fiction', 'Thriller', 'Drama']",FALSE,114
+741067,Welcome to Sudden Death,9/29/2020,0,0,"['Zoï¿½ Kravitz', 'Beyoncï¿½', 'Jurnee Smollett-Bell', 'Towanda Underdue']","['Action', 'Thriller', 'Adventure', 'Drama']",FALSE,80
+497582,Enola Holmes,9/23/2020,21000000,0,"['Zoï¿½ Kravitz', 'Beyoncï¿½', 'Jurnee Smollett-Bell', 'Towanda Underdue']","['Crime', 'Drama', 'Mystery']",FALSE,123
+337401,Mulan,9/4/2020,200000000,57000000,"['Zoï¿½ Kravitz', 'Beyoncï¿½', 'Jurnee Smollett-Bell', 'Towanda Underdue']","['Action', 'Adventure', 'Drama', 'Fantasy']",FALSE,115
+539885,Ava,7/2/2020,0,2987741,"['Zoï¿½ Kravitz', 'Beyoncï¿½', 'Jurnee Smollett-Bell', 'Towanda Underdue']","['Action', 'Crime', 'Drama', 'Thriller']",FALSE,96
+718444,Rogue,8/20/2020,0,139757,"['Zoï¿½ Kravitz', 'Beyoncï¿½', 'Jurnee Smollett-Bell', 'Towanda Underdue']","['Action', 'Adventure', 'Drama', 'Thriller']",FALSE,106
+613504,After We Collided,9/2/2020,0,0,"['Zoï¿½ Kravitz', 'Beyoncï¿½', 'Jurnee Smollett-Bell', 'Towanda Underdue']","['Romance', 'Drama']",TRUE,105
+531499,The Tax Collector,8/7/2020,30000000,942666,"['Zoï¿½ Kravitz', 'Beyoncï¿½', 'Jurnee Smollett-Bell', 'Towanda Underdue']","['Action', 'Crime', 'Drama']",FALSE,95
+438396,Unknown Origins,8/28/2020,3268650,0,"['Zoï¿½ Kravitz', 'Beyoncï¿½', 'Jurnee Smollett-Bell', 'Towanda Underdue']","['Drama', 'Thriller']",FALSE,97
+606234,Archive,8/13/2020,0,0,"['Zoï¿½ Kravitz', 'Beyoncï¿½', 'Jurnee Smollett-Bell', 'Towanda Underdue']","['Science Fiction', 'Drama', 'Fantasy', 'Thriller']",FALSE,109
+630566,Clouds,10/9/2020,0,0,"['Zoï¿½ Kravitz', 'Beyoncï¿½', 'Jurnee Smollett-Bell', 'Towanda Underdue']","['Music', 'Drama', 'Romance']",FALSE,121
+475557,Joker,10/2/2019,55000000,1074251311,"['Zoï¿½ Kravitz', 'Beyoncï¿½', 'Jurnee Smollett-Bell', 'Towanda Underdue']","['Crime', 'Thriller', 'Drama']",FALSE,122
+283566,Evangelion: 3.0+1.0 Thrice Upon a Time,1/23/2021,0,0,"['Zoï¿½ Kravitz', 'Beyoncï¿½', 'Jurnee Smollett-Bell', 'Towanda Underdue']","['Animation', 'Action', 'Drama', 'Science Fiction']",TRUE,0
+283366,Miss Peregrine's Home for Peculiar Children,9/28/2016,110000000,296482446,"['Zoï¿½ Kravitz', 'Beyoncï¿½', 'Jurnee Smollett-Bell', 'Towanda Underdue']","['Drama', 'Fantasy', 'Adventure', 'Family']",FALSE,127
+425001,The War with Grandpa,8/27/2020,0,8982106,"['Zoï¿½ Kravitz', 'Beyoncï¿½', 'Jurnee Smollett-Bell', 'Towanda Underdue']","['Comedy', 'Family', 'Drama']",FALSE,94
+516486,Greyhound,7/10/2020,50300000,0,"['Zoï¿½ Kravitz', 'Beyoncï¿½', 'Jurnee Smollett-Bell', 'Towanda Underdue']","['War', 'Action', 'Drama']",FALSE,91
+703134,Infamous,6/12/2020,0,0,"['Zoï¿½ Kravitz', 'Beyoncï¿½', 'Jurnee Smollett-Bell', 'Towanda Underdue']","['Crime', 'Thriller', 'Drama']",FALSE,100
+692969,Cadaver,10/22/2020,0,0,"['Zoï¿½ Kravitz', 'Beyoncï¿½', 'Jurnee Smollett-Bell', 'Towanda Underdue']","['Drama', 'Horror', 'Thriller']",FALSE,86
+692233,True to the Game 2: Gena's Story,11/6/2020,0,0,['Vivica A. Fox'],"['Thriller', 'Drama']",FALSE,93
+560204,Arkansas,5/5/2020,0,0,['Vivica A. Fox'],"['Crime', 'Drama', 'Thriller']",FALSE,115
+2604,Born on the Fourth of July,3/2/1989,14000000,161001698,['Vivica A. Fox'],"['Drama', 'War']",FALSE,145
+15616,Private Valentine: Blonde & Dangerous,11/7/2008,30000000,103971,['Vivica A. Fox'],"['Comedy', 'War', 'Adventure', 'Drama']",FALSE,98
+673159,Hooking Up,3/20/2020,0,0,['Vivica A. Fox'],"['Drama', 'Comedy']",FALSE,105
+31894,The Tuskegee Airmen,8/25/1995,0,0,['Vivica A. Fox'],"['Drama', 'History', 'War', 'TV Movie']",FALSE,106
+176124,Home Run,4/19/2013,1200000,2861020,['Vivica A. Fox'],['Drama'],FALSE,114
+649392,Rev,8/20/2020,0,0,['Vivica A. Fox'],"['Action', 'Drama']",FALSE,91
+50573,Little Secrets,10/17/2001,0,0,['Vivica A. Fox'],"['Drama', 'Family']",FALSE,96
+338107,Chocolate City,5/22/2015,0,0,['Vivica A. Fox'],['Drama'],TRUE,91
+427261,A Husband for Christmas,12/11/2016,0,0,['Vivica A. Fox'],"['Drama', 'Comedy', 'TV Movie', 'Romance']",FALSE,85
+29461,Soul Food,9/26/1997,0,0,"['Vivica A. Fox', 'Nia Long', 'Vanessa Lynn Williams', 'Vanessa Williams', 'Gina Ravera', 'Irma P. Hall', 'Marcia Wright']","['Comedy', 'Drama']",FALSE,114
+376296,The Wrong Roommate,1/4/2016,0,0,['Vivica A. Fox'],"['Drama', 'Mystery', 'Thriller', 'TV Movie']",FALSE,84
+279582,Looking for Mr. Right,6/7/2014,0,0,['Vivica A. Fox'],"['Romance', 'Comedy', 'Family', 'Drama', 'TV Movie']",FALSE,84
+46702,Why Do Fools Fall In Love,8/28/1998,0,12413650,"['Vivica A. Fox', 'Halle Berry']","['Drama', 'Romance']",FALSE,116
+614154,The Wrong Stepmother,7/5/2019,0,0,['Vivica A. Fox'],"['Drama', 'TV Movie']",FALSE,86
+13515,Mirrors,8/15/2008,35000000,72436439,['Paula Patton'],"['Horror', 'Mystery', 'Thriller', 'Drama']",TRUE,110
+8488,Hitch,2/11/2005,70000000,368100420,['Paula Patton'],"['Comedy', 'Drama', 'Romance']",FALSE,118
+7515,London,9/3/2005,0,0,['Paula Patton'],"['Drama', 'Action', 'Romance']",FALSE,92
+10187,Swing Vote,8/1/2008,21000000,17600000,['Paula Patton'],"['Drama', 'Comedy']",FALSE,120
+25793,Precious,11/6/2009,10000000,47536959,"['Paula Patton', ""Mo'Nique""]",['Drama'],FALSE,110
+127517,Disconnect,9/11/2012,10000000,3428048,['Paula Patton'],"['Drama', 'Thriller']",FALSE,115
+15019,I Could Never Be Your Woman,5/11/2007,24000000,9576495,['Stacey Dash'],"['Comedy', 'Drama', 'Romance']",FALSE,97
+419639,The Thinning,10/12/2016,0,0,['Stacey Dash'],"['Thriller', 'Drama']",TRUE,90
+304336,Lap Dance,12/5/2014,0,0,['Stacey Dash'],['Drama'],FALSE,100
+662821,The Dawn,1/10/2020,0,0,['Stacey Dash'],"['Drama', 'Mystery', 'Thriller', 'Horror']",FALSE,90
+18571,Phantom Punch,1/1/2009,0,0,['Stacey Dash'],['Drama'],FALSE,105
+121138,Illegal in Blue,8/28/1995,0,0,['Stacey Dash'],"['Action', 'Drama', 'Thriller']",FALSE,91
+119213,Cold Around the Heart,11/7/1997,0,0,['Stacey Dash'],"['Crime', 'Thriller', 'Drama']",FALSE,96
+100269,Enemy Territory,5/22/1987,0,197791,['Stacey Dash'],"['Action', 'Crime', 'Drama', 'Thriller']",FALSE,89
+667953,First Lady,2/14/2020,0,0,['Stacey Dash'],"['Drama', 'Romance']",FALSE,0
+66667,Gang of Roses,10/10/2003,0,0,"['Stacey Dash', 'Monica Calhoun']","['Western', 'Action', 'Drama']",TRUE,94
+244048,Tennessee Nights,10/12/1991,0,0,['Stacey Dash'],"['Crime', 'Drama']",FALSE,105
+296854,The Painting,10/27/2001,0,0,['Stacey Dash'],"['Romance', 'Drama']",FALSE,95
+565470,Roe v. Wade,,0,0,['Stacey Dash'],"['Drama', 'History']",FALSE,0
+321597,American Primitive,1/1/2008,0,0,['Stacey Dash'],"['Drama', 'Family']",FALSE,96
+10623,Cradle 2 the Grave,2/28/2003,25000000,56489558,['Gabrielle Union'],"['Action', 'Crime', 'Drama']",FALSE,101
+4951,10 Things I Hate About You,3/30/1999,16000000,53478166,['Gabrielle Union'],"['Comedy', 'Romance', 'Drama']",FALSE,97
+340402,Almost Christmas,11/11/2016,17000000,42487325,"['Gabrielle Union', ""Mo'Nique"", 'Nicole Ari Parker']","['Comedy', 'Drama']",FALSE,111
+20544,Something the Lord Made,5/30/2004,0,0,['Gabrielle Union'],"['TV Movie', 'Drama']",FALSE,110
+14299,Cadillac Records,12/5/2008,12000000,8880045,['Gabrielle Union'],"['Drama', 'History', 'Music']",FALSE,109
+339408,The Birth of a Nation,9/9/2016,8500000,15861566,['Gabrielle Union'],['Drama'],FALSE,120
+16555,Daddy's Little Girls,2/14/2007,10000000,31609243,"['Gabrielle Union', 'Tasha Smith', 'Malinda Williams', 'Terri J. Vaughn', 'Cassi Davis', 'Sierra Aylina McClain', 'China Anne McClain', 'Lauryn Alisa McClain', 'Juanita Jennings', 'Maria Howell']","['Comedy', 'Drama', 'Romance']",FALSE,100
+15992,Abandon,10/14/2002,25000000,10719357,['Gabrielle Union'],"['Drama', 'Mystery', 'Thriller']",FALSE,99
+331986,The Public,4/5/2019,0,0,['Gabrielle Union'],['Drama'],FALSE,122
+7510,Running with Scissors,10/27/2006,12000000,6754898,['Gabrielle Union'],"['Drama', 'Comedy']",FALSE,116
+20322,The Brothers,3/23/2001,0,0,['Gabrielle Union'],"['Comedy', 'Drama', 'Romance']",FALSE,106
+123879,Say Uncle,7/10/2005,650000,0,['Gabrielle Union'],"['Drama', 'Comedy']",FALSE,91
+26990,The Perfect Holiday,12/12/2007,0,5800000,['Gabrielle Union'],"['Comedy', 'Drama', 'Romance', 'Family']",FALSE,96
+96246,In Our Nature,12/7/2012,0,0,['Gabrielle Union'],['Drama'],FALSE,103
+46268,Constellation,2/1/2007,7200000,23006533,['Gabrielle Union'],"['Drama', 'Romance']",FALSE,96
+91795,Neo Ned,1/1/2005,0,0,['Gabrielle Union'],"['Drama', 'Romance']",FALSE,97
+627725,The Banker,3/6/2020,0,0,['Nia Long'],['Drama'],FALSE,120
+8849,Alfie,10/22/2004,60000000,35060882,['Nia Long'],"['Comedy', 'Drama', 'Romance']",FALSE,103
+9963,Premonition,2/8/2007,20000000,84146832,['Nia Long'],"['Thriller', 'Drama', 'Mystery']",FALSE,96
+14181,Boiler Room,2/18/2000,7000000,28780255,['Nia Long'],"['Crime', 'Drama', 'Thriller']",FALSE,118
+239562,The Single Moms Club,3/14/2014,0,16337881,['Nia Long'],"['Drama', 'Comedy']",FALSE,111
+426257,"Roxanne, Roxanne",1/22/2017,0,0,['Nia Long'],['Drama'],FALSE,98
+22597,The Broken Hearts Club: A Romantic Comedy,2/1/2000,1000000,1744858,['Nia Long'],"['Comedy', 'Drama', 'Romance']",FALSE,96
+27322,Love Jones,3/14/1997,10000000,0,['Nia Long'],"['Comedy', 'Drama', 'Romance']",FALSE,104
+428585,Lemon,1/22/2017,0,29258,['Nia Long'],"['Drama', 'Comedy']",FALSE,83
+430642,Beaches,1/21/2017,0,0,['Nia Long'],"['Drama', 'TV Movie', 'TV Movie']",FALSE,90
+28219,Baadasssss!,5/28/2004,0,365248,['Nia Long'],['Drama'],FALSE,108
+66025,Mooz-lum,2/11/2011,0,330048,['Nia Long'],['Drama'],FALSE,95
+20933,Gospel Hill,2/9/2008,0,0,['Nia Long'],"['Drama', 'Mystery', 'Thriller']",FALSE,99
+188706,The Secret Laughter of Women,11/26/1999,0,0,['Nia Long'],"['Comedy', 'Drama', 'Romance']",FALSE,99
+447362,Life in a Year,5/1/2018,0,0,['Nia Long'],"['Drama', 'Romance']",FALSE,0
+43518,Thousands Cheer,1/1/1943,0,0,['Lena Horne'],"['Comedy', 'Drama', 'Romance', 'Music']",FALSE,125
+43458,Words and Music,12/31/1948,0,0,['Lena Horne'],"['Drama', 'Music']",FALSE,120
+9268,Eraser,6/21/1996,100000000,242295562,"['Vanessa Lynn Williams', 'Vanessa Williams']","['Action', 'Drama', 'Mystery', 'Thriller']",FALSE,115
+17915,Dance with Me,8/21/1998,0,15,"['Vanessa Lynn Williams', 'Vanessa Williams']","['Drama', 'Music', 'Romance']",FALSE,126
+415312,The Man from Earth: Holocene,6/10/2017,0,0,"['Vanessa Lynn Williams', 'Vanessa Williams']","['Drama', 'Science Fiction']",TRUE,98
+17258,The Pick-up Artist,9/18/1987,15000000,13290368,"['Vanessa Lynn Williams', 'Vanessa Williams']","['Romance', 'Comedy', 'Crime', 'Drama']",FALSE,81
+574950,Miss Virginia,10/18/2019,0,0,"['Vanessa Lynn Williams', 'Vanessa Williams']",['Drama'],FALSE,102
+19052,Light It Up,11/4/1999,0,0,"['Vanessa Lynn Williams', 'Vanessa Williams']","['Drama', 'Thriller']",FALSE,99
+411300,The Secret She Kept,7/10/2016,0,0,"['Vanessa Lynn Williams', 'Vanessa Williams', 'Kyla Pratt']","['Thriller', 'Drama']",FALSE,60
+94105,Perry Mason: The Case of the Silenced Singer,5/20/1990,0,0,"['Vanessa Lynn Williams', 'Vanessa Williams']","['Drama', 'Mystery', 'Crime', 'TV Movie']",FALSE,90
+36852,Bye Bye Birdie,12/3/1995,0,0,"['Vanessa Lynn Williams', 'Vanessa Williams']","['Drama', 'Music']",FALSE,131
+257829,A Mother's Love,2/22/2011,0,0,"['Vanessa Lynn Williams', 'Vanessa Williams']","['Comedy', 'Drama']",FALSE,105
+523590,Singleholic,3/27/2020,0,0,"['Vanessa Lynn Williams', 'Vanessa Williams']","['Comedy', 'Drama']",FALSE,98
+199317,Nothing Lasts Forever,11/4/1995,0,0,"['Vanessa Lynn Williams', 'Vanessa Williams']","['Drama', 'Romance', 'Thriller']",FALSE,155
+362995,Stompin' at the Savoy,4/19/1992,0,0,"['Vanessa Lynn Williams', 'Vanessa Williams']","['Drama', 'Music', 'TV Movie']",FALSE,95
+61167,My Brother,1/1/2006,0,0,"['Vanessa Lynn Williams', 'Vanessa Williams']","['Drama', 'Action']",FALSE,100
+42401,Since You Went Away,6/30/1944,0,0,"['Dorothy Dandridge', 'Hattie McDaniel']","['Drama', 'Romance', 'War']",FALSE,177
+65506,Lady from Louisiana,4/22/1941,0,0,['Dorothy Dandridge'],['Drama'],FALSE,82
+94241,Sundown,10/31/1941,0,0,['Dorothy Dandridge'],"['Drama', 'War']",FALSE,90
+89547,Bright Road,4/17/1953,0,0,['Dorothy Dandridge'],"['Drama', 'Music']",FALSE,68
+119094,Lucky Jordan,11/16/1942,0,0,['Dorothy Dandridge'],"['Comedy', 'Crime', 'Drama']",FALSE,84
+113144,The Decks Ran Red,10/10/1958,0,0,['Dorothy Dandridge'],"['Adventure', 'Crime', 'Drama']",FALSE,84
+111926,The Harlem Globetrotters,5/30/1951,0,0,['Dorothy Dandridge'],['Drama'],FALSE,78
+37373,Island in the Sun,6/12/1957,3000000,5000000,['Dorothy Dandridge'],"['Drama', 'Romance']",FALSE,119
+121358,Tamango,1/24/1958,0,0,['Dorothy Dandridge'],"['Drama', 'History']",FALSE,104
+152836,Night in New Orleans,7/1/1942,0,0,['Dorothy Dandridge'],"['Mystery', 'Crime', 'Drama']",FALSE,75
+96858,Bahama Passage,12/10/1941,0,0,['Dorothy Dandridge'],"['Romance', 'Drama']",FALSE,82
+137589,Drums of the Congo,7/17/1942,0,0,['Dorothy Dandridge'],"['Drama', 'Romance']",FALSE,61
+1931,Stomp the Yard,5/16/2007,13000000,75511123,['Meagan Good'],"['Drama', 'Music']",TRUE,114
+138697,Don Jon,7/26/2013,3000000,0,['Meagan Good'],"['Romance', 'Comedy', 'Drama']",FALSE,90
+14114,You Got Served,1/30/2004,0,0,['Meagan Good'],"['Drama', 'Music']",TRUE,95
+9270,Brick,3/31/2006,475000,3919254,['Meagan Good'],"['Drama', 'Mystery']",FALSE,110
+12253,Biker Boyz,1/31/2003,24000000,23510601,"['Meagan Good', 'Lisa Bonet']","['Action', 'Drama']",FALSE,110
+9917,Waist Deep,6/23/2006,0,21353303,['Meagan Good'],"['Action', 'Adventure', 'Drama', 'Thriller']",FALSE,97
+14544,Roll Bounce,9/23/2005,0,0,['Meagan Good'],"['Comedy', 'Drama', 'Family']",FALSE,112
+83890,LUV,1/18/2013,0,134634,['Meagan Good'],"['Crime', 'Drama']",FALSE,94
+18475,The Cookout,9/3/2004,16000000,12,"['Meagan Good', 'Queen Latifah', 'Eve Jihan Jeffers']","['Comedy', 'Drama']",FALSE,97
+450308,Deuces,4/1/2017,0,0,['Meagan Good'],"['Crime', 'Drama']",FALSE,87
+119446,The Obama Effect,7/13/2012,0,0,['Meagan Good'],"['Comedy', 'Drama']",FALSE,85
+535297,"If Not Now, When",6/13/2020,0,0,['Meagan Good'],['Drama'],FALSE,111
+58669,The Secret Life of Girls,5/29/1999,0,0,['Meagan Good'],"['Comedy', 'Drama']",FALSE,90
+296817,Miles from Home,2/1/2006,0,0,"['Meagan Good', 'Tasha Smith']",['Drama'],FALSE,97
+345993,"Charlie, Trevor And A Girl Savannah",6/19/2015,0,0,['Meagan Good'],['Drama'],FALSE,95
+686,Contact,7/11/1997,90000000,171120329,['Angela Bassett'],"['Drama', 'Science Fiction', 'Mystery']",FALSE,150
+14410,Notorious,1/16/2009,0,43051547,['Angela Bassett'],"['Drama', 'Music', 'History']",FALSE,122
+14637,Nothing But the Truth,12/19/2008,11500000,186702,['Angela Bassett'],"['Drama', 'Thriller']",FALSE,108
+281,Strange Days,10/13/1995,42000000,7959291,['Angela Bassett'],"['Crime', 'Drama', 'Science Fiction', 'Thriller']",FALSE,145
+1883,Malcolm X,11/18/1992,34000000,48169908,"['Angela Bassett', 'Lonette McKee', 'LaTanya Richardson Jackson']","['Drama', 'History']",FALSE,202
+157825,White Bird in a Blizzard,8/14/2014,0,33821,['Angela Bassett'],"['Thriller', 'Drama']",FALSE,91
+16232,Mr. 3000,6/15/2004,30000000,21800302,['Angela Bassett'],"['Comedy', 'Drama']",FALSE,104
+15765,What's Love Got to Do with It,6/9/1993,0,0,['Angela Bassett'],"['Drama', 'Music']",FALSE,118
+16710,Meet the Browns,3/21/2008,0,41939392,"['Angela Bassett', 'Irma P. Hall']","['Comedy', 'Drama', 'Romance']",FALSE,100
+252670,Of Boys and Men,1/1/2008,0,0,['Angela Bassett'],['Drama'],FALSE,90
+26149,Music of the Heart,10/29/1999,27000000,14859394,['Angela Bassett'],['Drama'],FALSE,124
+57022,Sunshine State,6/21/2002,0,0,['Angela Bassett'],['Drama'],FALSE,141
+24356,Masked and Anonymous,7/25/2003,0,0,['Angela Bassett'],"['Drama', 'Music']",FALSE,112
+41478,Panther,5/4/1995,0,6834525,['Angela Bassett'],['Drama'],FALSE,124
+68718,Django Unchained,12/25/2012,100000000,425368238,['Kerry Washington'],"['Drama', 'Western']",FALSE,165
+787,Mr. & Mrs. Smith,6/7/2005,110000000,478207520,['Kerry Washington'],"['Action', 'Comedy', 'Drama', 'Thriller']",FALSE,120
+13279,Lakeview Terrace,9/19/2008,20000000,27640028,['Kerry Washington'],"['Drama', 'Crime', 'Thriller']",FALSE,110
+1523,The Last King of Scotland,1/12/2006,6000000,48027970,['Kerry Washington'],['Drama'],FALSE,121
+622963,American Son,9/12/2019,0,0,['Kerry Washington'],['Drama'],FALSE,90
+13573,The United States of Leland,1/18/2003,0,343816,['Kerry Washington'],"['Crime', 'Drama']",FALSE,108
+12412,Miracle at St. Anna,9/15/2008,45000000,9323833,['Kerry Washington'],"['Drama', 'War']",FALSE,160
+10922,The Human Stain,10/29/2003,30000000,0,['Kerry Washington'],"['Drama', 'Romance']",FALSE,106
+37080,Mother and Child,11/7/2009,7000000,0,"['Kerry Washington', 'LaTanya Richardson Jackson']","['Drama', 'Romance']",FALSE,125
+135647,The Details,1/1/2011,0,0,['Kerry Washington'],"['Comedy', 'Drama']",FALSE,96
+13551,The Dead Girl,11/7/2006,0,0,['Kerry Washington'],"['Mystery', 'Drama', 'Crime', 'Thriller']",FALSE,85
+20912,She Hate Me,7/30/2004,8000000,365134,['Kerry Washington'],"['Comedy', 'Drama']",FALSE,139
+8842,Against the Ropes,2/20/2004,39000000,6432551,['Kerry Washington'],"['Romance', 'Drama']",FALSE,106
+48109,Our Song,1/21/2000,0,0,['Kerry Washington'],['Drama'],FALSE,95
+21372,Life Is Hot in Cracktown,1/1/2009,0,0,['Kerry Washington'],['Drama'],FALSE,99
+575417,On the Rocks,10/2/2020,0,0,['Rashida Jones'],"['Drama', 'Comedy']",FALSE,97
+150540,Inside Out,6/9/2015,175000000,857611174,['Rashida Jones'],"['Drama', 'Comedy', 'Animation', 'Family']",FALSE,95
+455980,Tag,5/30/2018,28000000,75100000,['Rashida Jones'],"['Comedy', 'Drama']",FALSE,100
+37799,The Social Network,10/1/2010,40000000,224920315,['Rashida Jones'],['Drama'],FALSE,121
+565341,The Sound of Silence,9/13/2019,0,0,['Rashida Jones'],['Drama'],FALSE,87
+84184,Celeste & Jesse Forever,8/3/2012,0,3094813,['Rashida Jones'],"['Comedy', 'Drama', 'Romance']",FALSE,91
+14846,Little Black Book,8/6/2004,35000000,22034832,['Rashida Jones'],"['Comedy', 'Romance', 'Drama']",FALSE,111
+59968,Our Idiot Brother,8/26/2011,5000000,24816118,['Rashida Jones'],"['Comedy', 'Drama']",FALSE,90
+15186,Full Frontal,8/2/2002,2000000,2506446,['Rashida Jones'],"['Comedy', 'Drama', 'Romance']",FALSE,96
+177047,Decoding Annie Parker,5/2/2014,2000000,48390,['Rashida Jones'],['Drama'],FALSE,91
+55895,Monogamy,4/24/2010,1000000,0,['Rashida Jones'],"['Drama', 'Romance']",FALSE,94
+29151,Brief Interviews with Hideous Men,1/19/2009,0,0,['Rashida Jones'],"['Comedy', 'Drama', 'Romance']",FALSE,80
+459970,Don't Come Back from the Moon,1/18/2019,0,0,['Rashida Jones'],['Drama'],FALSE,98
+50673,Life in Flight,9/12/2008,2000000,0,['Rashida Jones'],"['Comedy', 'Drama', 'Romance']",FALSE,78
+544733,Matters of the Heart,7/1/2015,0,0,['Rashida Jones'],"['Drama', 'Romance', 'Comedy']",FALSE,80
+243,High Fidelity,3/17/2000,30000000,47126295,['Lisa Bonet'],"['Comedy', 'Drama', 'Romance', 'Music']",FALSE,113
+268060,Road to Paloma,4/12/2014,0,0,['Lisa Bonet'],"['Thriller', 'Drama']",FALSE,91
+68670,Dead Connection,1/1/1994,0,0,['Lisa Bonet'],"['Thriller', 'Drama']",FALSE,93
+452898,Jellywolf,2/27/2017,0,0,['Lisa Bonet'],"['Drama', 'Fantasy']",FALSE,8
+83542,Cloud Atlas,10/26/2012,102000000,130482868,['Halle Berry'],"['Drama', 'Science Fiction']",FALSE,172
+293768,Kidnap,6/16/2017,21000000,30718107,['Halle Berry'],"['Drama', 'Thriller']",FALSE,95
+2320,Executive Decision,3/15/1996,55000000,121969216,['Halle Berry'],"['Action', 'Adventure', 'Drama', 'Thriller']",FALSE,133
+1365,Monster's Ball,6/7/2001,4000000,44909486,['Halle Berry'],"['Drama', 'Romance']",FALSE,113
+9452,Bulworth,5/15/1998,30000000,29202884,['Halle Berry'],"['Comedy', 'Drama']",FALSE,108
+3877,Things We Lost in the Fire,9/26/2007,16000000,2849142,['Halle Berry'],['Drama'],FALSE,113
+59963,Dark Tide,3/28/2012,25000000,432274,['Halle Berry'],"['Thriller', 'Adventure', 'Drama']",FALSE,113
+408873,Kings,11/11/2017,0,0,['Halle Berry'],"['Romance', 'Drama', 'Crime']",FALSE,92
+55061,Frankie & Alice,12/10/2010,0,693181,"['Halle Berry', 'Phylicia Rashad']","['Drama', 'Thriller']",FALSE,101
+18133,The Program,9/24/1993,0,23042200,['Halle Berry'],"['Drama', 'Action', 'Romance']",FALSE,112
+28313,Losing Isaiah,3/17/1995,17000000,7603766,"['Halle Berry', 'LaTanya Richardson Jackson']",['Drama'],FALSE,106
+54982,Introducing Dorothy Dandridge,8/21/1999,0,0,"['Halle Berry', 'Loretta Devine', 'LaTanya Richardson Jackson']",['Drama'],FALSE,120
+288887,The Wedding,2/22/1998,0,0,['Halle Berry'],"['Romance', 'Drama', 'TV Movie']",FALSE,180
+718633,Bruised,9/12/2020,0,0,['Halle Berry'],['Drama'],FALSE,129
+121285,Solomon & Sheba,2/26/1995,0,0,['Halle Berry'],"['Drama', 'Romance']",FALSE,89
+536571,Jagged Edge,,0,0,['Halle Berry'],"['Crime', 'Drama', 'Mystery']",FALSE,
+132363,The Butler,8/16/2013,25000000,115922175,['Oprah Winfrey'],['Drama'],FALSE,132
+873,The Color Purple,12/18/1985,15000000,146292009,"['Oprah Winfrey', 'Whoopi Goldberg', 'Maria Howell']",['Drama'],FALSE,154
+273895,Selma,12/25/2014,20000000,66787908,"['Oprah Winfrey', 'Niecy Nash']","['History', 'Drama']",FALSE,127
+424600,The Immortal Life of Henrietta Lacks,4/22/2017,0,0,['Oprah Winfrey'],"['Drama', 'TV Movie']",FALSE,93
+108312,Native Son,12/24/1986,2000000,1301121,['Oprah Winfrey'],['Drama'],FALSE,111
+185759,"Our Friend, Martin",1/12/1999,0,0,['Oprah Winfrey'],"['Drama', 'Family', 'Animation']",FALSE,60
+214043,Before Women Had Wings,11/1/1997,0,0,['Oprah Winfrey'],"['Drama', 'TV Movie']",FALSE,96
+339984,Miracles from Heaven,3/17/2016,16000000,73983359,['Queen Latifah'],['Drama'],FALSE,119
+1574,Chicago,12/26/2002,45000000,306776732,['Queen Latifah'],"['Comedy', 'Crime', 'Drama']",FALSE,113
+9481,The Bone Collector,11/4/1999,73000000,151493655,['Queen Latifah'],"['Drama', 'Mystery', 'Thriller', 'Crime']",FALSE,118
+17379,Last Holiday,1/13/2006,45000000,38399961,['Queen Latifah'],"['Adventure', 'Comedy', 'Drama']",FALSE,112
+2976,Hairspray,7/13/2007,50000000,90450008,['Queen Latifah'],"['Comedy', 'Romance', 'Drama']",FALSE,117
+532905,Hope's Wish,,0,0,['Queen Latifah'],['Drama'],FALSE,0
+44564,The Dilemma,1/13/2011,70000000,67112664,['Queen Latifah'],"['Comedy', 'Drama']",FALSE,111
+330544,Bessie,5/16/2015,0,0,"['Queen Latifah', ""Mo'Nique"", 'Tika Sumpter']","['Drama', 'Music', 'TV Movie']",FALSE,107
+16136,Juice,1/17/1992,5000000,20146880,['Queen Latifah'],"['Action', 'Crime', 'Drama', 'Thriller']",FALSE,96
+1262,Stranger Than Fiction,9/9/2006,30000000,53653224,['Queen Latifah'],"['Comedy', 'Drama', 'Fantasy', 'Romance']",FALSE,113
+8649,Bringing Out the Dead,10/22/1999,32000000,0,['Queen Latifah'],['Drama'],FALSE,121
+41659,My Life,11/12/1993,0,27484464,['Queen Latifah'],"['Drama', 'Romance']",FALSE,114
+57012,Talking to Heaven,4/28/2002,0,0,['Queen Latifah'],"['Drama', 'Science Fiction', 'Crime', 'Mystery', 'Thriller']",FALSE,142
+10611,Barbershop,4/1/2002,12000000,75781642,"['Eve Jihan Jeffers', 'Marcia Wright']","['Comedy', 'Drama']",TRUE,102
+22798,Whip It,4/9/2009,15000000,16633035,['Eve Jihan Jeffers'],['Drama'],FALSE,111
+9692,The Woodsman,12/24/2004,0,4678405,['Eve Jihan Jeffers'],['Drama'],FALSE,87
+13793,Flashbacks of a Fool,10/17/2008,0,1107542,['Eve Jihan Jeffers'],['Drama'],FALSE,110
+462919,Sierra Burgess Is a Loser,9/7/2018,0,0,['Loretta Devine'],"['Comedy', 'Drama', 'Romance']",FALSE,105
+10950,I Am Sam,12/28/2001,22000000,92542418,['Loretta Devine'],['Drama'],FALSE,132
+290542,You're Not You,10/10/2014,0,11486,['Loretta Devine'],['Drama'],FALSE,104
+30963,Class Act,6/5/1992,0,0,['Loretta Devine'],"['Comedy', 'Drama']",FALSE,98
+36094,Stanley & Iris,2/9/1990,23000000,5820015,['Loretta Devine'],"['Drama', 'Romance']",FALSE,104
+284537,Welcome to Me,9/5/2014,0,0,['Loretta Devine'],"['Comedy', 'Drama']",FALSE,87
+44027,"My Son, My Son, What Have Ye Done",12/11/2009,0,0,"['Loretta Devine', 'Irma P. Hall']","['Crime', 'Drama', 'Thriller']",FALSE,91
+364160,Caged No More,1/15/2016,0,114,['Loretta Devine'],"['Action', 'Drama', 'Thriller']",FALSE,90
+125582,Down in the Delta,12/25/1998,0,0,['Loretta Devine'],['Drama'],FALSE,112
+287636,The Sound and the Fury,10/23/2015,0,0,['Loretta Devine'],['Drama'],FALSE,101
+770,Gone with the Wind,12/15/1939,4000000,402352579,['Hattie McDaniel'],"['Drama', 'War', 'Romance']",FALSE,233
+17382,They Died with Their Boots On,11/20/1941,0,0,['Hattie McDaniel'],"['Drama', 'Romance', 'War', 'Western']",FALSE,140
+47921,Imitation of Life,11/23/1934,0,0,['Hattie McDaniel'],"['Drama', 'Romance']",FALSE,111
+43705,The Great Lie,4/5/1941,0,0,['Hattie McDaniel'],['Drama'],FALSE,108
+43886,Alice Adams,8/23/1935,0,0,['Hattie McDaniel'],"['Comedy', 'Drama', 'Romance']",FALSE,99
+34474,Blonde Venus,9/23/1932,0,0,['Hattie McDaniel'],['Drama'],FALSE,93
+37650,Nothing Sacred,11/25/1937,0,0,['Hattie McDaniel'],"['Comedy', 'Drama', 'Romance']",FALSE,77
+71282,China Seas,8/9/1935,1138000,0,['Hattie McDaniel'],"['Adventure', 'Action', 'Drama']",FALSE,87
+99318,The Shopworn Angel,7/15/1938,0,0,['Hattie McDaniel'],"['Drama', 'Romance', 'War']",FALSE,85
+31548,Show Boat,5/17/1936,0,0,['Hattie McDaniel'],"['Music', 'Comedy', 'Drama']",FALSE,113
+59822,The Big Wheel,11/4/1949,0,0,['Hattie McDaniel'],"['Action', 'Drama', 'Romance']",FALSE,92
+111463,The Shining Hour,11/18/1938,0,0,['Hattie McDaniel'],"['Drama', 'Romance']",FALSE,76
+43525,In This Our Life,5/8/1942,0,0,['Hattie McDaniel'],"['Drama', 'Romance']",FALSE,97
+114186,Johnny Come Lately,9/3/1943,0,0,['Hattie McDaniel'],['Drama'],FALSE,97
+23024,Judge Priest,9/15/1934,0,0,['Hattie McDaniel'],"['Comedy', 'Drama', 'Romance']",FALSE,80
+111310,Operator 13,6/8/1934,0,0,['Hattie McDaniel'],"['Drama', 'Romance', 'War']",FALSE,82
+28439,Murder by Television,10/1/1935,35000,0,['Hattie McDaniel'],"['Thriller', 'Drama', 'Mystery', 'Horror', 'Science Fiction']",FALSE,53
+45800,Saratoga,7/23/1937,0,0,['Hattie McDaniel'],"['Drama', 'Romance', 'Comedy']",FALSE,92
+244447,Another Face,12/20/1935,0,0,['Hattie McDaniel'],"['Comedy', 'Drama', 'Crime']",FALSE,69
+345938,The Shack,3/3/2017,20000000,92924405,['Octavia Spencer'],"['Drama', 'Fantasy']",FALSE,132
+399055,The Shape of Water,12/1/2017,19500000,194989655,['Octavia Spencer'],"['Drama', 'Fantasy', 'Romance']",FALSE,123
+400928,Gifted,4/12/2017,7000000,40343446,['Octavia Spencer'],"['Drama', 'Family', 'Comedy']",FALSE,101
+491418,Instant Family,11/16/2018,48000000,14700000,['Octavia Spencer'],"['Comedy', 'Drama']",FALSE,118
+110415,Snowpiercer,8/1/2013,39200000,86758912,['Octavia Spencer'],"['Action', 'Science Fiction', 'Drama']",FALSE,127
+1645,A Time to Kill,7/24/1996,40000000,152266007,['Octavia Spencer'],"['Crime', 'Drama', 'Thriller']",FALSE,149
+7214,Coach Carter,1/14/2005,30000000,76669806,"['Octavia Spencer', 'Debbi Morgan']",['Drama'],FALSE,136
+492,Being John Malkovich,10/29/1999,13000000,22863596,['Octavia Spencer'],"['Comedy', 'Drama', 'Fantasy']",FALSE,113
+11321,Seven Pounds,12/18/2008,55000000,168167691,['Octavia Spencer'],['Drama'],FALSE,123
+338964,Bad Santa 2,11/23/2016,26000000,23229371,['Octavia Spencer'],"['Comedy', 'Crime', 'Drama', 'Mystery']",TRUE,92
+10147,Bad Santa,11/26/2003,23000000,76488889,['Octavia Spencer'],"['Drama', 'Comedy', 'Crime']",TRUE,92
+492616,Luce,8/2/2019,0,2268204,['Octavia Spencer'],"['Drama', 'Thriller']",FALSE,109
+11355,Never Been Kissed,4/9/1999,25000000,84565230,['Octavia Spencer'],"['Romance', 'Comedy', 'Drama']",FALSE,107
+254172,Fathers and Daughters,10/1/2015,2240000,0,['Octavia Spencer'],['Drama'],FALSE,116
+17332,The Soloist,4/24/2009,60000000,31720158,['Octavia Spencer'],"['Drama', 'Music']",FALSE,109
+467917,A Kid Like Jake,6/1/2018,0,0,['Octavia Spencer'],['Drama'],FALSE,92
+253331,Black or White,9/6/2014,9000000,21571189,['Octavia Spencer'],['Drama'],FALSE,121
+331588,The Great Gilly Hopkins,10/5/2015,5000000,0,['Octavia Spencer'],"['Comedy', 'Drama', 'Family']",FALSE,99
+18240,The Proposal,6/1/2009,40000000,317375031,['Niecy Nash'],"['Comedy', 'Romance', 'Drama']",FALSE,108
+301337,Downsizing,12/22/2017,68000000,55003890,['Niecy Nash'],"['Comedy', 'Drama', 'Science Fiction']",FALSE,135
+660609,Uncorked,3/27/2020,0,0,['Niecy Nash'],"['Drama', 'Comedy']",FALSE,104
+9465,Cookie's Fortune,1/22/1999,10000000,10920544,['Niecy Nash'],"['Comedy', 'Drama', 'Thriller']",FALSE,118
+664747,Stolen by My Mother: The Kamiyah Mobley Story,1/18/2020,0,0,['Niecy Nash'],"['Drama', 'TV Movie']",FALSE,88
+480530,Creed II,11/21/2018,50000000,214215889,['Phylicia Rashad'],['Drama'],TRUE,130
+312221,Creed,11/25/2015,37000000,173567581,['Phylicia Rashad'],['Drama'],TRUE,133
+69945,The Babysitter's Seduction,1/22/1996,0,0,['Phylicia Rashad'],"['Drama', 'Thriller', 'TV Movie']",FALSE,86
+244117,Emily & Tim,8/29/2015,0,0,['Phylicia Rashad'],['Drama'],FALSE,88
+136718,Steel Magnolias,10/7/2012,0,0,['Phylicia Rashad'],"['Romance', 'Drama', 'TV Movie']",FALSE,90
+70282,The Visit,4/20/2001,0,0,['Phylicia Rashad'],['Drama'],FALSE,107
+54379,Change of Plans,1/8/2011,0,0,['Phylicia Rashad'],"['TV Movie', 'Family', 'Comedy', 'Drama']",FALSE,90
+146599,Once Upon a Time... When We Were Colored,1/26/1996,0,0,['Phylicia Rashad'],"['Romance', 'Drama']",FALSE,115
+257135,The Old Settler,4/25/2001,0,0,['Phylicia Rashad'],"['Drama', 'Romance']",FALSE,87
+331472,Uncle Tom's Cabin,6/14/1987,0,0,['Phylicia Rashad'],"['History', 'Drama']",FALSE,110
+750263,For Justice,7/3/2015,0,0,['Phylicia Rashad'],"['TV Movie', 'Drama']",FALSE,0
+468079,False Witness,10/23/1989,0,0,['Phylicia Rashad'],"['Crime', 'Drama']",FALSE,100
+354485,The Possession of Michael D.,5/2/1995,0,0,['Phylicia Rashad'],"['Horror', 'Drama', 'Thriller']",FALSE,105
+677179,Creed III,,0,0,['Phylicia Rashad'],"['Drama', 'Action']",TRUE,0
+265742,David's Mother,4/10/1994,0,0,['Phylicia Rashad'],"['Drama', 'TV Movie']",FALSE,90
+25517,The Gospel,10/7/2005,0,0,['Keshia Knight Pulliam'],"['Drama', 'Music']",FALSE,105
+626280,Radio Christmas,11/9/2019,0,0,['Keshia Knight Pulliam'],"['Drama', 'Romance', 'TV Movie']",FALSE,90
+39291,Motives,2/24/2004,0,0,['Keshia Knight Pulliam'],"['Drama', 'Action', 'Thriller', 'Mystery', 'Romance']",TRUE,87
+552011,Jingle Belle,11/25/2018,0,0,['Keshia Knight Pulliam'],"['Family', 'TV Movie', 'Drama', 'Romance', 'Music']",FALSE,88
+695678,Tempted by Danger,4/18/2020,0,0,['Keshia Knight Pulliam'],"['Drama', 'Thriller']",FALSE,83
+55264,The Little Match Girl,12/21/1987,0,0,['Keshia Knight Pulliam'],"['Family', 'Drama', 'TV Movie']",FALSE,96
+598037,What About Your Friends: Weekend Get-Away,5/31/2002,0,0,['Keshia Knight Pulliam'],"['Drama', 'Family']",FALSE,88
+8587,The Lion King,6/23/1994,45000000,763455561,['Whoopi Goldberg'],"['Family', 'Animation', 'Drama']",TRUE,89
+3558,"Girl, Interrupted",3/24/1999,40000000,48350205,['Whoopi Goldberg'],['Drama'],FALSE,127
+251,Ghost,7/12/1990,22000000,505000000,['Whoopi Goldberg'],"['Fantasy', 'Drama', 'Thriller', 'Mystery', 'Romance']",FALSE,127
+10403,The Player,4/3/1992,8000000,21706101,['Whoopi Goldberg'],"['Comedy', 'Drama', 'Crime', 'Thriller']",FALSE,124
+45156,A Little Bit of Heaven,2/3/2011,0,1296937,['Whoopi Goldberg'],"['Comedy', 'Drama', 'Romance']",FALSE,106
+455558,11-Sep,9/7/2017,0,0,['Whoopi Goldberg'],['Drama'],FALSE,88
+30943,The Deep End of the Ocean,3/12/1999,38000000,28121100,['Whoopi Goldberg'],"['Drama', 'Mystery']",FALSE,106
+9382,Boys on the Side,2/3/1995,21000000,23450000,['Whoopi Goldberg'],"['Comedy', 'Drama']",FALSE,115
+10464,"Corrina, Corrina",8/12/1994,0,0,['Whoopi Goldberg'],"['Comedy', 'Drama', 'Family', 'Romance']",FALSE,115
+31908,Ghosts of Mississippi,12/20/1996,36000000,13323144,['Whoopi Goldberg'],['Drama'],FALSE,130
+68274,Moonlight and Valentino,9/29/1995,0,0,['Whoopi Goldberg'],"['Comedy', 'Drama', 'Romance']",FALSE,100
+51763,The Long Walk Home,12/21/1990,0,0,['Whoopi Goldberg'],"['Drama', 'History']",FALSE,97
+35936,Sarafina!,9/18/1992,0,0,['Whoopi Goldberg'],"['Music', 'Drama', 'Family']",FALSE,117
+59884,What Makes a Family,1/22/2001,0,0,['Whoopi Goldberg'],"['Drama', 'TV Movie']",FALSE,120
+76203,12 Years a Slave,10/18/2013,20000000,187000000,['Alfre Woodard'],"['Drama', 'History']",FALSE,134
+1592,Primal Fear,3/6/1996,30000000,102616183,['Alfre Woodard'],"['Crime', 'Drama', 'Mystery', 'Thriller']",FALSE,129
+167,K-PAX,10/22/2001,48000000,50315140,['Alfre Woodard'],"['Drama', 'Science Fiction']",FALSE,120
+12763,Take the Lead,3/17/2006,30000000,65742992,['Alfre Woodard'],"['Comedy', 'Music', 'Drama']",FALSE,108
+10145,The Forgotten,9/24/2004,42000000,117592831,['Alfre Woodard'],"['Drama', 'Horror', 'Mystery', 'Science Fiction', 'Thriller']",FALSE,91
+309242,Mississippi Grind,7/4/2015,0,130541,['Alfre Woodard'],"['Drama', 'Thriller']",FALSE,108
+11861,How to Make an American Quilt,10/6/1995,10000000,23574130,['Alfre Woodard'],"['Drama', 'Romance']",FALSE,116
+13920,Radio,10/24/2003,35000000,53293628,['Alfre Woodard'],['Drama'],FALSE,109
+9647,Scrooged,11/22/1988,32000000,60328558,['Alfre Woodard'],"['Fantasy', 'Comedy', 'Drama']",FALSE,101
+550506,Saint Judy,3/1/2019,0,0,['Alfre Woodard'],['Drama'],FALSE,106
+13697,Grand Canyon,12/25/1991,0,0,['Alfre Woodard'],['Drama'],FALSE,134
+19819,Blue Chips,2/18/1994,0,0,['Alfre Woodard'],['Drama'],FALSE,108
+426265,Burning Sands,1/24/2017,0,0,['Alfre Woodard'],['Drama'],FALSE,105
+581475,Juanita,3/8/2019,0,0,"['Alfre Woodard', 'LaTanya Richardson Jackson']",['Drama'],FALSE,90
+34152,Crooklyn,5/13/1994,14000000,0,['Alfre Woodard'],"['Comedy', 'Drama']",FALSE,115
+27874,A Wrinkle in Time,4/25/2003,0,0,['Alfre Woodard'],"['Drama', 'Science Fiction', 'Family', 'TV Movie']",FALSE,128
+24071,Mumford,9/24/1999,0,0,['Alfre Woodard'],"['Comedy', 'Drama', 'Romance']",FALSE,112
+77434,What's Cooking?,1/20/2000,0,0,['Alfre Woodard'],"['Comedy', 'Drama']",FALSE,110
+13490,Welcome Home Roscoe Jenkins,2/8/2008,35000000,43650785,"[""Mo'Nique"", 'Nicole Ari Parker']","['Comedy', 'Drama']",FALSE,114
+9921,Shadowboxer,9/9/2005,0,0,"[""Mo'Nique""]","['Action', 'Crime', 'Drama', 'Thriller']",FALSE,93
+287322,Blackbird,2/16/2014,0,0,"[""Mo'Nique""]",['Drama'],FALSE,99
+61902,Good Fences,1/22/2003,0,0,"[""Mo'Nique""]","['Comedy', 'Drama']",FALSE,119
+33473,Stomp the Yard 2: Homecoming,10/10/2010,0,0,['Tika Sumpter'],"['Drama', 'Music']",TRUE,90
+429203,The Old Man & the Gun,9/27/2018,0,11277120,['Tika Sumpter'],"['Comedy', 'Crime', 'Drama']",FALSE,93
+239566,Get on Up,8/1/2014,30000000,33448971,['Tika Sumpter'],['Drama'],FALSE,139
+553882,An Acceptable Loss,10/13/2018,0,0,['Tika Sumpter'],"['Thriller', 'Drama']",FALSE,102
+310888,Southside with You,8/26/2016,1500000,6512004,['Tika Sumpter'],"['Romance', 'Drama']",FALSE,80
+175555,A Madea Christmas,12/13/2013,47000000,53396354,['Tika Sumpter'],"['Comedy', 'Drama']",TRUE,100
+636846,The Nomads,10/27/2019,0,0,['Tika Sumpter'],['Drama'],FALSE,93
+42508,Siren of the Tropics,12/30/1927,0,0,['Josephine Baker'],"['Music', 'Drama']",FALSE,86
+93057,Princess Tam Tam,11/2/1935,0,0,['Josephine Baker'],"['Drama', 'Comedy']",FALSE,77
+94703,Parisian Pleasures,11/29/1927,0,0,['Josephine Baker'],['Drama'],FALSE,103
+11978,Men of Honor,9/13/2000,82343495,48814909,['Lonette McKee'],['Drama'],FALSE,129
+2148,The Cotton Club,12/14/1984,58000000,25928721,['Lonette McKee'],"['Crime', 'Drama']",FALSE,127
+9469,He Got Game,5/1/1998,25000000,21567853,['Lonette McKee'],['Drama'],FALSE,136
+28368,Gardens of Stone,5/5/1987,0,5262047,['Lonette McKee'],"['Drama', 'History']",FALSE,111
+21554,Sparkle,4/7/1976,0,0,['Lonette McKee'],"['Drama', 'Music']",FALSE,98
+14670,’Round Midnight,9/23/1986,0,0,['Lonette McKee'],['Drama'],FALSE,133
+62001,Cuba,12/21/1979,0,0,['Lonette McKee'],"['Action', 'Drama', 'Romance', 'Thriller', 'Adventure', 'War']",FALSE,122
+91264,Lift,1/20/2001,0,0,['Lonette McKee'],"['Drama', 'Crime']",FALSE,85
+162660,Illusions,1/1/1982,0,0,['Lonette McKee'],['Drama'],FALSE,34
+337213,Against The Jab,4/11/2014,0,0,['Lonette McKee'],"['Comedy', 'Drama']",FALSE,90
+238972,Blind Faith,11/23/1998,0,0,['Lonette McKee'],['Drama'],FALSE,122
+27056,Dangerous Passion,2/28/1990,0,0,['Lonette McKee'],"['Action', 'Adventure', 'Drama']",FALSE,94
+67271,A Day in Black and White,8/31/2001,0,0,['Lonette McKee'],['Drama'],FALSE,80
+714834,Home Free,7/13/1988,0,0,['Lonette McKee'],"['Drama', 'TV Movie']",FALSE,60
+76025,Shame,10/2/2011,6500000,3909002,['Nicole Beharie'],['Drama'],FALSE,102
+109410,42,4/12/2013,40000000,95020213,['Nicole Beharie'],['Drama'],FALSE,128
+14325,The Express,10/10/2008,40000000,9793496,['Nicole Beharie'],['Drama'],FALSE,130
+489934,Monsters and Men,9/22/2018,0,0,['Nicole Beharie'],['Drama'],FALSE,96
+653668,Miss Juneteenth,9/25/2020,0,0,['Nicole Beharie'],['Drama'],FALSE,103
+21179,American Violet,8/28/2008,0,0,['Nicole Beharie'],['Drama'],FALSE,103
+58103,Sins of the Mother,2/21/2010,0,0,['Nicole Beharie'],['Drama'],FALSE,90
+79781,The Last Fall,3/9/2012,0,0,['Nicole Beharie'],['Drama'],FALSE,98
+96534,My Last Day Without You,6/11/2011,1000000,0,['Nicole Beharie'],"['Comedy', 'Drama', 'Romance']",FALSE,90
+198365,Apartment 4E,12/1/2012,0,0,['Nicole Beharie'],"['Mystery', 'Thriller', 'Drama']",FALSE,87
+528888,Dolemite Is My Name,10/4/2019,0,0,['Tasha Smith'],"['Drama', 'Comedy', 'History']",FALSE,118
+57784,Glass House: The Good Mother,10/3/2006,0,0,['Tasha Smith'],"['Drama', 'Thriller']",TRUE,94
+62576,Pastor Brown,6/26/2009,0,0,"['Tasha Smith', 'Nicole Ari Parker']",['Drama'],FALSE,0
+751413,Polaris,4/24/2017,0,0,['Tasha Smith'],['Drama'],FALSE,90
+84165,2 Days in New York,3/28/2012,8000000,1653792,['Malinda Williams'],"['Comedy', 'Drama', 'Romance']",TRUE,91
+27665,Uninvited Guest,6/1/1999,0,170832,['Malinda Williams'],"['Drama', 'Thriller']",FALSE,116
+246850,The Undershepherd,2/15/2012,0,0,['Malinda Williams'],['Drama'],FALSE,110
+270596,A Cross to Bear,2/18/2012,0,0,['Malinda Williams'],"['Drama', 'TV Movie']",FALSE,0
+179050,24 Hour Love,3/19/2013,0,0,['Malinda Williams'],"['Drama', 'Romance']",FALSE,98
+259389,Dancing in September,2/3/2001,850000,0,"['Malinda Williams', 'Nicole Ari Parker']",['Drama'],FALSE,107
+617712,Loved To Death,7/21/2019,0,0,['Malinda Williams'],"['Drama', 'TV Movie']",FALSE,90
+86848,Excessive Force II: Force on Force,8/29/1995,0,0,['Terri J. Vaughn'],"['Drama', 'Action']",TRUE,88
+35857,Dirty Laundry,7/15/2006,0,0,['Terri J. Vaughn'],"['Comedy', 'Drama']",FALSE,100
+33622,Detonator,2/23/2003,0,0,['Terri J. Vaughn'],"['Action', 'Drama', 'Thriller']",FALSE,92
+105785,"Life, Love, Soul",4/13/2012,0,0,['Terri J. Vaughn'],['Drama'],FALSE,92
+273518,Who Did I Marry?,1/1/2013,0,0,['Terri J. Vaughn'],['Drama'],FALSE,70
+268603,Between Sisters,5/7/2014,0,0,['Terri J. Vaughn'],"['TV Movie', 'Drama']",FALSE,90
+689486,Soul Ties,9/21/2015,0,0,['Terri J. Vaughn'],['Drama'],FALSE,145
+380124,Boo! A Madea Halloween,10/21/2016,20000000,74827344,['Cassi Davis'],"['Comedy', 'Horror', 'Drama']",TRUE,103
+36739,School Daze,2/12/1988,0,0,['Cassi Davis'],"['Comedy', 'Drama', 'Music']",FALSE,121
+205361,Boycott,2/24/2001,0,0,['Cassi Davis'],"['History', 'Drama', 'TV Movie']",FALSE,118
+294737,Act of Faith,4/8/2014,0,0,['Cassi Davis'],['Drama'],FALSE,85
+309719,"He Say, She Say, But What Does God Say?",1/1/2004,0,0,['Cassi Davis'],"['Comedy', 'Drama', 'Music']",FALSE,124
+515114,Honey: Rise Up and Dance,4/3/2018,0,0,['Sierra Aylina McClain'],"['Drama', 'Music']",TRUE,100
+552858,Blood Brother,11/30/2018,0,0,['China Anne McClain'],"['Action', 'Crime', 'Drama', 'Thriller']",FALSE,90
+399641,BearCity 3,9/17/2016,0,0,['Lauryn Alisa McClain'],"['Comedy', 'Drama', 'Romance']",TRUE,108
+11329,Runaway Jury,1/16/2003,60000000,80154140,['Juanita Jennings'],"['Drama', 'Thriller']",FALSE,127
+132109,Murder of Innocence,11/30/1993,0,0,['Juanita Jennings'],"['Thriller', 'TV Movie', 'Drama']",FALSE,92
+256177,Jack Reed: Badge of Honour,11/12/1993,0,0,['Juanita Jennings'],"['Crime', 'Drama', 'Mystery']",FALSE,96
+567693,The Marla Hanson Story,2/4/1991,0,0,['Juanita Jennings'],['Drama'],FALSE,91
+566929,LifeStories: Steve Burdick,12/18/1990,0,0,['Juanita Jennings'],['Drama'],FALSE,47
+22881,The Blind Side,11/20/2009,29000000,309208309,"['Maria Howell', 'Jessica J. Immanuel']",['Drama'],FALSE,129
+76494,What to Expect When You're Expecting,5/17/2012,40000000,79700000,['Maria Howell'],"['Romance', 'Comedy', 'Drama']",FALSE,110
+250538,The Good Lie,6/27/2014,20000000,3396345,['Maria Howell'],['Drama'],FALSE,110
+618830,Homeless Ashes,9/23/2019,0,0,['Maria Howell'],['Drama'],FALSE,71
+222064,The Adventures of Young Indiana Jones: Mystery of the Blues,3/13/1993,0,0,['Maria Howell'],"['Action', 'Adventure', 'Drama', 'TV Movie']",TRUE,90
+467433,A Question of Faith,9/29/2017,0,2587072,['Donna Biscoe'],['Drama'],FALSE,104
+318121,The Fundamentals of Caring,6/16/2016,0,0,['Donna Biscoe'],"['Comedy', 'Drama']",FALSE,97
+409056,Along Came the Devil,8/10/2018,0,0,['Donna Biscoe'],"['Thriller', 'Horror', 'Drama']",TRUE,89
+92384,Trois 2: Pandora's Box,8/9/2002,800000,833779,"['Donna Biscoe', 'Monica Calhoun']","['Drama', 'Thriller', 'Romance']",TRUE,0
+96141,Trois: The Escort,12/28/2004,0,0,['Donna Biscoe'],"['Drama', 'Thriller', 'Romance']",TRUE,0
+77908,Trois,2/11/2000,200000,1160268,['Donna Biscoe'],"['Drama', 'Thriller', 'Romance']",TRUE,93
+57680,The Simple Life Of Noah Dearborn,6/19/2000,0,0,['Donna Biscoe'],"['TV Movie', 'Drama', 'Family']",FALSE,85
+521190,The Beach House,4/28/2018,0,0,['Donna Biscoe'],"['TV Movie', 'Romance', 'Drama']",FALSE,90
+311999,In the Line of Duty: Street War,5/11/1992,0,0,['Donna Biscoe'],"['Action', 'Drama', 'Thriller', 'TV Movie']",FALSE,96
+340181,Comeback Dad,6/21/2014,0,0,['Donna Biscoe'],['Drama'],FALSE,0
+252305,The Secret Passion of Robert Clayton,6/4/1992,0,0,['Donna Biscoe'],['Drama'],FALSE,91
+486760,Bobbi Kristina,10/8/2017,0,0,['Demetria McKinney'],"['Drama', 'Family', 'Music', 'TV Movie']",FALSE,82
+69768,Breaking Up Is Hard to Do,1/1/2010,0,0,['Demetria McKinney'],"['Drama', 'Romance']",FALSE,108
+45840,Best Friends,12/17/1982,0,0,['Joan Pringle'],"['Comedy', 'Drama', 'Romance']",FALSE,116
+84834,Double Indemnity,10/13/1973,0,0,['Joan Pringle'],"['Drama', 'Crime', 'Thriller', 'TV Movie']",FALSE,75
+247434,"Selma, Lord, Selma",1/17/1999,0,0,['Faye Yvette McQueen'],['Drama'],FALSE,94
+308688,An En Vogue Christmas,11/14/2014,0,0,['Cindy Herron'],"['Music', 'Drama', 'TV Movie']",FALSE,90
+216609,If Love Hadn't Left Me Lonely,4/13/2004,0,0,['Cindy Herron'],"['Drama', 'Action']",FALSE,99
+858,Sleepless in Seattle,6/24/1993,21000000,227799884,['LaTanya Richardson Jackson'],"['Comedy', 'Drama', 'Romance']",FALSE,105
+10449,When a Man Loves a Woman,4/29/1994,0,50021959,['LaTanya Richardson Jackson'],"['Drama', 'Romance']",FALSE,126
+26748,Lone Star,6/21/1996,5000000,13269963,['LaTanya Richardson Jackson'],"['Drama', 'Mystery', 'Romance']",FALSE,135
+9959,Freedomland,2/17/2006,37665000,14655628,['LaTanya Richardson Jackson'],"['Drama', 'Thriller', 'Crime', 'Mystery']",FALSE,113
+2007,Lorenzo's Oil,12/30/1992,0,7286388,['LaTanya Richardson Jackson'],['Drama'],FALSE,135
+55139,Loved,10/31/1997,500000,0,['LaTanya Richardson Jackson'],"['Drama', 'Thriller']",FALSE,109
+233120,The Deliverance of Elaine,4/10/1996,0,0,['LaTanya Richardson Jackson'],"['Drama', 'Thriller']",FALSE,120
+132082,Within These Walls,8/20/2001,0,0,['LaTanya Richardson Jackson'],['Drama'],FALSE,100
+109708,The Water Is Wide,1/29/2006,0,0,['LaTanya Richardson Jackson'],"['Drama', 'TV Movie']",FALSE,100
+372719,The Nightman,2/8/1992,0,0,['LaTanya Richardson Jackson'],['Drama'],FALSE,95
+9770,Mad City,11/7/1997,50000000,10541523,['Kyla Pratt'],"['Action', 'Drama', 'Thriller']",FALSE,114
+48287,The Baby-Sitters Club,8/18/1995,0,0,['Kyla Pratt'],"['Comedy', 'Drama', 'Family']",FALSE,94
+290049,Hijacked: Flight 285,2/4/1996,0,0,['Kyla Pratt'],"['Action', 'Drama', 'Crime']",FALSE,92
+103,Taxi Driver,2/9/1976,1300000,28262574,['Debbi Morgan'],"['Crime', 'Drama']",FALSE,114
+10400,The Hurricane,9/17/1999,50000000,73956241,['Debbi Morgan'],['Drama'],FALSE,146
+38027,Mandingo,6/6/1975,0,0,['Debbi Morgan'],"['History', 'Action', 'Romance', 'Drama']",TRUE,127
+379297,Toni Braxton: Unbreak My Heart,1/23/2016,0,0,['Debbi Morgan'],"['Drama', 'Music', 'TV Movie']",FALSE,85
+228257,Perry Mason: The Case of the Fatal Framing,3/1/1992,0,0,['Debbi Morgan'],"['Crime', 'Drama', 'Mystery', 'TV Movie']",FALSE,91
+22045,Asunder,11/6/1998,0,0,['Debbi Morgan'],"['Drama', 'Thriller', 'Mystery', 'Romance']",FALSE,101
+44634,Woman Thou Art Loosed,9/30/2004,3000000,6804016,['Debbi Morgan'],['Drama'],FALSE,94
+309666,Love's Savage Fury,5/20/1979,0,0,['Debbi Morgan'],['Drama'],FALSE,100
+220390,Guilty of Innocence: The Lenell Geter Story,2/3/1987,0,0,['Debbi Morgan'],"['Drama', 'TV Movie']",FALSE,100
+444978,Thornwell,1/28/1981,0,0,['Debbi Morgan'],"['Drama', 'History', 'TV Movie']",FALSE,97
+56743,Elena Undone,6/25/2010,0,0,['Erika Ringor'],"['Drama', 'Romance']",FALSE,111
+522293,Hibiscus - Death is not the End,3/15/2018,0,0,['Erika Ringor'],"['Comedy', 'Drama']",FALSE,78
+19848,The Players Club,4/8/1998,4500000,23261485,['Monica Calhoun'],"['Comedy', 'Drama']",FALSE,104
+3543,Bagdad Cafe,11/12/1987,0,3587303,['Monica Calhoun'],"['Comedy', 'Drama']",FALSE,95
+30246,Civil Brand,8/29/2003,500000,243347,['Monica Calhoun'],"['Crime', 'Drama', 'Thriller']",FALSE,95
+441776,The Ernest Green Story,1/17/1993,0,0,['Monica Calhoun'],['Drama'],FALSE,101
+74022,Friends and Lovers,3/1/2005,0,0,['Monica Calhoun'],"['Drama', 'Comedy', 'Romance']",FALSE,135
+180708,Justice,5/12/2004,0,0,['Monica Calhoun'],['Drama'],FALSE,104
+607590,Park Day,8/6/1998,0,0,['Monica Calhoun'],['Drama'],FALSE,106
+713986,Everything But a Man,8/22/2019,0,0,['Monica Calhoun'],"['Drama', 'Comedy', 'Romance']",FALSE,110
+10802,Showgirls,9/22/1995,45000000,20350754,['Gina Ravera'],['Drama'],TRUE,131
+9437,Kiss the Girls,9/29/1997,27000000,60527873,['Gina Ravera'],"['Drama', 'Mystery', 'Thriller', 'Crime']",TRUE,115
+14047,The Great Debaters,12/27/2007,15000000,30226144,['Gina Ravera'],['Drama'],FALSE,126
+49471,Get on the Bus,10/16/1996,2400000,5731103,['Gina Ravera'],['Drama'],FALSE,120
+74942,Soul of the Game,4/20/1996,0,0,['Gina Ravera'],"['History', 'Drama']",FALSE,94
+218183,Rhapsody,10/21/2000,0,0,['Gina Ravera'],"['Romance', 'Drama']",FALSE,
+10312,Patch Adams,12/25/1998,50000000,202292902,['Irma P. Hall'],"['Comedy', 'Drama']",FALSE,115
+11699,The Bad Lieutenant: Port of Call - New Orleans,5/21/2009,25000000,10589102,['Irma P. Hall'],"['Drama', 'Crime']",FALSE,122
+2924,Backdraft,5/24/1991,75000000,152368585,['Irma P. Hall'],"['Crime', 'Drama', 'Thriller']",TRUE,137
+8197,Midnight in the Garden of Good and Evil,11/21/1997,35000000,25105255,['Irma P. Hall'],"['Crime', 'Drama', 'Mystery', 'Thriller']",FALSE,155
+444951,New Life,10/28/2016,0,0,['Irma P. Hall'],"['Drama', 'Romance']",FALSE,90
+36790,Uncross The Stars,1/1/2008,0,0,['Irma P. Hall'],"['Comedy', 'Drama']",FALSE,0
+41852,A Family Thing,3/29/1996,0,0,['Irma P. Hall'],"['Comedy', 'Drama']",FALSE,109
+52777,Split Image,11/4/1982,0,263635,['Irma P. Hall'],['Drama'],FALSE,111
+125233,An Unexpected Love,3/24/2003,0,0,['Irma P. Hall'],"['Drama', 'TV Movie']",FALSE,90
+216891,Hiding in Plain Sight,9/28/2012,0,0,['Irma P. Hall'],['Drama'],FALSE,0
+79615,Square Dance,3/1/1987,0,225358,['Irma P. Hall'],"['Drama', 'Romance']",FALSE,112
+102242,Something to Sing About,6/10/2000,0,0,['Irma P. Hall'],"['Music', 'Drama']",FALSE,87
+277248,Miss Lettie and Me,12/8/2002,0,0,['Irma P. Hall'],"['TV Movie', 'Drama']",FALSE,
+15155,G,5/10/2002,0,3020784,['Marcia Wright'],"['Drama', 'Romance']",FALSE,96
+78451,Three 6 Mafia: Choices,11/6/2001,0,0,['Isley Nicole Melton'],"['Drama', 'Crime']",FALSE,90
+4995,Boogie Nights,10/7/1997,15000000,43101594,['Nicole Ari Parker'],['Drama'],FALSE,156
+10637,Remember the Titans,9/29/2000,30000000,136706683,['Nicole Ari Parker'],['Drama'],FALSE,113
+29371,The Incredibly True Adventure of Two Girls in Love,6/16/1995,0,0,['Nicole Ari Parker'],"['Comedy', 'Drama', 'Romance']",FALSE,94
+15256,200 Cigarettes,2/26/1999,6000000,6852450,['Nicole Ari Parker'],"['Comedy', 'Drama', 'Romance']",FALSE,101
+46625,The End of Violence,5/11/1997,5000000,0,['Nicole Ari Parker'],"['Drama', 'Thriller']",FALSE,122
+67323,The Adventures of Sebastian Cole,9/11/1998,0,0,['Nicole Ari Parker'],"['Drama', 'Comedy']",FALSE,99
+54933,A Map of the World,9/13/1999,0,0,['Nicole Ari Parker'],['Drama'],FALSE,125
+209802,Subway Stories: Tales from the Underground,7/24/1997,0,0,['Nicole Ari Parker'],"['TV Movie', 'Comedy', 'Drama']",FALSE,80
+87901,Exiled,11/8/1998,0,0,['Nicole Ari Parker'],"['TV Movie', 'Crime', 'Drama']",FALSE,120
+28628,Stonewall,10/1/1995,0,0,['Nicole Ari Parker'],"['Romance', 'Drama', 'Comedy']",FALSE,99
+297172,Downsized,6/18/2017,0,0,['Nicole Ari Parker'],"['TV Movie', 'Comedy', 'Drama']",FALSE,83
+85456,Harlem Aria,3/5/1999,0,0,['Nicole Ari Parker'],"['Drama', 'Music']",FALSE,0
+30945,Mind Prey,3/22/1999,0,0,['Nicole Ari Parker'],"['Action', 'Drama', 'Thriller']",FALSE,90
+118063,Spark,1/16/1998,0,0,['Nicole Ari Parker'],"['Drama', 'Thriller']",FALSE,103
+395791,Secret Lives of Husbands and Wives,1/1/2013,0,0,['Nicole Ari Parker'],"['TV Movie', 'Drama', 'Thriller']",FALSE,60
+537061,Steven Universe: The Movie,9/2/2019,0,0,['Toks Olagundoye'],"['Animation', 'Adventure', 'Comedy', 'Family', 'Fantasy', 'Music', 'Action', 'Drama']",FALSE,82
+487670,The Death of Superman,7/24/2018,0,0,['Toks Olagundoye'],"['Animation', 'Action', 'Drama', 'Science Fiction']",TRUE,81
+423949,Unicorn Store,9/11/2017,0,0,['Toks Olagundoye'],"['Fantasy', 'Drama', 'Comedy']",FALSE,92
+477510,Dog Days,8/10/2018,0,0,['Toks Olagundoye'],"['Comedy', 'Romance', 'Drama']",FALSE,112
+9829,United 93,4/28/2006,15000000,76286096,['Opal Alladin'],"['Drama', 'History', 'Crime', 'Thriller', 'Action']",FALSE,111
+317091,November Criminals,12/8/2017,0,0,['Opal Alladin'],"['Crime', 'Drama', 'Mystery', 'Thriller']",FALSE,86
+364756,Jellysmoke,6/17/2005,0,0,['Opal Alladin'],"['Romance', 'Drama']",FALSE,90
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,," $9,213,888,146.00 "," $25,185,061,293.00 ",,,,
