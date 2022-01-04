@@ -1,0 +1,17 @@
+Application run on example_name_file.txt using drama as a search genre with 868 result(s)
+
+Program lines: 
+What file contains your list of names? (include extension) Or type 'manual' to enter names manually.
+example_name_file
+File not recognized. Try again or type 'manual' to enter names manually.
+example_name_file.txt
+Searching actors, directors, or both?
+actors
+Any particular genre to search? Type 'done' if no or type 'all' to see all available genres.
+all
+Available genres are Action, Adventure, Animation, Comedy, Crime, Documentary, Drama, Family, Fantasy, History, Horror, Music, Mystery, Romance, Science Fiction, TV Movie, Thriller, War and Western. Enter one of these or press 'done' to continue.
+drama
+Add another genre, type 'done' to continue, or type 'all' to see all available genres.
+done
+What name should the csv and json files be saved under? Or type 'print' to see results on command line.
+Example
